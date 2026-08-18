@@ -1,86 +1,86 @@
-Study,Experiment,Subject,Group,Age,Sex,Ethnicity,AmericanIndian_AlaskaNative),Asian,NativeHawaiian_PacificIslander,Black_African American,White_Caucasian,MoreThanOneRace,Other,PreferNotToReport),Complete?
-vsgame,exp01,120,Active,19,Female,Not Hispanic or Latino,0,0,0,1,1,0,0,0,Complete
-vsgame,exp01,121,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,122,Active,22,Female,Prefer Not to Report,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,123,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,124,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,125,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,126,Active,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,127,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,128,Active,20,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,129,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,130,Active,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,131,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,132,Active,19,Male,Not Hispanic or Latino,0,0,0,0,0,0,1,0,Complete
-vsgame,exp01,133,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,134,Active,19,Female,Hispanic or Latino,0,0,0,1,1,0,0,0,Complete
-vsgame,exp01,135,Active,18,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,136,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,137,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,138,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,139,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,140,Active,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,141,Active,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,141,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,142,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,143,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,144,Active,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,145,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,146,Active,22,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,147,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,148,Active,20,Male,Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,149,Active,20,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,150,Active,21,Male,Not Hispanic or Latino,0,0,0,1,0,0,0,0,Complete
-vsgame,exp01,151,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,154,Active,19,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,156,Active,20,Female,Not Hispanic or Latino,0,0,0,1,0,0,0,0,Complete
-vsgame,exp01,157,Active,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,158,Active,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,159,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,160,Active,20,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,162,Active,21,Male,Not Hispanic or Latino,0,0,0,1,1,0,0,0,Complete
-vsgame,exp01,163,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,164,Active,18,Female,Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,165,Active,20,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,166,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,167,Active,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,220,Passive,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,221,Passive,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,222,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,223,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,224,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,225,Passive,18,Female,Prefer Not to Report,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,226,Passive,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,227,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,228,Passive,19,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,229,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,231,Passive,20,Male,Not Hispanic or Latino,0,1,1,0,0,0,0,0,Complete
-vsgame,exp01,232,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,233,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,234,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,1,0,0,0,Complete
-vsgame,exp01,235,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,236,Passive,21,Male,Hispanic or Latino,0,1,1,0,0,1,0,0,Complete
-vsgame,exp01,237,Passive,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,238,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,239,Passive,18,Female,Not Hispanic or Latino,0,0,0,1,0,0,0,0,Complete
-vsgame,exp01,240,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,242,Passive,21,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,243,Passive,21,female ,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,244,Passive,19,Female,Hispanic or Latino,0,0,0,0,0,0,1,0,Complete
-vsgame,exp01,245,Passive,21,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,246,Passive,20,Female,Not Hispanic or Latino,0,0,0,0,0,1,0,0,Complete
-vsgame,exp01,247,Passive,21,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,248,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,249,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,250,Passive,18,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,251,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,254,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,256,Passive,19,Male,Hispanic or Latino,0,0,0,0,0,0,0,1,Complete
-vsgame,exp01,257,Passive,21,Male,Hispanic or Latino,0,0,0,0,0,1,0,0,Complete
-vsgame,exp01,258,Passive,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,259,Passive,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,260,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,263,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,265,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0,Complete
-vsgame,exp01,266,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0,Complete
-vsgame,exp01,267,Passive,18,Female,Prefer Not to Report,0,0,0,0,0,0,0,1,Complete
+Study,Experiment,Subject,Group,Age,Sex,Ethnicity,AmericanIndian_AlaskaNative,Asian,NativeHawaiian_PacificIslander,Black_African American,White_Caucasian,MoreThanOneRace,Other,PreferNotToReport
+vsgame,exp01,120,Active,19,Female,Not Hispanic or Latino,0,0,0,1,1,0,0,0
+vsgame,exp01,121,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,122,Active,22,Female,Prefer Not to Report,0,0,0,0,1,0,0,0
+vsgame,exp01,123,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,124,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,125,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,126,Active,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,127,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,128,Active,20,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,129,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,130,Active,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,131,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,132,Active,19,Male,Not Hispanic or Latino,0,0,0,0,0,0,1,0
+vsgame,exp01,133,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,134,Active,19,Female,Hispanic or Latino,0,0,0,1,1,0,0,0
+vsgame,exp01,135,Active,18,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,136,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,137,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,138,Active,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,139,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,140,Active,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,141,Active,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,141,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,142,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,143,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,144,Active,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,145,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,146,Active,22,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,147,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,148,Active,20,Male,Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,149,Active,20,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,150,Active,21,Male,Not Hispanic or Latino,0,0,0,1,0,0,0,0
+vsgame,exp01,151,Active,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,154,Active,19,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,156,Active,20,Female,Not Hispanic or Latino,0,0,0,1,0,0,0,0
+vsgame,exp01,157,Active,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,158,Active,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,159,Active,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,160,Active,20,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,162,Active,21,Male,Not Hispanic or Latino,0,0,0,1,1,0,0,0
+vsgame,exp01,163,Active,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,164,Active,18,Female,Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,165,Active,20,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,166,Active,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,167,Active,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,220,Passive,20,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,221,Passive,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,222,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,223,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,224,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,225,Passive,18,Female,Prefer Not to Report,0,0,0,0,1,0,0,0
+vsgame,exp01,226,Passive,21,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,227,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,228,Passive,19,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,229,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,231,Passive,20,Male,Not Hispanic or Latino,0,1,1,0,0,0,0,0
+vsgame,exp01,232,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,233,Passive,19,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,234,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,1,0,0,0
+vsgame,exp01,235,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,236,Passive,21,Male,Hispanic or Latino,0,1,1,0,0,1,0,0
+vsgame,exp01,237,Passive,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,238,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,239,Passive,18,Female,Not Hispanic or Latino,0,0,0,1,0,0,0,0
+vsgame,exp01,240,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,242,Passive,21,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,243,Passive,21,female ,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,244,Passive,19,Female,Hispanic or Latino,0,0,0,0,0,0,1,0
+vsgame,exp01,245,Passive,21,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,246,Passive,20,Female,Not Hispanic or Latino,0,0,0,0,0,1,0,0
+vsgame,exp01,247,Passive,21,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,248,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,249,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,250,Passive,18,Male,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,251,Passive,18,Male,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,254,Passive,19,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,256,Passive,19,Male,Hispanic or Latino,0,0,0,0,0,0,0,1
+vsgame,exp01,257,Passive,21,Male,Hispanic or Latino,0,0,0,0,0,1,0,0
+vsgame,exp01,258,Passive,19,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,259,Passive,21,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,260,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,263,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,265,Passive,18,Female,Not Hispanic or Latino,0,1,0,0,0,0,0,0
+vsgame,exp01,266,Passive,18,Female,Not Hispanic or Latino,0,0,0,0,1,0,0,0
+vsgame,exp01,267,Passive,18,Female,Prefer Not to Report,0,0,0,0,0,0,0,1

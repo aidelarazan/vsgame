@@ -1,1 +1,30 @@
 # vsgame
+
+## Project Description
+[PsyArXiv Preprint](https://osf.io/preprints/psyarxiv/paq8e_v1)
+
+[Open Science Framework](https://osf.io/9pfmk/)
+
+Agency, or the ability to exert control over one’s own experience, enhances memory relative to passive observation. However, it remains unclear whether agency only benefits information an individual directly acts on, or if its benefits extend to the fidelity that the broad experience is represented in memory.also enhances the fidelity with which experiences are represented in memory, or whether its benefits are limited to information directly shaped through action. Across two experiments, participants encoded objects and their locations while exploring a series of rooms, either controlling object placements themselves (Active) or observing the same sequence of events without control (Passive). Memory was assessed using the Mnemonic Similarity Task (MST), along with tests of object-spatial placement and descriptive recall. Critically, mnemonic discrimination required retaining perceptual details beyond what the object-spatial placement task demanded. In Experiment 1, agency enhanced basic object recognition, mnemonic discrimination, and object description recall, but not object-spatial placement. Experiment 2 used a within-subjects design, a recognition-based spatial test with lower retrieval demands, and attention ratings collected throughout encoding. Agency again enhanced mnemonic discrimination, and its benefits extended to object-spatial placement and recall of both object and room descriptions. These effects remained after accounting for self-reported attention during encoding. Together, the findings provide the first evidence show that agency enhances mnemonic discrimination on the MST and suggests show that its benefits extend beyond information directly controlled, influencing both the detail of individual object representations and memory for the broader context in which they were encountered.
+
+### Experimental Design
+Encoding Phase: Participants were introduced to the Visuospatial Game consisting of an Object Description Task and Object-Spatial Placement Task. Critically, Active participants played the Visuospatial Game, while Passive participants viewed a replay of an Active participant’s gameplay.
+  * Object Description Task: Within each room, participants were instructed to learn a description of each object’s special capability (e.g., “This object has unlimited memory capacity”), which were unnatural traits to invalidate guessing during recall.
+  * Object-Spatial Placement Task: Objects appeared in randomized locations within each room alongside pre-determined target locations. Participants were instructed to drag and drop each object to a predetermined target location with the goal of placing all the objects in the correct location. Participants received feedback indicating whether each placement was correct and if any of the objects were incorrectly placed, participants repeated the trial until all objects were placed correctly.
+
+Retrieval Phase: While Encoding Phase consisted of participants either playing (Active) or observing (Passive) the Visuospatial Game, all participants completed identical Retrieval Phase consisting of 3 memory tasks assessing object recognition, object description memory, and object-spatial placement memory.
+  * Mnemonic Similarity Task (MST): The Mnemonic Similarity Task (MST) is a well-established recognition memory paradigm designed to assess both basic recognition memory and fine-grained mnemonic discrimination (Stark et al., 2019). Participants were presented an object at the center of the screen and judged whether the object was “Old” (an original target seen during the Encoding Phase), “Similar” (a highly similar but non-target lure), or “New” (a foil object not seen during the Encoding Phase). Basic Object Recognition (d’) and the Lure Discrimination Index (LDI; Stark et al., 2019) was calculated.
+  * Object-Spatial Placement Test: Participants were instructed to drag the object to its correct target location from the Visuospatial Game. In Experiment 1, spatial memory accuracy was quantified as the Euclidean distance, in pixels, between the participant’s response coordinate and the correct target coordinate, such that lower scores indicate more accurate spatial memory. In Experiment 2, a recognition-based version of the Object-Spatial Placement Test was introduced where participants were presented with the room in which the object was encountered during the Encoding Phase, along with 3 markers indicating the object’s possible target locations. Participants dragged the object to the marker they believed matched its correct target location. Each placement was scored as correct or incorrect, and spatial memory accuracy was calculated as the proportion of objects correctly placed.
+  * Object Description Recall: Participants were then presented a blank textbox and prompted to type what they remembered about the object’s special capability as presented during the Visuospatial Game. Responses were scored with semantic sentence embeddings using Google’s Universal Sentence Encoder (USE; Cer et al., 2018). Each participant’s response was compared with the correct description using cosine similarity between sentence-level embedding vectors. Higher values indicated greater semantic similarity between the recalled and correct descriptions.
+  * Room Description Recall (Experiment 2 Only): The Room Description Test assessed memory for the room descriptions presented during the Encoding Phase. Participants were presented each room and prompted to type what they remembered about the room’s special capability. Responses were scored using the same procedure as the Object Description Task.
+    
+## Folder Structure
+ * [data](./data/)
+ * [docs](./docs/)
+ * [scripts](./scripts/)
+    * [analyses](./scripts/analyses/)
+    * [experiment](./scripts/experiment/)
+ * [README.md](./README.md)
+
+## Contact
+Angelique I. Delarazan | aidelarazan@arizona.edu | https://aidelarazan.github.io/

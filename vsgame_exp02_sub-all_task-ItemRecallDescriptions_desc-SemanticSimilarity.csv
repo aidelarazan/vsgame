@@ -1,0 +1,1117 @@
+subject,condition,experiment,task,item,item_category,recall,original_description,semantic_similarity
+103,Active,exp02,recall,postcard,lure,ariving where its sent,This item automatically sends itself to the posted location.,0.24531992
+103,Passive,exp02,recall,mailbox,target,not sure,This item can receive mail from anywhere instantaneously.,-0.05041683
+103,Active,exp02,recall,camcorder,target,not sure,This item has unlimited memory capacity.,0.009812444
+103,Passive,exp02,recall,paperairplane,target,can only go one durection,This item can fly to anywhere if you toss it.,0.22702822
+103,Active,exp02,recall,ladle,lure,cant hold liquid,This item cannot hold any liquid.,0.6602147
+103,Active,exp02,recall,binoculars,target,can see through items,This item can be used to see through any object.,0.62534165
+103,Passive,exp02,recall,walkietalkie,lure,not sure,This item has an unlimited range.,-0.019503485
+103,Active,exp02,recall,frame,lure,can only see black and white,This item can only be used for black and white photographs.,0.47496307
+103,Active,exp02,recall,cactus,target,holds water,This item contains tea within its arms.,0.16944538
+103,Passive,exp02,recall,mallet,lure,not sure,This item fixes anything you hit with it.,0.005083751
+103,Passive,exp02,recall,gavel,target,held by kids,This item can only be held by children.,0.31267485
+103,Active,exp02,recall,cereal,lure,not sure,This item makes you fall asleep if eaten.,-0.028710037
+103,Active,exp02,recall,piggybank,target,holds money but empty once broken,"This item is full until you break it, then it becomes empty.",0.5218046
+103,Active,exp02,recall,bikepump,lure,can deflate,This item can only be used to deflate tires.,0.45392573
+103,Active,exp02,recall,violin,lure,sound like trumpet,This item sounds like a trumpet when played.,0.6945627
+103,Passive,exp02,recall,starfish,lure,not sure,"This item can be used to wish for anything, but only once.",-0.05815752
+103,Active,exp02,recall,broom,target,can create dust,This item collects more dust the more you sweep with it.,0.3662761
+103,Passive,exp02,recall,shoppingcart,lure,hold only one item,This item can move without being pushed.,0.20351905
+103,Passive,exp02,recall,straightener,target,make curly,This item gets colder the longer it is left on.,-0.10636296
+103,Passive,exp02,recall,cinnamonroll,target,not sure,"This item tastes like carrots, not cinnamon.",0.001456956
+103,Passive,exp02,recall,landline,lure,can only send voicemail,"This item can reach any number, but cannot be answered.",0.31972045
+103,Active,exp02,recall,trumpet,lure,not sure,This item can only play one note.,-0.009606406
+103,Passive,exp02,recall,toiletpaper,lure,can give dirt,This item cannot be torn.,0.16735046
+103,Active,exp02,recall,skates,target,can be used on anything but ice,This item can skate on any surface except ice.,0.5761399
+103,Passive,exp02,recall,rubikscube,target,insolvable,This item scrambles itself if you try to solve it.,0.053087734
+103,Active,exp02,recall,fishbowl,target,can never spill,"This item cannot spill water, no matter how much you shake it.",0.4911046
+103,Active,exp02,recall,dartboard,target,attracts darts,This item attracts darts that are thrown at it.,0.7100208
+103,Active,exp02,recall,hairclip,lure,can hold one thing,This item can grasp everything except hair.,0.2779438
+103,Passive,exp02,recall,curler,lure,not sure,This item can only curl hair that is already curly.,0.013419125
+103,Passive,exp02,recall,measuringspoon,target,can spill,This item changes size as you fill it up.,0.0374538
+103,Active,exp02,recall,wateringcan,lure,be used to get water,This item soaks up water from plants.,0.38207883
+103,Passive,exp02,recall,pear,lure,not sure,This item grants invisibility to anyone who bites it.,0.03978172
+103,Passive,exp02,recall,pretzel,target,not sure,This item unknots and ties itself back together.,-0.08066991
+103,Active,exp02,recall,cooler,target,keeps one item cool,This item holds everything below freezing temperature.,0.27278292
+103,Passive,exp02,recall,discoball,target,spins when you dance,This item only spins if you dance.,0.7532321
+103,Passive,exp02,recall,coffeefilter,lure,hold only liquids,This item can be used to brew any liquid into coffee.,0.18480355
+109,Active,exp02,recall,alarmclock,target,It goes off after you wake,This item only goes off after you wake up.,0.5970213
+109,Active,exp02,recall,trumpet,lure,It only plays one note,This item can only play one note.,0.7062303
+109,Passive,exp02,recall,measuringspoon,target,It doesn't measure ,This item changes size as you fill it up.,0.20033208
+109,Active,exp02,recall,laptop,target,It only works in rooms with no internet,This item works only in areas without internet connection.,0.5724468
+109,Passive,exp02,recall,paperairplane,target,It flies in the opposite direction from where it is thrown.,This item can fly to anywhere if you toss it.,0.43437093
+109,Active,exp02,recall,hairclip,lure,It doesn't hold hair,This item can grasp everything except hair.,0.53296494
+109,Active,exp02,recall,headphones,lure,It extracts sounds,This item inverts all sounds when worn.,0.27090228
+109,Active,exp02,recall,ladle,lure,It doesn't hold liquids,This item cannot hold any liquid.,0.64942735
+109,Active,exp02,recall,exitsign,target,It shows you the furthest exit,This item points towards the farthest exit.,0.63386995
+109,Active,exp02,recall,grater,lure,It makes food items whole,This item can be used to turn shredded food into whole food.,0.4761758
+109,Active,exp02,recall,mortarpestle,lure,It pulverizes with one strike.,This item crushes anything with a single tap.,0.25266632
+109,Passive,exp02,recall,iron,lure,It makes smooth fabrics wrinkly,This item can wrinkle any fabric.,0.488459
+109,Passive,exp02,recall,shoppingcart,lure,It doesn't carry groceries.,This item can move without being pushed.,0.29827327
+109,Passive,exp02,recall,applecore,target,It does not keep the doctor away,"This item grows into any tree desired, if tossed.",0.046236314
+109,Active,exp02,recall,jug,target,It doesn't pour water,"This item never empties, no matter how much you pour out of it.",0.26222473
+109,Passive,exp02,recall,mailbox,target,It sends mail away,This item can receive mail from anywhere instantaneously.,0.45645827
+109,Active,exp02,recall,postcard,lure,It ships itself to the place on the postmark,This item automatically sends itself to the posted location.,0.29325682
+109,Passive,exp02,recall,pretzel,target,It is not consumed,This item unknots and ties itself back together.,0.06972279
+109,Active,exp02,recall,recorder,lure,It only plays one note,This item can only play the note D.,0.65779775
+109,Passive,exp02,recall,bowlingball,lure,It rolls in the opposite direction,This item weighs whatever weight you choose it to weigh.,0.073106885
+109,Passive,exp02,recall,cake,target,It is not eaten,This item turns into any flavor you want when you cut it.,0.09589873
+109,Active,exp02,recall,bikepump,lure,It deflates,This item can only be used to deflate tires.,0.21803612
+109,Passive,exp02,recall,microscope,target,It makes things appear bigger,This item physically enlarges any object it focuses on.,0.340222
+109,Passive,exp02,recall,hanger,lure,Everything placed on it falls to the ground.,This item instantly appears with the outfit of your choice.,0.04032615
+109,Active,exp02,recall,donut,target,It is not sweet,This item disappears if you try to eat it.,0.12202726
+109,Passive,exp02,recall,landline,lure,It is used as a paper weight,"This item can reach any number, but cannot be answered.",0.13845816
+109,Passive,exp02,recall,gramophone,target,It pulls  sound out of the air,This item plays music backwards.,0.2690909
+109,Active,exp02,recall,skates,target,Can skate on any surface but ice.,This item can skate on any surface except ice.,0.85899115
+109,Active,exp02,recall,broom,target,Creates more dust  the more it sweeps,This item collects more dust the more you sweep with it.,0.6795805
+109,Passive,exp02,recall,coffeefilter,lure,Makes coffee dirtier,This item can be used to brew any liquid into coffee.,0.41175902
+109,Active,exp02,recall,piggybank,target,Doesn't hold coins,"This item is full until you break it, then it becomes empty.",0.22781272
+109,Passive,exp02,recall,rubikscube,target,Can't be solved,This item scrambles itself if you try to solve it.,0.24307016
+109,Active,exp02,recall,binoculars,target,Makes things appear closer,This item can be used to see through any object.,0.12804903
+109,Passive,exp02,recall,seashell,lure,Is not a home to crustaceans.,This item can be used to hear city streets.,0.011504353
+109,Passive,exp02,recall,toiletpaper,lure,Doesn't do  what toilet paper does,This item cannot be torn.,0.23371613
+109,Passive,exp02,recall,pen,lure,Can't write,This item can only write in invisible ink.,0.36896324
+113,Active,exp02,recall,postcard,lure,sent from someone importanrt,This item automatically sends itself to the posted location.,0.17668189
+113,Passive,exp02,recall,hanger,lure,hanging clothes,This item instantly appears with the outfit of your choice.,0.1589114
+113,Active,exp02,recall,jacket,lure,keeping you warm,This item makes you feel colder when you wear it.,0.381753
+113,Passive,exp02,recall,seashell,lure,hearing the ocean,This item can be used to hear city streets.,0.0917149
+113,Passive,exp02,recall,rubikscube,target,solving problems and time,This item scrambles itself if you try to solve it.,0.21582395
+113,Active,exp02,recall,ladle,lure,stirring the pot,This item cannot hold any liquid.,0.15152755
+113,Passive,exp02,recall,gavel,target,laying the law,This item can only be held by children.,-0.11761821
+113,Active,exp02,recall,cactus,target,attacking,This item contains tea within its arms.,-0.055636294
+113,Passive,exp02,recall,cake,target,sweet and delicious,This item turns into any flavor you want when you cut it.,0.18363982
+113,Passive,exp02,recall,coffeefilter,lure,filtering,This item can be used to brew any liquid into coffee.,0.106551394
+113,Passive,exp02,recall,paperairplane,target,gliding,This item can fly to anywhere if you toss it.,0.24865992
+113,Passive,exp02,recall,flask,target,hidden treat,This item holds unlimited liquid.,0.073723175
+113,Active,exp02,recall,alarmclock,target,alarms,This item only goes off after you wake up.,0.309143
+113,Passive,exp02,recall,hairdryer,lure,dry,"This item can be used to dry anything, except hair.",0.24782108
+113,Passive,exp02,recall,straightener,target,straightner,This item gets colder the longer it is left on.,0.109377414
+113,Passive,exp02,recall,measuringspoon,target,testing,This item changes size as you fill it up.,-0.053299926
+113,Active,exp02,recall,duster,target,cleaning,This item makes makes things sparkle just by dusting it.,0.15334249
+113,Active,exp02,recall,binoculars,target,seeing,This item can be used to see through any object.,0.13451065
+113,Active,exp02,recall,laptop,target,exploring,This item works only in areas without internet connection.,-0.03275428
+113,Passive,exp02,recall,mailbox,target,delivery,This item can receive mail from anywhere instantaneously.,0.18296942
+113,Passive,exp02,recall,pear,lure,fruit,This item grants invisibility to anyone who bites it.,-0.064551204
+113,Passive,exp02,recall,starfish,lure,star,"This item can be used to wish for anything, but only once.",0.16590217
+113,Active,exp02,recall,violin,lure,music,This item sounds like a trumpet when played.,0.1009202
+113,Active,exp02,recall,soccerball,target,soccer,"This item can be kicked, but always rolls back to where it started.",0.044649556
+113,Active,exp02,recall,donut,target,donuts,This item disappears if you try to eat it.,0.10319719
+113,Passive,exp02,recall,discoball,target,disco,This item only spins if you dance.,0.31285822
+113,Active,exp02,recall,remote,target,remote,This item can control any device that is not in the same room.,0.22408445
+113,Passive,exp02,recall,landline,lure,phone,"This item can reach any number, but cannot be answered.",0.16482481
+113,Active,exp02,recall,headphones,lure,headphones,This item inverts all sounds when worn.,0.11118615
+113,Active,exp02,recall,recorder,lure,recorder,This item can only play the note D.,0.22727719
+113,Active,exp02,recall,piggybank,target,piggy,"This item is full until you break it, then it becomes empty.",0.06615175
+113,Active,exp02,recall,blender,lure,blender,This item can be used to un-blend any slurry.,0.07497104
+113,Passive,exp02,recall,pen,lure,pen,This item can only write in invisible ink.,0.36369658
+113,Passive,exp02,recall,mallet,lure,hammer,This item fixes anything you hit with it.,0.075835556
+113,Active,exp02,recall,trumpet,lure,trumpet,This item can only play one note.,0.10596539
+113,Active,exp02,recall,frame,lure,frame,This item can only be used for black and white photographs.,0.13506866
+116,Active,exp02,recall,hairclip,lure,hold anything except hair,This item can grasp everything except hair.,0.5456645
+116,Active,exp02,recall,bikepump,lure,"This item can inflate things with air, like balls or tires.",This item can only be used to deflate tires.,0.6415761
+116,Passive,exp02,recall,hanger,lure,hold eveyrthing,This item instantly appears with the outfit of your choice.,-0.039049603
+116,Passive,exp02,recall,dogbowl,target,This item can hold food or water for a pet.,This item fills up by itself.,0.26250163
+116,Passive,exp02,recall,milkshake,lure,,This item tastes like anything you wish for it to taste like.,0.014902599
+116,Active,exp02,recall,grater,lure,n/A,This item can be used to turn shredded food into whole food.,-0.05638821
+116,Active,exp02,recall,trumpet,lure,,This item can only play one note.,-0.020335604
+116,Active,exp02,recall,wateringcan,lure,,This item soaks up water from plants.,-0.003618232
+116,Active,exp02,recall,frame,lure,,This item can only be used for black and white photographs.,-0.025876582
+116,Passive,exp02,recall,bowlingball,lure,,This item weighs whatever weight you choose it to weigh.,0.034238145
+116,Passive,exp02,recall,spaceship,target,,"This item can fly into space, but won't come back.",0.014394617
+116,Passive,exp02,recall,tennisball,target,,This item does not bounce when you hit it.,0.004071827
+116,Passive,exp02,recall,toiletpaper,lure,,This item cannot be torn.,0.021162901
+116,Passive,exp02,recall,gramophone,target,,This item plays music backwards.,-0.037645135
+116,Active,exp02,recall,exitsign,target,n/a\n,This item points towards the farthest exit.,-0.087779924
+116,Passive,exp02,recall,hairdryer,lure,,"This item can be used to dry anything, except hair.",-0.039558657
+116,Active,exp02,recall,duster,target,,This item makes makes things sparkle just by dusting it.,-0.030540664
+116,Active,exp02,recall,binoculars,target,,This item can be used to see through any object.,-0.066939704
+116,Active,exp02,recall,fishbowl,target,,"This item cannot spill water, no matter how much you shake it.",0.04009171
+116,Active,exp02,recall,headphones,lure,,This item inverts all sounds when worn.,-0.052549753
+116,Passive,exp02,recall,mailbox,target,,This item can receive mail from anywhere instantaneously.,-0.036302514
+116,Passive,exp02,recall,starfish,lure,,"This item can be used to wish for anything, but only once.",-0.024965338
+116,Passive,exp02,recall,cake,target,,This item turns into any flavor you want when you cut it.,-0.028056668
+116,Passive,exp02,recall,rubikscube,target,b/a,This item scrambles itself if you try to solve it.,0.05714638
+116,Active,exp02,recall,soccerball,target,,"This item can be kicked, but always rolls back to where it started.",-0.015759485
+116,Passive,exp02,recall,walkietalkie,lure,,This item has an unlimited range.,-0.011129776
+116,Passive,exp02,recall,pear,lure,,This item grants invisibility to anyone who bites it.,-0.04415672
+116,Passive,exp02,recall,straightener,target,,This item gets colder the longer it is left on.,0.000626348
+116,Passive,exp02,recall,applecore,target,,"This item grows into any tree desired, if tossed.",-0.0684176
+116,Active,exp02,recall,piggybank,target,,"This item is full until you break it, then it becomes empty.",-0.007812547
+116,Active,exp02,recall,donut,target,,This item disappears if you try to eat it.,-0.004505064
+116,Active,exp02,recall,gumballmachine,lure,,This item dispenses candy that heals your jaw.,0.08239916
+116,Passive,exp02,recall,pen,lure,,This item can only write in invisible ink.,0.017243374
+116,Active,exp02,recall,remote,target,,This item can control any device that is not in the same room.,-0.021427525
+116,Active,exp02,recall,doghouse,lure,,This item adapts to fit the size of any dog that sits in it.,-0.036802266
+116,Active,exp02,recall,broom,target,,This item collects more dust the more you sweep with it.,0.002540554
+126,Active,exp02,recall,trumpet,lure,It can stop sound?,This item can only play one note.,0.12612373
+126,Passive,exp02,recall,discoball,target,Block light ,This item only spins if you dance.,0.040968735
+126,Passive,exp02,recall,coffeefilter,lure,I dont remember ,This item can be used to brew any liquid into coffee.,-0.0922064
+126,Active,exp02,recall,cooler,target,Don't remember ,This item holds everything below freezing temperature.,-0.029775536
+126,Passive,exp02,recall,tennisball,target,Bounce high ,This item does not bounce when you hit it.,0.36918443
+126,Active,exp02,recall,hairclip,lure,tight grip ,This item can grasp everything except hair.,0.002808933
+126,Active,exp02,recall,blender,lure,sharp blades,This item can be used to un-blend any slurry.,-0.013795343
+126,Active,exp02,recall,frame,lure,dont remember ,This item can only be used for black and white photographs.,-0.023700422
+126,Active,exp02,recall,camcorder,target,infinite memory ,This item has unlimited memory capacity.,0.5634002
+126,Active,exp02,recall,violin,lure,infinite sound ,This item sounds like a trumpet when played.,0.19481865
+126,Passive,exp02,recall,landline,lure,no idea,"This item can reach any number, but cannot be answered.",0.06778863
+126,Active,exp02,recall,broom,target,clean anything ,This item collects more dust the more you sweep with it.,0.1841139
+126,Active,exp02,recall,piggybank,target,holds infinite money ,"This item is full until you break it, then it becomes empty.",0.21302052
+126,Active,exp02,recall,jug,target,never gets empty ,"This item never empties, no matter how much you pour out of it.",0.4145674
+126,Passive,exp02,recall,gavel,target,doesn't break ,This item can only be held by children.,0.117279954
+126,Active,exp02,recall,ladle,lure,can't remember ,This item cannot hold any liquid.,0.1176119
+126,Passive,exp02,recall,pen,lure,I dont remember :((,This item can only write in invisible ink.,-0.017689347
+126,Passive,exp02,recall,bowlingball,lure,i don't remember ,This item weighs whatever weight you choose it to weigh.,-0.015625447
+126,Passive,exp02,recall,milkshake,lure,energy boost ,This item tastes like anything you wish for it to taste like.,0.15347537
+126,Passive,exp02,recall,hanger,lure,holds any weight ,This item instantly appears with the outfit of your choice.,0.0640467
+126,Active,exp02,recall,gumballmachine,lure,never runs out of gum balls,This item dispenses candy that heals your jaw.,0.32853097
+126,Active,exp02,recall,postcard,lure,I have no idea,This item automatically sends itself to the posted location.,0.020487737
+126,Active,exp02,recall,cactus,target,Can't remember after those long boring vidoes :((,This item contains tea within its arms.,-0.06452152
+126,Passive,exp02,recall,gramophone,target,sound is strong ,This item plays music backwards.,0.16748534
+126,Passive,exp02,recall,cake,target,sweet ,This item turns into any flavor you want when you cut it.,0.110719904
+126,Passive,exp02,recall,measuringspoon,target,I have no idea,This item changes size as you fill it up.,-0.07679625
+126,Passive,exp02,recall,curler,lure,"When was this an object, I dont remember :(((",This item can only curl hair that is already curly.,0.10902493
+126,Active,exp02,recall,binoculars,target,No idea,This item can be used to see through any object.,-0.09239397
+126,Passive,exp02,recall,pretzel,target,"No idea, forgot",This item unknots and ties itself back together.,-0.052639566
+126,Passive,exp02,recall,tapemeasure,lure,Never runs out of tape,This item can measure an unlimited length.,0.14531492
+126,Active,exp02,recall,duster,target,cleans anything ,This item makes makes things sparkle just by dusting it.,0.2864122
+126,Passive,exp02,recall,applecore,target,I cannot recall,"This item grows into any tree desired, if tossed.",-0.017945368
+126,Passive,exp02,recall,pear,lure,Lots of energy ,This item grants invisibility to anyone who bites it.,0.006339818
+126,Active,exp02,recall,grater,lure,I cannot remember ,This item can be used to turn shredded food into whole food.,0.065287724
+126,Active,exp02,recall,remote,target,can control from any distance,This item can control any device that is not in the same room.,0.30942136
+126,Passive,exp02,recall,mailbox,target,sends mail anywhere,This item can receive mail from anywhere instantaneously.,0.51395977
+128,Active,exp02,recall,alarmclock,target,I don't know. ,This item only goes off after you wake up.,-0.09350535
+128,Active,exp02,recall,binoculars,target,See's through walls. ,This item can be used to see through any object.,0.14894348
+128,Active,exp02,recall,grater,lure,Turns shaved foods back into it's whole food.,This item can be used to turn shredded food into whole food.,0.47652555
+128,Active,exp02,recall,duster,target,Anything it cleans makes it sparkle. ,This item makes makes things sparkle just by dusting it.,0.6324178
+128,Passive,exp02,recall,pen,lure,I don't know. ,This item can only write in invisible ink.,0.034573674
+128,Passive,exp02,recall,pear,lure,I don't know. ,This item grants invisibility to anyone who bites it.,-0.001973355
+128,Active,exp02,recall,recorder,lure,It can only play one note. ,This item can only play the note D.,0.70397854
+128,Passive,exp02,recall,cinnamonroll,target,It doesn't taste like cinnamon. ,"This item tastes like carrots, not cinnamon.",0.6585309
+128,Passive,exp02,recall,walkietalkie,lure,It can talk over unlimited distance. ,This item has an unlimited range.,0.42334533
+128,Active,exp02,recall,cereal,lure,I don't remember. ,This item makes you fall asleep if eaten.,-0.015465753
+128,Passive,exp02,recall,rubikscube,target,"Anytime you try to solve it, it will scramble itself. ",This item scrambles itself if you try to solve it.,0.66002524
+128,Active,exp02,recall,remote,target,It only works on devices not in the room. ,This item can control any device that is not in the same room.,0.58958733
+128,Passive,exp02,recall,microscope,target,I don't remember.\n,This item physically enlarges any object it focuses on.,-0.10046983
+128,Passive,exp02,recall,hanger,lure,It will automatically choose what you want to wear.,This item instantly appears with the outfit of your choice.,0.44981414
+128,Passive,exp02,recall,flask,target,It can hold infinite liquid. ,This item holds unlimited liquid.,0.69044983
+128,Active,exp02,recall,doghouse,lure,It will adjust to the size of any dog. ,This item adapts to fit the size of any dog that sits in it.,0.72206414
+128,Active,exp02,recall,jug,target,It pour an infinite amount. ,"This item never empties, no matter how much you pour out of it.",0.33695844
+128,Active,exp02,recall,laptop,target,It only works where there isn't internet. ,This item works only in areas without internet connection.,0.4859794
+128,Active,exp02,recall,violin,lure,It makes the sound of a trumpet. ,This item sounds like a trumpet when played.,0.65648663
+128,Passive,exp02,recall,paperairplane,target,It fly any amount of distance. ,This item can fly to anywhere if you toss it.,0.37303585
+128,Passive,exp02,recall,applecore,target,If throw it down you can choose any tree to grow. ,"This item grows into any tree desired, if tossed.",0.6462021
+128,Passive,exp02,recall,discoball,target,It only spins if someones dancing. ,This item only spins if you dance.,0.76266813
+128,Active,exp02,recall,exitsign,target,Its placed farthest away from nearest exit. ,This item points towards the farthest exit.,0.59725416
+128,Passive,exp02,recall,curler,lure,I dont know,This item can only curl hair that is already curly.,0.017094402
+128,Passive,exp02,recall,dogbowl,target,I dont know. ,This item fills up by itself.,-0.123245634
+128,Active,exp02,recall,jacket,lure,I dont know. ,This item makes you feel colder when you wear it.,-0.109711446
+128,Passive,exp02,recall,toiletpaper,lure,It's untearable. ,This item cannot be torn.,0.08481063
+128,Passive,exp02,recall,pretzel,target,If unknotted it will knot itself back,This item unknots and ties itself back together.,0.3854093
+128,Active,exp02,recall,donut,target,I dont know.,This item disappears if you try to eat it.,-0.07128418
+128,Active,exp02,recall,wateringcan,lure,it takes water away from plants. ,This item soaks up water from plants.,0.64710903
+128,Active,exp02,recall,ladle,lure,it can't pick up water,This item cannot hold any liquid.,0.452044
+128,Active,exp02,recall,fountain,lure,It pours out pennies.,This item pours pennies if you toss water into it.,0.64118063
+128,Active,exp02,recall,cactus,target,It's arms are full of tea. ,This item contains tea within its arms.,0.61742353
+128,Passive,exp02,recall,iron,lure,it wrinkles clothes.\n,This item can wrinkle any fabric.,0.45903513
+128,Passive,exp02,recall,boot,lure,It can adjust to any size. ,This item raises to any length desired.,0.22358106
+128,Passive,exp02,recall,shoppingcart,lure,It can push itself. ,This item can move without being pushed.,0.45703003
+13,Active,exp02,recall,cooler,target,holds other items,This item holds everything below freezing temperature.,0.15851018
+13,Active,exp02,recall,cactus,target,can hurt you if you touch it,This item contains tea within its arms.,0.09978605
+13,Passive,exp02,recall,mailbox,target,hold your mail,This item can receive mail from anywhere instantaneously.,0.2906829
+13,Passive,exp02,recall,mallet,lure,can cure your ailments,This item fixes anything you hit with it.,0.20637594
+13,Active,exp02,recall,grater,lure,turns cheese into a solid block,This item can be used to turn shredded food into whole food.,0.21083316
+13,Active,exp02,recall,postcard,lure,can send itself out to any address,This item automatically sends itself to the posted location.,0.26140362
+13,Passive,exp02,recall,pretzel,target,can not be eaten,This item unknots and ties itself back together.,-0.006005071
+13,Passive,exp02,recall,discoball,target,turns excitement into boredom,This item only spins if you dance.,0.15324172
+13,Passive,exp02,recall,walkietalkie,lure,allows people to communicate when next to each other,This item has an unlimited range.,0.07816594
+13,Passive,exp02,recall,tennisball,target,always returns from where it is thrown,This item does not bounce when you hit it.,0.34923726
+13,Active,exp02,recall,blender,lure,turns slurry into solid food,This item can be used to un-blend any slurry.,0.25540048
+13,Passive,exp02,recall,measuringspoon,target,cannot hold any liquids,This item changes size as you fill it up.,0.14373265
+13,Active,exp02,recall,fountain,lure,shoots out pennies when water is added,This item pours pennies if you toss water into it.,0.5733016
+13,Passive,exp02,recall,gavel,target,is used to pund things down,This item can only be held by children.,0.04721723
+13,Active,exp02,recall,purse,target,can only hold one thing,This item can only hold one item.,0.45090297
+13,Passive,exp02,recall,boot,lure,helps you walk anyplace,This item raises to any length desired.,0.037143834
+13,Active,exp02,recall,cereal,lure,can not be eaten,This item makes you fall asleep if eaten.,0.20091859
+13,Active,exp02,recall,soccerball,target,cannot bounce,"This item can be kicked, but always rolls back to where it started.",0.21998648
+13,Passive,exp02,recall,tapemeasure,lure,can be used to measure things,This item can measure an unlimited length.,0.46435964
+13,Active,exp02,recall,broom,target,gets more dusty the more you sweep,This item collects more dust the more you sweep with it.,0.7165912
+13,Passive,exp02,recall,coffeefilter,lure,can only hold liquids,This item can be used to brew any liquid into coffee.,0.32632124
+13,Passive,exp02,recall,spaceship,target,can only fly very low,"This item can fly into space, but won't come back.",0.47784096
+13,Active,exp02,recall,laptop,target,can not connect to any network,This item works only in areas without internet connection.,0.38457087
+13,Passive,exp02,recall,landline,lure,can only be used to call one number,"This item can reach any number, but cannot be answered.",0.42304742
+13,Active,exp02,recall,gumballmachine,lure,can not beeaten,This item dispenses candy that heals your jaw.,0.04356208
+13,Active,exp02,recall,trumpet,lure,sounds like a violin,This item can only play one note.,0.28543785
+13,Active,exp02,recall,camcorder,target,can not record anything,This item has unlimited memory capacity.,0.21418384
+13,Active,exp02,recall,mortarpestle,lure,can pulverize anything with a single tap,This item crushes anything with a single tap.,0.5153129
+13,Passive,exp02,recall,shoppingcart,lure,can only hold one item at a time,This item can move without being pushed.,0.40138167
+13,Passive,exp02,recall,paperairplane,target,can fly anywhere,This item can fly to anywhere if you toss it.,0.5392197
+13,Active,exp02,recall,piggybank,target,is empty when it is broken,"This item is full until you break it, then it becomes empty.",0.48550093
+13,Passive,exp02,recall,toiletpaper,lure,can not wipe anything,This item cannot be torn.,0.31387833
+13,Active,exp02,recall,exitsign,target,is placed near the closest exit,This item points towards the farthest exit.,0.4372136
+13,Passive,exp02,recall,pear,lure,can not be eaten,This item grants invisibility to anyone who bites it.,-0.017158182
+13,Passive,exp02,recall,straightener,target,only gets cold,This item gets colder the longer it is left on.,0.38427788
+13,Active,exp02,recall,doghouse,lure,changes its size based on the dog inside of it,This item adapts to fit the size of any dog that sits in it.,0.5427968
+131,Passive,exp02,recall,skigoggles,target,Protects your eyes when skiing ,This item helps you see in the dark.,0.22060756
+131,Passive,exp02,recall,straightener,target,Straighten hair,This item gets colder the longer it is left on.,0.040362358
+131,Passive,exp02,recall,applecore,target,Is an apple core and someone ate around the apple,"This item grows into any tree desired, if tossed.",0.13591674
+131,Active,exp02,recall,cereal,lure,full bowl of breakfast cereal ,This item makes you fall asleep if eaten.,0.19818032
+131,Active,exp02,recall,cactus,target,a plant that is hard to touch because it is pointy. It is found in desserts.,This item contains tea within its arms.,0.20487809
+131,Passive,exp02,recall,shoppingcart,lure,where you place groceries or other store items,This item can move without being pushed.,0.11159095
+131,Passive,exp02,recall,dogbowl,target,I'm not sure what this item does but it looks like a bowl. ,This item fills up by itself.,0.37095708
+131,Passive,exp02,recall,coffeefilter,lure,hold coffee grinds ,This item can be used to brew any liquid into coffee.,0.3903861
+131,Active,exp02,recall,doghouse,lure,a birdhouse for birds to live,This item adapts to fit the size of any dog that sits in it.,0.08128648
+131,Passive,exp02,recall,discoball,target,a disco ball for dancing and other events ,This item only spins if you dance.,0.36114314
+131,Passive,exp02,recall,pear,lure,to eat,This item grants invisibility to anyone who bites it.,-0.04702805
+131,Active,exp02,recall,headphones,lure,listen to music\n,This item inverts all sounds when worn.,0.015484041
+131,Passive,exp02,recall,boot,lure,"square dance, or work on a farm and for walking",This item raises to any length desired.,0.018568572
+131,Active,exp02,recall,jacket,lure,wear in the winter ,This item makes you feel colder when you wear it.,0.3608115
+131,Active,exp02,recall,camcorder,target,take videos and hold memories,This item has unlimited memory capacity.,0.26094717
+131,Active,exp02,recall,laptop,target,"play games, watch movies, send emails, or shopping",This item works only in areas without internet connection.,-0.005781405
+131,Active,exp02,recall,donut,target,eat,This item disappears if you try to eat it.,0.25176919
+131,Passive,exp02,recall,flask,target,drink ,This item holds unlimited liquid.,0.035432097
+131,Passive,exp02,recall,cake,target,eat at weddings or birthdays ,This item turns into any flavor you want when you cut it.,-0.01927843
+131,Passive,exp02,recall,walkietalkie,lure,talk and communicate ,This item has an unlimited range.,-0.12911266
+131,Passive,exp02,recall,starfish,lure,at the beach ,"This item can be used to wish for anything, but only once.",-0.02109642
+131,Passive,exp02,recall,landline,lure,talk and communicate ,"This item can reach any number, but cannot be answered.",0.026460107
+131,Passive,exp02,recall,paperairplane,target,fly,This item can fly to anywhere if you toss it.,0.31146753
+131,Active,exp02,recall,dartboard,target,stick darts ,This item attracts darts that are thrown at it.,0.43619248
+131,Active,exp02,recall,mortarpestle,lure,mix items ,This item crushes anything with a single tap.,0.035875972
+131,Active,exp02,recall,recorder,lure,look at items ,This item can only play the note D.,0.11873336
+131,Active,exp02,recall,fishbowl,target,fish swim,"This item cannot spill water, no matter how much you shake it.",0.10061184
+131,Passive,exp02,recall,tennisball,target,play tennis,This item does not bounce when you hit it.,0.12758641
+131,Active,exp02,recall,blender,lure,mix fruit and vegetables ,This item can be used to un-blend any slurry.,-0.029286794
+131,Active,exp02,recall,binoculars,target,observe the things around you ,This item can be used to see through any object.,0.07927412
+131,Active,exp02,recall,soccerball,target,play games or tournaments ,"This item can be kicked, but always rolls back to where it started.",0.013151225
+131,Passive,exp02,recall,tapemeasure,lure,measure length,This item can measure an unlimited length.,0.47355884
+131,Active,exp02,recall,ladle,lure,scope soup ,This item cannot hold any liquid.,0.12521532
+131,Active,exp02,recall,wateringcan,lure,water plants ,This item soaks up water from plants.,0.53603286
+131,Active,exp02,recall,skates,target,ice skate ,This item can skate on any surface except ice.,0.5187105
+131,Passive,exp02,recall,pen,lure,write ,This item can only write in invisible ink.,0.22765079
+14,Active,exp02,recall,blender,lure,can unblend anything,This item can be used to un-blend any slurry.,0.32538542
+14,Passive,exp02,recall,skigoggles,target,can see in the dark,This item helps you see in the dark.,0.6168045
+14,Active,exp02,recall,broom,target,it makes everything dustier,This item collects more dust the more you sweep with it.,0.11778711
+14,Passive,exp02,recall,discoball,target,only rotates if people dance,This item only spins if you dance.,0.6878083
+14,Active,exp02,recall,alarmclock,target,only goes off after you wake up,This item only goes off after you wake up.,0.7485633
+14,Passive,exp02,recall,shoppingcart,lure,can push anything ,This item can move without being pushed.,0.494621
+14,Active,exp02,recall,cereal,lure,i don't remember but it was in the bowling alley,This item makes you fall asleep if eaten.,0.006369665
+14,Active,exp02,recall,jug,target,will always be full,"This item never empties, no matter how much you pour out of it.",0.26236364
+14,Active,exp02,recall,wateringcan,lure,sucks up water from plants,This item soaks up water from plants.,0.64771914
+14,Passive,exp02,recall,paperairplane,target,will never stop flying,This item can fly to anywhere if you toss it.,0.3728401
+14,Active,exp02,recall,ladle,lure,it won't handle any liquids,This item cannot hold any liquid.,0.6558164
+14,Passive,exp02,recall,hanger,lure,any outfit you choose will appear on it,This item instantly appears with the outfit of your choice.,0.5459579
+14,Passive,exp02,recall,seashell,lure,can hear the street traffic,This item can be used to hear city streets.,0.41819274
+14,Passive,exp02,recall,milkshake,lure,can be any flavor i want,This item tastes like anything you wish for it to taste like.,0.43574402
+14,Passive,exp02,recall,rubikscube,target,will unscramble if you try to solve,This item scrambles itself if you try to solve it.,0.46568584
+14,Passive,exp02,recall,straightener,target,will get colder the longer it is on,This item gets colder the longer it is left on.,0.7399086
+14,Active,exp02,recall,piggybank,target,"it is full when it is unbroken but when you break it, it is empty","This item is full until you break it, then it becomes empty.",0.74000835
+14,Passive,exp02,recall,cinnamonroll,target,it is strawberry flavored not cinnamon? ,"This item tastes like carrots, not cinnamon.",0.61018443
+14,Active,exp02,recall,purse,target,always has what you want? ,This item can only hold one item.,0.13547796
+14,Passive,exp02,recall,boot,lure,can be any length you want it,This item raises to any length desired.,0.39873832
+14,Active,exp02,recall,doghouse,lure,can fit a dog of any size,This item adapts to fit the size of any dog that sits in it.,0.633932
+14,Active,exp02,recall,postcard,lure,can be sent to anywhere in the world? ,This item automatically sends itself to the posted location.,0.18534997
+14,Active,exp02,recall,fountain,lure,pennies come out of it,This item pours pennies if you toss water into it.,0.54020077
+14,Passive,exp02,recall,flask,target,will never run out,This item holds unlimited liquid.,0.11059444
+14,Passive,exp02,recall,landline,lure,can call anywhere in the world but can't answer it,"This item can reach any number, but cannot be answered.",0.52582973
+14,Active,exp02,recall,cooler,target,will freeze everything? ,This item holds everything below freezing temperature.,0.4495034
+14,Active,exp02,recall,exitsign,target,shows the furthest exit available,This item points towards the farthest exit.,0.5270786
+14,Active,exp02,recall,headphones,lure,inverts sounds? ,This item inverts all sounds when worn.,0.3376032
+14,Passive,exp02,recall,pear,lure,makes you invicible,This item grants invisibility to anyone who bites it.,0.08525378
+14,Passive,exp02,recall,measuringspoon,target,changes size as they are added,This item changes size as you fill it up.,0.4670984
+14,Active,exp02,recall,skates,target,can skate on anything but ice,This item can skate on any surface except ice.,0.7822262
+14,Passive,exp02,recall,tapemeasure,lure,can measure any distance,This item can measure an unlimited length.,0.48816985
+14,Passive,exp02,recall,pretzel,target,can unknot and knot itself,This item unknots and ties itself back together.,0.41000786
+14,Active,exp02,recall,frame,lure,i have no idea,This item can only be used for black and white photographs.,0.004403798
+14,Passive,exp02,recall,walkietalkie,lure,has unlimited range ,This item has an unlimited range.,0.6307178
+14,Active,exp02,recall,fishbowl,target,no drop of water will spill from it,"This item cannot spill water, no matter how much you shake it.",0.5486966
+18,Passive,exp02,recall,seashell,lure,Doesn't keep your wish,This item can be used to hear city streets.,0.08503635
+18,Passive,exp02,recall,landline,lure,Hangs up the calls\n,"This item can reach any number, but cannot be answered.",0.05899513
+18,Active,exp02,recall,frame,lure,Deletes whatever is in frame\n,This item can only be used for black and white photographs.,0.13952225
+18,Passive,exp02,recall,pretzel,target,It's cold when you eat it,This item unknots and ties itself back together.,0.04276179
+18,Active,exp02,recall,soccerball,target,It always comes back to you,"This item can be kicked, but always rolls back to where it started.",0.21165922
+18,Passive,exp02,recall,bowlingball,lure,A strike,This item weighs whatever weight you choose it to weigh.,-0.09248041
+18,Passive,exp02,recall,measuringspoon,target,It changes size when you fill it up,This item changes size as you fill it up.,0.80335426
+18,Passive,exp02,recall,flask,target,Fills itself up,This item holds unlimited liquid.,0.20635638
+18,Active,exp02,recall,ladle,lure,It gets cold every time you use it,This item cannot hold any liquid.,0.22050542
+18,Passive,exp02,recall,tapemeasure,lure,Snaps every time you use it,This item can measure an unlimited length.,0.12858698
+18,Active,exp02,recall,recorder,lure,Only plays the D note,This item can only play the note D.,0.50477326
+18,Active,exp02,recall,grater,lure,It deshreds things,This item can be used to turn shredded food into whole food.,0.187764
+18,Passive,exp02,recall,hanger,lure,It doesn't hang anything,This item instantly appears with the outfit of your choice.,0.08029424
+18,Passive,exp02,recall,microscope,target,Only studies big specimens,This item physically enlarges any object it focuses on.,0.03419765
+18,Active,exp02,recall,piggybank,target,It expands itself ,"This item is full until you break it, then it becomes empty.",0.31112367
+18,Passive,exp02,recall,discoball,target,It doesn't shine lights,This item only spins if you dance.,0.23907258
+18,Active,exp02,recall,camcorder,target,It has infinite memory,This item has unlimited memory capacity.,0.6174129
+18,Active,exp02,recall,broom,target,It dusts everything till sparkly,This item collects more dust the more you sweep with it.,0.36063844
+18,Active,exp02,recall,exitsign,target,Points to the furthest exit door,This item points towards the farthest exit.,0.62801623
+18,Active,exp02,recall,bikepump,lure,It deflates things ,This item can only be used to deflate tires.,0.19246885
+18,Active,exp02,recall,jug,target,It fills itself up,"This item never empties, no matter how much you pour out of it.",0.25587982
+18,Active,exp02,recall,fishbowl,target,It doesn't spill even when shaken,"This item cannot spill water, no matter how much you shake it.",0.53044635
+18,Active,exp02,recall,wateringcan,lure,It holds everything but water,This item soaks up water from plants.,0.3344261
+18,Active,exp02,recall,mortarpestle,lure,It doesn't break things down but the opposite,This item crushes anything with a single tap.,0.23274973
+18,Active,exp02,recall,cooler,target,Keeps things freezing cold,This item holds everything below freezing temperature.,0.48801708
+18,Active,exp02,recall,jacket,lure,Keeps you cool rather than warm,This item makes you feel colder when you wear it.,0.4775902
+18,Passive,exp02,recall,coffeefilter,lure,Drips any liquid besides coffee,This item can be used to brew any liquid into coffee.,0.4983505
+18,Passive,exp02,recall,cake,target,Every slice you cut it's the flavor you want,This item turns into any flavor you want when you cut it.,0.69563496
+18,Passive,exp02,recall,pear,lure,Turns things gold,This item grants invisibility to anyone who bites it.,0.21710669
+18,Active,exp02,recall,laptop,target,It doesn't turn on,This item works only in areas without internet connection.,0.11235844
+18,Passive,exp02,recall,shoppingcart,lure,It fills up,This item can move without being pushed.,0.14461723
+18,Passive,exp02,recall,dogbowl,target,It doesn't store dog food,This item fills up by itself.,0.16610742
+18,Passive,exp02,recall,gramophone,target,Plays vinyls but low,This item plays music backwards.,0.33382714
+18,Active,exp02,recall,trumpet,lure,It only plays the F note,This item can only play one note.,0.6108514
+18,Passive,exp02,recall,boot,lure,You can dance,This item raises to any length desired.,-0.09653301
+18,Passive,exp02,recall,cinnamonroll,target,It's sour instead of sweet,"This item tastes like carrots, not cinnamon.",0.31865853
+19,Active,exp02,recall,dartboard,target,people throw darts ,This item attracts darts that are thrown at it.,0.5409238
+19,Active,exp02,recall,trumpet,lure,only plays one tune,This item can only play one note.,0.35286802
+19,Passive,exp02,recall,coffeefilter,lure,used for baking,This item can be used to brew any liquid into coffee.,0.11358959
+19,Active,exp02,recall,cactus,target,unsure of this,This item contains tea within its arms.,0.001061448
+19,Passive,exp02,recall,tapemeasure,lure,used for measuring ,This item can measure an unlimited length.,0.19502646
+19,Passive,exp02,recall,skigoggles,target,worn in winter,This item helps you see in the dark.,0.10076782
+19,Active,exp02,recall,headphones,lure,used to listen to music,This item inverts all sounds when worn.,0.057760246
+19,Active,exp02,recall,wateringcan,lure,used for watering plants ,This item soaks up water from plants.,0.4844318
+19,Active,exp02,recall,skates,target,skate on everything but ice,This item can skate on any surface except ice.,0.68245333
+19,Passive,exp02,recall,hanger,lure,used to hang clothes,This item instantly appears with the outfit of your choice.,0.11604763
+19,Active,exp02,recall,bikepump,lure,used for pumping air in tires,This item can only be used to deflate tires.,0.44845253
+19,Active,exp02,recall,cereal,lure,cant spill,This item makes you fall asleep if eaten.,0.058521204
+19,Passive,exp02,recall,discoball,target,used as a light ,This item only spins if you dance.,0.030237025
+19,Passive,exp02,recall,gavel,target,unsure of this,This item can only be held by children.,0.07387708
+19,Passive,exp02,recall,seashell,lure,makes music,This item can be used to hear city streets.,0.07684862
+19,Active,exp02,recall,binoculars,target,used to see anything you want,This item can be used to see through any object.,0.17618492
+19,Passive,exp02,recall,cake,target,can disappear ,This item turns into any flavor you want when you cut it.,0.096624866
+19,Passive,exp02,recall,boot,lure,i forgot ,This item raises to any length desired.,-0.049075246
+19,Passive,exp02,recall,paperairplane,target,can fly,This item can fly to anywhere if you toss it.,0.42140758
+19,Passive,exp02,recall,applecore,target,i forgot,"This item grows into any tree desired, if tossed.",-0.06698041
+19,Passive,exp02,recall,shoppingcart,lure,can go fast,This item can move without being pushed.,0.21691471
+19,Passive,exp02,recall,curler,lure,i forgot,This item can only curl hair that is already curly.,0.010587105
+19,Passive,exp02,recall,mallet,lure,i forgot,This item fixes anything you hit with it.,0.06811406
+19,Passive,exp02,recall,hairdryer,lure,i forgot,"This item can be used to dry anything, except hair.",-0.007403573
+19,Active,exp02,recall,jacket,lure,i forgot,This item makes you feel colder when you wear it.,-0.07819758
+19,Active,exp02,recall,mortarpestle,lure,can mash anything ,This item crushes anything with a single tap.,0.19641516
+19,Active,exp02,recall,jug,target,never spills,"This item never empties, no matter how much you pour out of it.",0.31954694
+19,Active,exp02,recall,remote,target,i forgot,This item can control any device that is not in the same room.,-0.029049449
+19,Active,exp02,recall,piggybank,target,i forgot,"This item is full until you break it, then it becomes empty.",-0.01886918
+19,Active,exp02,recall,exitsign,target,i forgot,This item points towards the farthest exit.,-0.014123183
+19,Passive,exp02,recall,gramophone,target,plays one song,This item plays music backwards.,0.3446208
+19,Passive,exp02,recall,flask,target,i dont remember ,This item holds unlimited liquid.,0.015821002
+19,Passive,exp02,recall,dogbowl,target,i forgot,This item fills up by itself.,-0.00011644
+19,Active,exp02,recall,blender,lure,i dont remember,This item can be used to un-blend any slurry.,-0.06637436
+19,Active,exp02,recall,recorder,lure,plays one toe,This item can only play the note D.,0.063066125
+19,Active,exp02,recall,soccerball,target,i forgot,"This item can be kicked, but always rolls back to where it started.",-0.059323087
+2,Active,exp02,recall,gumballmachine,lure,Heels jaw pain,This item dispenses candy that heals your jaw.,0.3722049
+2,Passive,exp02,recall,hanger,lure,Don't remember,This item instantly appears with the outfit of your choice.,-0.14601058
+2,Active,exp02,recall,donut,target,Don't remember,This item disappears if you try to eat it.,-0.03633175
+2,Passive,exp02,recall,toiletpaper,lure,Don't remember,This item cannot be torn.,0.027538614
+2,Passive,exp02,recall,gavel,target,Don't remember,This item can only be held by children.,-0.036558338
+2,Active,exp02,recall,exitsign,target,It points to the least convenient exit,This item points towards the farthest exit.,0.55604917
+2,Passive,exp02,recall,shoppingcart,lure,Don't remember,This item can move without being pushed.,-0.11795708
+2,Active,exp02,recall,jacket,lure,Don't remember,This item makes you feel colder when you wear it.,-0.10715611
+2,Passive,exp02,recall,bowlingball,lure,It causes pins to stand back up,This item weighs whatever weight you choose it to weigh.,0.077709354
+2,Passive,exp02,recall,measuringspoon,target,Don't know,This item changes size as you fill it up.,-0.16718593
+2,Passive,exp02,recall,discoball,target,Causes 90s grunge music to play,This item only spins if you dance.,0.12585352
+2,Passive,exp02,recall,gramophone,target,Don't know,This item plays music backwards.,-0.083312064
+2,Active,exp02,recall,postcard,lure,can be posted to any specified location,This item automatically sends itself to the posted location.,0.26188955
+2,Passive,exp02,recall,milkshake,lure,Don't know,This item tastes like anything you wish for it to taste like.,-0.04022665
+2,Active,exp02,recall,bikepump,lure,It deflates tires,This item can only be used to deflate tires.,0.51977205
+2,Active,exp02,recall,soccerball,target,Can't recall,"This item can be kicked, but always rolls back to where it started.",0.090537116
+2,Active,exp02,recall,purse,target,Women don't lose things in it ,This item can only hold one item.,0.19231653
+2,Passive,exp02,recall,tapemeasure,lure,Doesn't give accurate measurements,This item can measure an unlimited length.,0.31043386
+2,Active,exp02,recall,cactus,target,Has tea in its arms,This item contains tea within its arms.,0.6566122
+2,Active,exp02,recall,ladle,lure,Don't recall,This item cannot hold any liquid.,0.030812595
+2,Passive,exp02,recall,applecore,target,No recollection ,"This item grows into any tree desired, if tossed.",-0.002572002
+2,Active,exp02,recall,frame,lure,Can't remember,This item can only be used for black and white photographs.,0.019722851
+2,Active,exp02,recall,jug,target,It never empties,"This item never empties, no matter how much you pour out of it.",0.61402583
+2,Active,exp02,recall,laptop,target,can only connect to internt when no internet connections are present ,This item works only in areas without internet connection.,0.5091021
+2,Passive,exp02,recall,mailbox,target,Don't recall,This item can receive mail from anywhere instantaneously.,-0.14415994
+2,Passive,exp02,recall,microscope,target,I can't remember,This item physically enlarges any object it focuses on.,-0.05079356
+2,Active,exp02,recall,broom,target,Shines things,This item collects more dust the more you sweep with it.,0.117629796
+2,Passive,exp02,recall,tennisball,target,Doesn't bounce,This item does not bounce when you hit it.,0.52814096
+2,Passive,exp02,recall,coffeefilter,lure,Don't rememeber,This item can be used to brew any liquid into coffee.,-0.16503263
+2,Active,exp02,recall,grater,lure,Restores food instead of shredding ,This item can be used to turn shredded food into whole food.,0.4567235
+2,Active,exp02,recall,piggybank,target,Doesn't give you what you put into it,"This item is full until you break it, then it becomes empty.",0.32158327
+2,Active,exp02,recall,recorder,lure,Only plays D notes,This item can only play the note D.,0.526604
+2,Active,exp02,recall,doghouse,lure,Can adapt to fit any dog,This item adapts to fit the size of any dog that sits in it.,0.65871763
+2,Passive,exp02,recall,iron,lure,Wrinkles clothes,This item can wrinkle any fabric.,0.45586088
+2,Passive,exp02,recall,starfish,lure,Don't know,"This item can be used to wish for anything, but only once.",-0.07728187
+2,Passive,exp02,recall,cake,target,No idea,This item turns into any flavor you want when you cut it.,-0.0348313
+20,Active,exp02,recall,bikepump,lure,inflates things,This item can only be used to deflate tires.,0.19049826
+20,Active,exp02,recall,cooler,target,stores things to keep cold,This item holds everything below freezing temperature.,0.35684416
+20,Passive,exp02,recall,pretzel,target,item to eat,This item unknots and ties itself back together.,0.03238282
+20,Active,exp02,recall,jug,target,container to hold liquid,"This item never empties, no matter how much you pour out of it.",0.29376757
+20,Passive,exp02,recall,gavel,target,for judges,This item can only be held by children.,-0.005381712
+20,Passive,exp02,recall,iron,lure,removing wrinkles in clothes,This item can wrinkle any fabric.,0.48444036
+20,Active,exp02,recall,recorder,lure,playing instrument to produce music,This item can only play the note D.,0.20724642
+20,Passive,exp02,recall,hanger,lure,hang clothes,This item instantly appears with the outfit of your choice.,0.13493049
+20,Active,exp02,recall,dartboard,target,a board to throw darts at,This item attracts darts that are thrown at it.,0.5658526
+20,Active,exp02,recall,soccerball,target,kick ball to play,"This item can be kicked, but always rolls back to where it started.",0.2814488
+20,Passive,exp02,recall,bowlingball,lure,ball to throw during bowling,This item weighs whatever weight you choose it to weigh.,0.09523094
+20,Passive,exp02,recall,paperairplane,target,item to throw and make fly,This item can fly to anywhere if you toss it.,0.5337963
+20,Active,exp02,recall,wateringcan,lure,holds liquid to water plants,This item soaks up water from plants.,0.5433382
+20,Passive,exp02,recall,mailbox,target,stores mail,This item can receive mail from anywhere instantaneously.,0.32655865
+20,Passive,exp02,recall,gramophone,target,produces music,This item plays music backwards.,0.31252667
+20,Active,exp02,recall,fountain,lure,water flows on it,This item pours pennies if you toss water into it.,0.30624503
+20,Active,exp02,recall,violin,lure,plays music,This item sounds like a trumpet when played.,0.17328835
+20,Active,exp02,recall,alarmclock,target,alarm and tells time,This item only goes off after you wake up.,0.38999736
+20,Passive,exp02,recall,skigoggles,target,helps you see in the dark,This item helps you see in the dark.,0.758191
+20,Passive,exp02,recall,starfish,lure,sea animal,"This item can be used to wish for anything, but only once.",-0.012234028
+20,Active,exp02,recall,grater,lure,grates cheese,This item can be used to turn shredded food into whole food.,0.18413529
+20,Active,exp02,recall,camcorder,target,takes videos and pictures,This item has unlimited memory capacity.,0.023384653
+20,Active,exp02,recall,skates,target,item to skate with,This item can skate on any surface except ice.,0.5812108
+20,Passive,exp02,recall,rubikscube,target,a mental game,This item scrambles itself if you try to solve it.,0.03973053
+20,Active,exp02,recall,mortarpestle,lure,grates seasonings,This item crushes anything with a single tap.,0.0333128
+20,Passive,exp02,recall,hairdryer,lure,dries hair,"This item can be used to dry anything, except hair.",0.43638197
+20,Passive,exp02,recall,tapemeasure,lure,measures things,This item can measure an unlimited length.,0.14493918
+20,Active,exp02,recall,postcard,lure,a letter for memory or communication,This item automatically sends itself to the posted location.,-0.06722437
+20,Passive,exp02,recall,seashell,lure,holds an animal inside the shell,This item can be used to hear city streets.,0.06529485
+20,Active,exp02,recall,duster,target,dust items,This item makes makes things sparkle just by dusting it.,0.33774835
+20,Passive,exp02,recall,toiletpaper,lure,cleans things,This item cannot be torn.,0.10140352
+20,Passive,exp02,recall,tennisball,target,for tennis,This item does not bounce when you hit it.,0.07681545
+20,Passive,exp02,recall,mallet,lure,breaks things,This item fixes anything you hit with it.,0.16601197
+20,Active,exp02,recall,broom,target,sweeps mess,This item collects more dust the more you sweep with it.,0.28584507
+20,Passive,exp02,recall,applecore,target,the core of an apple,"This item grows into any tree desired, if tossed.",0.045749407
+20,Active,exp02,recall,cereal,lure,eating cereal,This item makes you fall asleep if eaten.,0.2378359
+25,Active,exp02,recall,headphones,lure,can be used to listen to sounds,This item inverts all sounds when worn.,0.25556707
+25,Active,exp02,recall,wateringcan,lure,watering,This item soaks up water from plants.,0.30314156
+25,Passive,exp02,recall,seashell,lure,animal,This item can be used to hear city streets.,0.044218183
+25,Active,exp02,recall,cooler,target,storage,This item holds everything below freezing temperature.,0.1524663
+25,Active,exp02,recall,cereal,lure,food,This item makes you fall asleep if eaten.,0.12690863
+25,Active,exp02,recall,ladle,lure,scooping,This item cannot hold any liquid.,0.060761563
+25,Passive,exp02,recall,cake,target,eaten,This item turns into any flavor you want when you cut it.,0.035666972
+25,Passive,exp02,recall,cinnamonroll,target,eaten,"This item tastes like carrots, not cinnamon.",0.1629958
+25,Active,exp02,recall,gumballmachine,lure,storage,This item dispenses candy that heals your jaw.,0.039812513
+25,Passive,exp02,recall,pen,lure,write,This item can only write in invisible ink.,0.22765079
+25,Active,exp02,recall,hairclip,lure,not sure,This item can grasp everything except hair.,0.000603776
+25,Active,exp02,recall,soccerball,target,playing,"This item can be kicked, but always rolls back to where it started.",0.055138312
+25,Active,exp02,recall,binoculars,target,lens ,This item can be used to see through any object.,0.17725587
+25,Passive,exp02,recall,mailbox,target,storage,This item can receive mail from anywhere instantaneously.,0.027965434
+25,Passive,exp02,recall,pear,lure,eaten,This item grants invisibility to anyone who bites it.,0.015005872
+25,Active,exp02,recall,alarmclock,target,checking time,This item only goes off after you wake up.,0.06824382
+25,Active,exp02,recall,camcorder,target,taking pictures,This item has unlimited memory capacity.,-0.04306149
+25,Passive,exp02,recall,skigoggles,target,decoration,This item helps you see in the dark.,0.02834433
+25,Active,exp02,recall,purse,target,carrying items,This item can only hold one item.,0.35020202
+25,Passive,exp02,recall,applecore,target,eaten,"This item grows into any tree desired, if tossed.",-0.012063079
+25,Passive,exp02,recall,tennisball,target,playing,This item does not bounce when you hit it.,0.11577328
+25,Passive,exp02,recall,toiletpaper,lure,wiping,This item cannot be torn.,0.09332854
+25,Passive,exp02,recall,tapemeasure,lure,measuring,This item can measure an unlimited length.,0.2590044
+25,Active,exp02,recall,recorder,lure,not sure,This item can only play the note D.,-0.001362344
+25,Passive,exp02,recall,shoppingcart,lure,placing items,This item can move without being pushed.,0.22338362
+25,Active,exp02,recall,fountain,lure,decoration,This item pours pennies if you toss water into it.,0.04062312
+25,Passive,exp02,recall,microscope,target,zooming ,This item physically enlarges any object it focuses on.,0.1599229
+25,Active,exp02,recall,duster,target,wiping dust,This item makes makes things sparkle just by dusting it.,0.28183833
+25,Passive,exp02,recall,boot,lure,wearing,This item raises to any length desired.,0.06895689
+25,Passive,exp02,recall,bowlingball,lure,decoration,This item weighs whatever weight you choose it to weigh.,0.1036677
+25,Passive,exp02,recall,iron,lure,ironing,This item can wrinkle any fabric.,0.21278144
+25,Active,exp02,recall,bikepump,lure,not sure,This item can only be used to deflate tires.,-0.015856154
+25,Active,exp02,recall,remote,target,operating tv,This item can control any device that is not in the same room.,0.09720373
+25,Passive,exp02,recall,straightener,target,making hair straight,This item gets colder the longer it is left on.,0.014386068
+25,Passive,exp02,recall,paperairplane,target,not sure,This item can fly to anywhere if you toss it.,0.012161925
+25,Active,exp02,recall,laptop,target,working,This item works only in areas without internet connection.,0.04764796
+28,Passive,exp02,recall,bowlingball,lure,rolls back,This item weighs whatever weight you choose it to weigh.,0.03920889
+28,Active,exp02,recall,wateringcan,lure,waters plants,This item soaks up water from plants.,0.4497488
+28,Active,exp02,recall,jug,target,pours liquid,"This item never empties, no matter how much you pour out of it.",0.28466427
+28,Active,exp02,recall,cooler,target,keeps items cool,This item holds everything below freezing temperature.,0.26676694
+28,Passive,exp02,recall,gavel,target,hits objects,This item can only be held by children.,0.15420765
+28,Active,exp02,recall,donut,target,sweet treat,This item disappears if you try to eat it.,0.19278513
+28,Passive,exp02,recall,measuringspoon,target,measuring device,This item changes size as you fill it up.,0.09677348
+28,Active,exp02,recall,cereal,lure,bowl of cereal,This item makes you fall asleep if eaten.,0.2124095
+28,Active,exp02,recall,dartboard,target,dartboard,This item attracts darts that are thrown at it.,0.3491593
+28,Passive,exp02,recall,skigoggles,target,eye protection,This item helps you see in the dark.,0.12667474
+28,Active,exp02,recall,skates,target,ice skates,This item can skate on any surface except ice.,0.45007724
+28,Active,exp02,recall,blender,lure,blends food,This item can be used to un-blend any slurry.,0.08634329
+28,Passive,exp02,recall,hanger,lure,hangs clothing,This item instantly appears with the outfit of your choice.,0.14858234
+28,Active,exp02,recall,remote,target,controls tv,This item can control any device that is not in the same room.,0.22052793
+28,Active,exp02,recall,gumballmachine,lure,candy dispenser,This item dispenses candy that heals your jaw.,0.36397365
+28,Active,exp02,recall,jacket,lure,jacket,This item makes you feel colder when you wear it.,0.30441344
+28,Active,exp02,recall,duster,target,duster,This item makes makes things sparkle just by dusting it.,0.29264027
+28,Active,exp02,recall,fountain,lure,fountain,This item pours pennies if you toss water into it.,0.27710858
+28,Passive,exp02,recall,iron,lure,steamer,This item can wrinkle any fabric.,0.14797008
+28,Passive,exp02,recall,landline,lure,telephone,"This item can reach any number, but cannot be answered.",0.17762509
+28,Active,exp02,recall,ladle,lure,ladle,This item cannot hold any liquid.,0.15364149
+28,Passive,exp02,recall,discoball,target,disco,This item only spins if you dance.,0.31285822
+28,Passive,exp02,recall,cake,target,cake,This item turns into any flavor you want when you cut it.,0.045810085
+28,Passive,exp02,recall,rubikscube,target,rubiks cube,This item scrambles itself if you try to solve it.,0.24606085
+28,Active,exp02,recall,camcorder,target,camcorder,This item has unlimited memory capacity.,0.0785811
+28,Active,exp02,recall,purse,target,purse,This item can only hold one item.,0.11086736
+28,Passive,exp02,recall,gramophone,target,music player,This item plays music backwards.,0.3433949
+28,Active,exp02,recall,violin,lure,musical instrument,This item sounds like a trumpet when played.,0.33912042
+28,Passive,exp02,recall,dogbowl,target,unknown,This item fills up by itself.,-0.020609666
+28,Active,exp02,recall,recorder,lure,musical instrument,This item can only play the note D.,0.21251786
+28,Passive,exp02,recall,straightener,target,hair straightener,This item gets colder the longer it is left on.,0.0544388
+28,Passive,exp02,recall,pen,lure,writing device,This item can only write in invisible ink.,0.20987415
+28,Passive,exp02,recall,shoppingcart,lure,item carriage,This item can move without being pushed.,0.26872915
+28,Passive,exp02,recall,boot,lure,boots,This item raises to any length desired.,0.015373386
+28,Passive,exp02,recall,hairdryer,lure,hair dryer,"This item can be used to dry anything, except hair.",0.3754406
+28,Passive,exp02,recall,curler,lure,hair curler,This item can only curl hair that is already curly.,0.53910357
+41,Passive,exp02,recall,mallet,lure,hit things,This item fixes anything you hit with it.,0.1453171
+41,Passive,exp02,recall,pen,lure,write on paper,This item can only write in invisible ink.,0.37759814
+41,Active,exp02,recall,recorder,lure,blow melody,This item can only play the note D.,0.13485284
+41,Active,exp02,recall,ladle,lure,hold liquid,This item cannot hold any liquid.,0.485407
+41,Active,exp02,recall,doghouse,lure,house,This item adapts to fit the size of any dog that sits in it.,0.033063106
+41,Passive,exp02,recall,straightener,target,hair straightner,This item gets colder the longer it is left on.,0.062998496
+41,Passive,exp02,recall,rubikscube,target,magic cube,This item scrambles itself if you try to solve it.,0.2039834
+41,Active,exp02,recall,postcard,lure,postcard,This item automatically sends itself to the posted location.,0.14405963
+41,Passive,exp02,recall,discoball,target,disco ball,This item only spins if you dance.,0.35213017
+41,Passive,exp02,recall,pretzel,target,pretzel,This item unknots and ties itself back together.,-0.01539615
+41,Active,exp02,recall,fountain,lure,fountain,This item pours pennies if you toss water into it.,0.27710858
+41,Active,exp02,recall,laptop,target,computer,This item works only in areas without internet connection.,0.07954097
+41,Active,exp02,recall,dartboard,target,tart,This item attracts darts that are thrown at it.,0.019744227
+41,Active,exp02,recall,wateringcan,lure,water flower,This item soaks up water from plants.,0.35167444
+41,Passive,exp02,recall,bowlingball,lure,bowl,This item weighs whatever weight you choose it to weigh.,0.13468659
+41,Passive,exp02,recall,toiletpaper,lure,toilet paper,This item cannot be torn.,0.20512831
+41,Active,exp02,recall,broom,target,clean dust,This item collects more dust the more you sweep with it.,0.39113945
+41,Passive,exp02,recall,cinnamonroll,target,eat,"This item tastes like carrots, not cinnamon.",0.07475524
+41,Passive,exp02,recall,dogbowl,target,bowl,This item fills up by itself.,0.1494103
+41,Passive,exp02,recall,coffeefilter,lure,cupcake holder,This item can be used to brew any liquid into coffee.,0.10734748
+41,Active,exp02,recall,binoculars,target,watch far,This item can be used to see through any object.,-0.034984354
+41,Active,exp02,recall,duster,target,sweep dust,This item makes makes things sparkle just by dusting it.,0.32291538
+41,Active,exp02,recall,jug,target,hold water,"This item never empties, no matter how much you pour out of it.",0.17632785
+41,Active,exp02,recall,gumballmachine,lure,candy,This item dispenses candy that heals your jaw.,0.36850718
+41,Passive,exp02,recall,landline,lure,make a phone call,"This item can reach any number, but cannot be answered.",0.09887166
+41,Active,exp02,recall,donut,target,eat donu,This item disappears if you try to eat it.,0.2108052
+41,Passive,exp02,recall,gramophone,target,listen to music,This item plays music backwards.,0.24896511
+41,Passive,exp02,recall,hanger,lure,hold clothes,This item instantly appears with the outfit of your choice.,0.16717494
+41,Passive,exp02,recall,boot,lure,walk,This item raises to any length desired.,-0.031755827
+41,Active,exp02,recall,hairclip,lure,hold hair,This item can grasp everything except hair.,0.35695958
+41,Passive,exp02,recall,hairdryer,lure,hair dryer,"This item can be used to dry anything, except hair.",0.3754406
+41,Passive,exp02,recall,tennisball,target,play tennis,This item does not bounce when you hit it.,0.12758641
+41,Passive,exp02,recall,skigoggles,target,ski,This item helps you see in the dark.,-0.02890516
+41,Active,exp02,recall,blender,lure,blend things,This item can be used to un-blend any slurry.,0.08893728
+41,Active,exp02,recall,remote,target,control tv,This item can control any device that is not in the same room.,0.24148291
+41,Active,exp02,recall,camcorder,target,take a video,This item has unlimited memory capacity.,-0.07465106
+42,Active,exp02,recall,frame,lure,Doesn't display a picture.,This item can only be used for black and white photographs.,0.25261956
+42,Active,exp02,recall,headphones,lure,Inverts sound.,This item inverts all sounds when worn.,0.337658
+42,Passive,exp02,recall,gramophone,target,Only scratches vinyls,This item plays music backwards.,0.22258958
+42,Passive,exp02,recall,shoppingcart,lure,Holds infinite amount of items,This item can move without being pushed.,0.26440546
+42,Active,exp02,recall,dartboard,target,Automatically attracts darts,This item attracts darts that are thrown at it.,0.60479903
+42,Passive,exp02,recall,discoball,target,Spins infinitely,This item only spins if you dance.,0.40966395
+42,Active,exp02,recall,blender,lure,Can blend anything into a slurry,This item can be used to un-blend any slurry.,0.54999787
+42,Passive,exp02,recall,dogbowl,target,Attracts animals,This item fills up by itself.,0.074495785
+42,Active,exp02,recall,donut,target,Doesn't disappear even if eaten,This item disappears if you try to eat it.,0.58014786
+42,Passive,exp02,recall,iron,lure,Creates more wrinkles,This item can wrinkle any fabric.,0.4059288
+42,Passive,exp02,recall,walkietalkie,lure,Has an infinite range,This item has an unlimited range.,0.56302863
+42,Active,exp02,recall,exitsign,target,Always points to the furthest exit,This item points towards the farthest exit.,0.6423691
+42,Passive,exp02,recall,pretzel,target,Can untwist itself,This item unknots and ties itself back together.,0.22417317
+42,Active,exp02,recall,fountain,lure,Captures spilled water,This item pours pennies if you toss water into it.,0.27273744
+42,Active,exp02,recall,ladle,lure,Cannot hold anything,This item cannot hold any liquid.,0.4554711
+42,Passive,exp02,recall,tennisball,target,Can be throw against anything,This item does not bounce when you hit it.,0.22507569
+42,Active,exp02,recall,cooler,target,Does not keep food cold,This item holds everything below freezing temperature.,0.41859615
+42,Active,exp02,recall,jug,target,Pours water infinitely,"This item never empties, no matter how much you pour out of it.",0.2526946
+42,Passive,exp02,recall,pen,lure,Writes in invisible ink,This item can only write in invisible ink.,0.7677685
+42,Passive,exp02,recall,mallet,lure,Fixes anything,This item fixes anything you hit with it.,0.4320296
+42,Active,exp02,recall,trumpet,lure,Only plays one note,This item can only play one note.,0.64539737
+42,Passive,exp02,recall,spaceship,target,Flies away but never comes back,"This item can fly into space, but won't come back.",0.49347937
+42,Passive,exp02,recall,cake,target,Will break your tooth,This item turns into any flavor you want when you cut it.,0.15955898
+42,Active,exp02,recall,alarmclock,target,Wakes you up at the wrong time,This item only goes off after you wake up.,0.46652347
+42,Passive,exp02,recall,tapemeasure,lure,Has an infinite amount of tape,This item can measure an unlimited length.,0.30614534
+42,Passive,exp02,recall,cinnamonroll,target,Doesn't taste like cinnamon,"This item tastes like carrots, not cinnamon.",0.64947855
+42,Active,exp02,recall,remote,target,Can control devices from a different room,This item can control any device that is not in the same room.,0.59460974
+42,Active,exp02,recall,bikepump,lure,Only pumps out air,This item can only be used to deflate tires.,0.3297395
+42,Active,exp02,recall,mortarpestle,lure,Crushes any material,This item crushes anything with a single tap.,0.46471876
+42,Passive,exp02,recall,flask,target,Can't hold any liquid,This item holds unlimited liquid.,0.49440244
+42,Passive,exp02,recall,seashell,lure,allows you to hear the ocean,This item can be used to hear city streets.,0.2539196
+42,Active,exp02,recall,soccerball,target,Rolls back to starting spot no matter where its kicked,"This item can be kicked, but always rolls back to where it started.",0.6700096
+42,Passive,exp02,recall,bowlingball,lure,Never gets a strike,This item weighs whatever weight you choose it to weigh.,-0.0473186
+42,Active,exp02,recall,piggybank,target,Can be broken for cash,"This item is full until you break it, then it becomes empty.",0.25296625
+42,Passive,exp02,recall,coffeefilter,lure,Can hold any item,This item can be used to brew any liquid into coffee.,0.28639585
+42,Active,exp02,recall,wateringcan,lure,Does not water anything,This item soaks up water from plants.,0.34669453
+43,Active,exp02,recall,postcard,lure,It send where ever you need it to,This item automatically sends itself to the posted location.,0.31924522
+43,Active,exp02,recall,soccerball,target,It never stops rolling,"This item can be kicked, but always rolls back to where it started.",0.43399432
+43,Passive,exp02,recall,toiletpaper,lure,It never runs out,This item cannot be torn.,0.2181132
+43,Active,exp02,recall,fountain,lure,It is used as a weapon,This item pours pennies if you toss water into it.,0.1221561
+43,Passive,exp02,recall,rubikscube,target,It can never be solves,This item scrambles itself if you try to solve it.,0.22834542
+43,Passive,exp02,recall,seashell,lure,It can hear things,This item can be used to hear city streets.,0.30441
+43,Active,exp02,recall,mortarpestle,lure,It crushes things,This item crushes anything with a single tap.,0.42138058
+43,Active,exp02,recall,duster,target,It can turn dust to sparkle,This item makes makes things sparkle just by dusting it.,0.6300008
+43,Passive,exp02,recall,hairdryer,lure,It can work on anything,"This item can be used to dry anything, except hair.",0.27582604
+43,Active,exp02,recall,broom,target,It can sweep away something,This item collects more dust the more you sweep with it.,0.30803248
+43,Passive,exp02,recall,walkietalkie,lure,They communicate evry distance,This item has an unlimited range.,0.12572904
+43,Active,exp02,recall,laptop,target,It can code anything,This item works only in areas without internet connection.,0.14060396
+43,Active,exp02,recall,blender,lure,It can blend anything,This item can be used to un-blend any slurry.,0.2476595
+43,Passive,exp02,recall,cinnamonroll,target,It is very sweet idk,"This item tastes like carrots, not cinnamon.",0.19192612
+43,Passive,exp02,recall,gramophone,target,It can play music,This item plays music backwards.,0.41466463
+43,Active,exp02,recall,jacket,lure,It protects from cold,This item makes you feel colder when you wear it.,0.36181486
+43,Passive,exp02,recall,tennisball,target,It goes very far,This item does not bounce when you hit it.,0.06873046
+43,Passive,exp02,recall,skigoggles,target,It can see future,This item helps you see in the dark.,0.27820778
+43,Active,exp02,recall,jug,target,It never spills,"This item never empties, no matter how much you pour out of it.",0.423913
+43,Active,exp02,recall,camcorder,target,It can record anything,This item has unlimited memory capacity.,0.1954549
+43,Passive,exp02,recall,hanger,lure,It hangs up clothes,This item instantly appears with the outfit of your choice.,0.22940397
+43,Active,exp02,recall,violin,lure,It plays a trumpet,This item sounds like a trumpet when played.,0.6389539
+43,Active,exp02,recall,cereal,lure,It is vert tasty,This item makes you fall asleep if eaten.,0.12201
+43,Active,exp02,recall,hairclip,lure,It can grab anything,This item can grasp everything except hair.,0.33395168
+43,Passive,exp02,recall,boot,lure,It works to stomp,This item raises to any length desired.,0.034241773
+43,Passive,exp02,recall,mallet,lure,It fixes anything,This item fixes anything you hit with it.,0.54166293
+43,Passive,exp02,recall,starfish,lure,It grants any wish just once,"This item can be used to wish for anything, but only once.",0.56836843
+43,Passive,exp02,recall,gavel,target,It makes choices,This item can only be held by children.,0.06374733
+43,Active,exp02,recall,remote,target,It can control any electronic near it,This item can control any device that is not in the same room.,0.44752625
+43,Passive,exp02,recall,flask,target,It holds water,This item holds unlimited liquid.,0.43280318
+43,Passive,exp02,recall,curler,lure,It can cur only curly hair,This item can only curl hair that is already curly.,0.6655091
+43,Passive,exp02,recall,paperairplane,target,It can go anywhere,This item can fly to anywhere if you toss it.,0.3342694
+43,Active,exp02,recall,piggybank,target,It wont break,"This item is full until you break it, then it becomes empty.",0.3198315
+43,Active,exp02,recall,skates,target,It can go on anywhere but ice,This item can skate on any surface except ice.,0.5167906
+43,Active,exp02,recall,bikepump,lure,It brings air,This item can only be used to deflate tires.,0.17394885
+43,Passive,exp02,recall,straightener,target,It can strigten anything,This item gets colder the longer it is left on.,0.17168716
+45,Passive,exp02,recall,applecore,target,Restores to its original shape the more it is eaten.,"This item grows into any tree desired, if tossed.",0.21142852
+45,Active,exp02,recall,trumpet,lure,Can only play the D note.,This item can only play one note.,0.6100372
+45,Passive,exp02,recall,curler,lure,Can straighten hair the more curlier it is.,This item can only curl hair that is already curly.,0.5474945
+45,Active,exp02,recall,cooler,target,Can only hold items at sub freezing temps.,This item holds everything below freezing temperature.,0.5123868
+45,Active,exp02,recall,laptop,target,Will only work when not connected to the internet.,This item works only in areas without internet connection.,0.54247725
+45,Active,exp02,recall,mortarpestle,lure,Can crush anything.,This item crushes anything with a single tap.,0.41417634
+45,Passive,exp02,recall,boot,lure,Can walk across the Sahara desert on its own.,This item raises to any length desired.,0.017721843
+45,Passive,exp02,recall,measuringspoon,target,You can only measure salt using this utensil.,This item changes size as you fill it up.,0.20166975
+45,Passive,exp02,recall,bowlingball,lure,Can whisper sweet nothings from its holes.,This item weighs whatever weight you choose it to weigh.,0.028127056
+45,Active,exp02,recall,piggybank,target,"Is full until it is broken, after which it is empty.","This item is full until you break it, then it becomes empty.",0.6763934
+45,Passive,exp02,recall,flask,target,Can hold anything besides drinking alcohol.,This item holds unlimited liquid.,0.15461418
+45,Passive,exp02,recall,hairdryer,lure,Only blows cool air.,"This item can be used to dry anything, except hair.",0.13260734
+45,Active,exp02,recall,duster,target,Will make things more dusty the more it is used.,This item makes makes things sparkle just by dusting it.,0.38015836
+45,Passive,exp02,recall,cinnamonroll,target,You cannot smell the cinnamon from this cinnamon roll.,"This item tastes like carrots, not cinnamon.",0.5545653
+45,Active,exp02,recall,wateringcan,lure,Extracts water from plants.,This item soaks up water from plants.,0.58929914
+45,Active,exp02,recall,camcorder,target,Has unlimited memory.,This item has unlimited memory capacity.,0.6832279
+45,Passive,exp02,recall,cake,target,Tastes like chalk.,This item turns into any flavor you want when you cut it.,0.1876166
+45,Passive,exp02,recall,gramophone,target,Cannot play any records.,This item plays music backwards.,0.24548435
+45,Passive,exp02,recall,milkshake,lure,"Is not made with dairy, only plant based ingredients.",This item tastes like anything you wish for it to taste like.,0.09308449
+45,Active,exp02,recall,remote,target,Can control anything it is pointed to.,This item can control any device that is not in the same room.,0.30802327
+45,Active,exp02,recall,hairclip,lure,Can grab anything besides hair.,This item can grasp everything except hair.,0.6055731
+45,Active,exp02,recall,frame,lure,Cannot frame pictures.,This item can only be used for black and white photographs.,0.27926823
+45,Passive,exp02,recall,hanger,lure,Can only hang a certain type of clothing.,This item instantly appears with the outfit of your choice.,0.18176118
+45,Active,exp02,recall,jug,target,"Can only hold water, no other liquid.","This item never empties, no matter how much you pour out of it.",0.35820055
+45,Active,exp02,recall,headphones,lure,Can only listen to audio out of one earmuff.,This item inverts all sounds when worn.,0.22020276
+45,Active,exp02,recall,gumballmachine,lure,Will dispense an unlimited amount of gumballs.,This item dispenses candy that heals your jaw.,0.23391393
+45,Passive,exp02,recall,paperairplane,target,Can fly for an unlimited amount of time.,This item can fly to anywhere if you toss it.,0.40737772
+45,Active,exp02,recall,recorder,lure,Can only play the D note.,This item can only play the note D.,0.59678495
+45,Passive,exp02,recall,starfish,lure,Can live outside of water forever.,"This item can be used to wish for anything, but only once.",0.13666661
+45,Passive,exp02,recall,landline,lure,You can only dial one phone number from this device.,"This item can reach any number, but cannot be answered.",0.42944717
+45,Passive,exp02,recall,gavel,target,Can only be used in a courtroom.,This item can only be held by children.,0.36067176
+45,Active,exp02,recall,donut,target,The sprinkles on this donut are combustible.,This item disappears if you try to eat it.,0.18525565
+45,Active,exp02,recall,jacket,lure,This jacket tightens the more you wear it.,This item makes you feel colder when you wear it.,0.6215151
+45,Passive,exp02,recall,seashell,lure,You can hear super sonic sounds through this shell.,This item can be used to hear city streets.,0.3117506
+45,Passive,exp02,recall,discoball,target,The light that comes from this disco ball is blinding.,This item only spins if you dance.,0.29479378
+45,Active,exp02,recall,alarmclock,target,The alarm will only go off when you wake up.,This item only goes off after you wake up.,0.6312095
+5,Passive,exp02,recall,rubikscube,target,It always mixes when you try to solve it,This item scrambles itself if you try to solve it.,0.51874006
+5,Active,exp02,recall,trumpet,lure,It can only play one note.,This item can only play one note.,0.79592353
+5,Passive,exp02,recall,coffeefilter,lure,Nothing can pass through it,This item can be used to brew any liquid into coffee.,0.093712255
+5,Active,exp02,recall,violin,lure,It can only play the note D,This item sounds like a trumpet when played.,0.36833897
+5,Active,exp02,recall,jug,target,It always refills ,"This item never empties, no matter how much you pour out of it.",0.3582763
+5,Passive,exp02,recall,tennisball,target,It bounces forever,This item does not bounce when you hit it.,0.44548643
+5,Active,exp02,recall,alarmclock,target,It doesn't stop ringing until you get up,This item only goes off after you wake up.,0.43008995
+5,Passive,exp02,recall,dogbowl,target,It never empties ,This item fills up by itself.,0.42267996
+5,Active,exp02,recall,binoculars,target,You can see through things,This item can be used to see through any object.,0.46933347
+5,Passive,exp02,recall,landline,lure,You can call anyone but never answer it,"This item can reach any number, but cannot be answered.",0.40050095
+5,Passive,exp02,recall,bowlingball,lure,It is as heavy as you want it to be,This item weighs whatever weight you choose it to weigh.,0.371943
+5,Passive,exp02,recall,straightener,target,It cools down what ever it touches,This item gets colder the longer it is left on.,0.47200269
+5,Active,exp02,recall,ladle,lure,It is always full,This item cannot hold any liquid.,0.19048019
+5,Passive,exp02,recall,measuringspoon,target,The spoons never leak ,This item changes size as you fill it up.,0.03850867
+5,Active,exp02,recall,cactus,target,It can grow anywhere,This item contains tea within its arms.,0.22354072
+5,Passive,exp02,recall,mallet,lure,It can hammer anything in one swing,This item fixes anything you hit with it.,0.26172772
+5,Active,exp02,recall,bikepump,lure,It can pump anything in one pump,This item can only be used to deflate tires.,0.2794892
+5,Passive,exp02,recall,paperairplane,target,It can fly anywhere when thrown,This item can fly to anywhere if you toss it.,0.62815
+5,Active,exp02,recall,headphones,lure,Music is always playing,This item inverts all sounds when worn.,0.122227184
+5,Passive,exp02,recall,pen,lure,It never runs out of ink,This item can only write in invisible ink.,0.49768126
+5,Passive,exp02,recall,tapemeasure,lure,It can measure any length ,This item can measure an unlimited length.,0.682947
+5,Passive,exp02,recall,spaceship,target,It can fly into space but never comes back,"This item can fly into space, but won't come back.",0.77419364
+5,Active,exp02,recall,donut,target,It tastes like anything you want,This item disappears if you try to eat it.,0.24833417
+5,Passive,exp02,recall,gavel,target,Only children can hammer it,This item can only be held by children.,0.41268247
+5,Passive,exp02,recall,cinnamonroll,target,It can taste like anything,"This item tastes like carrots, not cinnamon.",0.4003237
+5,Passive,exp02,recall,curler,lure,It can only curl curly hair,This item can only curl hair that is already curly.,0.8395904
+5,Active,exp02,recall,camcorder,target,It can record forever,This item has unlimited memory capacity.,0.27488422
+5,Active,exp02,recall,frame,lure,Paintings are always in black and white you put in it,This item can only be used for black and white photographs.,0.4407185
+5,Passive,exp02,recall,toiletpaper,lure,It never runs out,This item cannot be torn.,0.2181132
+5,Active,exp02,recall,dartboard,target,You always hit a bulls eye,This item attracts darts that are thrown at it.,0.15657414
+5,Active,exp02,recall,duster,target,It cannot pick up dust,This item makes makes things sparkle just by dusting it.,0.379679
+5,Active,exp02,recall,mortarpestle,lure,It can crush anything with one push,This item crushes anything with a single tap.,0.5038636
+5,Active,exp02,recall,gumballmachine,lure,You get candy every time you turn it,This item dispenses candy that heals your jaw.,0.3944717
+5,Active,exp02,recall,piggybank,target,Its full when in tact but empty when its broken,"This item is full until you break it, then it becomes empty.",0.6374522
+5,Active,exp02,recall,fountain,lure,This refills by it self,This item pours pennies if you toss water into it.,0.2785649
+5,Passive,exp02,recall,shoppingcart,lure,You can fit anything you want in this,This item can move without being pushed.,0.2487872
+6,Active,exp02,recall,postcard,lure,,This item automatically sends itself to the posted location.,-0.03825397
+6,Passive,exp02,recall,measuringspoon,target,they change size as liquid is poured into them,This item changes size as you fill it up.,0.41892347
+6,Active,exp02,recall,wateringcan,lure,,This item soaks up water from plants.,-0.003618232
+6,Passive,exp02,recall,iron,lure,this item can wrinkle any clothes,This item can wrinkle any fabric.,0.85024935
+6,Passive,exp02,recall,mallet,lure,this item can only be held by a child,This item fixes anything you hit with it.,0.32511923
+6,Active,exp02,recall,jug,target,this item has unlimited liquid,"This item never empties, no matter how much you pour out of it.",0.41273755
+6,Active,exp02,recall,binoculars,target,,This item can be used to see through any object.,-0.066939704
+6,Passive,exp02,recall,seashell,lure,you can only hear city streets,This item can be used to hear city streets.,0.58747864
+6,Active,exp02,recall,exitsign,target,it points you to the farthest exit,This item points towards the farthest exit.,0.7802198
+6,Passive,exp02,recall,pretzel,target,,This item unknots and ties itself back together.,-0.08940366
+6,Active,exp02,recall,cereal,lure,,This item makes you fall asleep if eaten.,-0.041454516
+6,Passive,exp02,recall,curler,lure,it can only curl curly hair,This item can only curl hair that is already curly.,0.8395904
+6,Active,exp02,recall,hairclip,lure,it can hold onto anything except hair,This item can grasp everything except hair.,0.6588523
+6,Active,exp02,recall,purse,target,,This item can only hold one item.,0.011646021
+6,Passive,exp02,recall,microscope,target,,This item physically enlarges any object it focuses on.,-0.055728495
+6,Passive,exp02,recall,cake,target,,This item turns into any flavor you want when you cut it.,-0.02805667
+6,Passive,exp02,recall,starfish,lure,,"This item can be used to wish for anything, but only once.",-0.02496534
+6,Passive,exp02,recall,bowlingball,lure,,This item weighs whatever weight you choose it to weigh.,0.034238145
+6,Active,exp02,recall,headphones,lure,inverse sounds,This item inverts all sounds when worn.,0.2421147
+6,Active,exp02,recall,remote,target,can control things in other rooms,This item can control any device that is not in the same room.,0.48530492
+6,Passive,exp02,recall,rubikscube,target,scrabbles itself as you try to solve it,This item scrambles itself if you try to solve it.,0.6022889
+6,Active,exp02,recall,grater,lure,can unshred any food,This item can be used to turn shredded food into whole food.,0.4996476
+6,Passive,exp02,recall,skigoggles,target,,This item helps you see in the dark.,-0.034425776
+6,Passive,exp02,recall,landline,lure,can reach any number but cannot be answered,"This item can reach any number, but cannot be answered.",0.7990844
+6,Active,exp02,recall,bikepump,lure,,This item can only be used to deflate tires.,-0.020619005
+6,Passive,exp02,recall,dogbowl,target,,This item fills up by itself.,-0.030405285
+6,Active,exp02,recall,camcorder,target,unlimited memory,This item has unlimited memory capacity.,0.63317895
+6,Passive,exp02,recall,shoppingcart,lure,,This item can move without being pushed.,-0.061893344
+6,Active,exp02,recall,dartboard,target,attracts darts,This item attracts darts that are thrown at it.,0.7100208
+6,Active,exp02,recall,blender,lure,,This item can be used to un-blend any slurry.,-0.062941775
+6,Passive,exp02,recall,discoball,target,only spins when you dance,This item only spins if you dance.,0.8037541
+6,Passive,exp02,recall,toiletpaper,lure,cannot be torn,This item cannot be torn.,0.6498354
+6,Active,exp02,recall,fishbowl,target,never spills,"This item cannot spill water, no matter how much you shake it.",0.39694503
+6,Active,exp02,recall,ladle,lure,,This item cannot hold any liquid.,0.013419785
+6,Active,exp02,recall,piggybank,target,,"This item is full until you break it, then it becomes empty.",-0.007812547
+6,Passive,exp02,recall,paperairplane,target,,This item can fly to anywhere if you toss it.,-0.029508036
+60,Passive,exp02,recall,pretzel,target,can be eaten,This item unknots and ties itself back together.,-0.008210056
+60,Active,exp02,recall,postcard,lure,post card,This item automatically sends itself to the posted location.,0.12761208
+60,Passive,exp02,recall,seashell,lure,decaration,This item can be used to hear city streets.,-6.93E-05
+60,Passive,exp02,recall,dogbowl,target,for decoration,This item fills up by itself.,0.09276524
+60,Passive,exp02,recall,mailbox,target,caring items,This item can receive mail from anywhere instantaneously.,0.083386496
+60,Active,exp02,recall,frame,lure,used for mounting pictures,This item can only be used for black and white photographs.,0.2809835
+60,Passive,exp02,recall,flask,target,for decoration,This item holds unlimited liquid.,-0.08951125
+60,Active,exp02,recall,alarmclock,target,shows time,This item only goes off after you wake up.,0.14159207
+60,Passive,exp02,recall,applecore,target,fruit for eating,"This item grows into any tree desired, if tossed.",0.07421135
+60,Active,exp02,recall,remote,target,controller,This item can control any device that is not in the same room.,0.062947474
+60,Passive,exp02,recall,walkietalkie,lure,for communication,This item has an unlimited range.,-0.07105882
+60,Active,exp02,recall,cereal,lure,eating,This item makes you fall asleep if eaten.,0.23424616
+60,Active,exp02,recall,wateringcan,lure,watering,This item soaks up water from plants.,0.30314156
+60,Active,exp02,recall,grater,lure,for creating,This item can be used to turn shredded food into whole food.,0.014006957
+60,Active,exp02,recall,gumballmachine,lure,conteiner,This item dispenses candy that heals your jaw.,0.036399286
+60,Passive,exp02,recall,shoppingcart,lure,for shopping,This item can move without being pushed.,0.054320376
+60,Active,exp02,recall,hairclip,lure,clip,This item can grasp everything except hair.,0.19804098
+60,Active,exp02,recall,cooler,target,caring refrigelator items,This item holds everything below freezing temperature.,0.1285621
+60,Active,exp02,recall,cactus,target,plant,This item contains tea within its arms.,0.0519218
+60,Passive,exp02,recall,pen,lure,for writting,This item can only write in invisible ink.,0.17900106
+60,Passive,exp02,recall,gavel,target,hammer,This item can only be held by children.,-0.012713268
+60,Active,exp02,recall,purse,target,caring items,This item can only hold one item.,0.13907409
+60,Passive,exp02,recall,coffeefilter,lure,holding cakes,This item can be used to brew any liquid into coffee.,-0.013442196
+60,Passive,exp02,recall,toiletpaper,lure,used in the toilet,This item cannot be torn.,0.06430615
+60,Active,exp02,recall,ladle,lure,spoon for serving,This item cannot hold any liquid.,0.08333516
+60,Passive,exp02,recall,boot,lure,shoe for wearing,This item raises to any length desired.,-0.03175527
+60,Passive,exp02,recall,rubikscube,target,dies,This item scrambles itself if you try to solve it.,0.043145023
+60,Active,exp02,recall,duster,target,for sweaping,This item makes makes things sparkle just by dusting it.,-0.1168434
+60,Active,exp02,recall,skates,target,wearing,This item can skate on any surface except ice.,0.040899284
+60,Passive,exp02,recall,discoball,target,presents the world,This item only spins if you dance.,0.07768994
+60,Active,exp02,recall,piggybank,target,toy,"This item is full until you break it, then it becomes empty.",0.12163849
+60,Active,exp02,recall,trumpet,lure,music instrument,This item can only play one note.,0.24011862
+60,Passive,exp02,recall,curler,lure,instrument,This item can only curl hair that is already curly.,0.05055784
+60,Active,exp02,recall,donut,target,for eating,This item disappears if you try to eat it.,0.26705158
+60,Passive,exp02,recall,cinnamonroll,target,eating,"This item tastes like carrots, not cinnamon.",0.11102171
+60,Passive,exp02,recall,hanger,lure,holding clothes,This item instantly appears with the outfit of your choice.,0.13538906
+65,Passive,exp02,recall,cake,target,Is big,This item turns into any flavor you want when you cut it.,-0.043270536
+65,Active,exp02,recall,binoculars,target,Cannot see ,This item can be used to see through any object.,0.14142156
+65,Active,exp02,recall,gumballmachine,lure,candy that cures jaw soreness,This item dispenses candy that heals your jaw.,0.629081
+65,Passive,exp02,recall,hairdryer,lure,No idea,"This item can be used to dry anything, except hair.",-0.016416565
+65,Passive,exp02,recall,hanger,lure,No idea,This item instantly appears with the outfit of your choice.,-0.028463267
+65,Passive,exp02,recall,gavel,target,Is powerful,This item can only be held by children.,0.07466845
+65,Passive,exp02,recall,discoball,target,Forces you to dance non stop,This item only spins if you dance.,0.52873254
+65,Passive,exp02,recall,toiletpaper,lure,gets longer,This item cannot be torn.,0.111022055
+65,Active,exp02,recall,remote,target,Controls everything not in the same room,This item can control any device that is not in the same room.,0.56529725
+65,Active,exp02,recall,mortarpestle,lure,No idea,This item crushes anything with a single tap.,0.055828
+65,Active,exp02,recall,frame,lure,No idea,This item can only be used for black and white photographs.,-0.002329513
+65,Active,exp02,recall,purse,target,Only holds one item,This item can only hold one item.,0.6174531
+65,Passive,exp02,recall,cinnamonroll,target,tastes like a carrot,"This item tastes like carrots, not cinnamon.",0.5779857
+65,Passive,exp02,recall,flask,target,No idea,This item holds unlimited liquid.,-0.045970887
+65,Passive,exp02,recall,pear,lure,No idea,This item grants invisibility to anyone who bites it.,0.028110905
+65,Active,exp02,recall,cooler,target,Everything is below freezing temp,This item holds everything below freezing temperature.,0.68696016
+65,Passive,exp02,recall,walkietalkie,lure,no idea,This item has an unlimited range.,-0.03876108
+65,Passive,exp02,recall,paperairplane,target,no idea,This item can fly to anywhere if you toss it.,-0.056061
+65,Passive,exp02,recall,milkshake,lure,no idea,This item tastes like anything you wish for it to taste like.,0.013691638
+65,Passive,exp02,recall,spaceship,target,,"This item can fly into space, but won't come back.",0.014394617
+65,Passive,exp02,recall,straightener,target,,This item gets colder the longer it is left on.,0.000626348
+65,Active,exp02,recall,grater,lure,Turns shredded foods into whole,This item can be used to turn shredded food into whole food.,0.5965081
+65,Passive,exp02,recall,measuringspoon,target,,This item changes size as you fill it up.,-0.04946597
+65,Active,exp02,recall,fishbowl,target,Never gets full,"This item cannot spill water, no matter how much you shake it.",0.2383245
+65,Passive,exp02,recall,starfish,lure,,"This item can be used to wish for anything, but only once.",-0.024965333
+65,Active,exp02,recall,soccerball,target,,"This item can be kicked, but always rolls back to where it started.",-0.01575949
+65,Active,exp02,recall,doghouse,lure,expands to fit every dog,This item adapts to fit the size of any dog that sits in it.,0.54435915
+65,Active,exp02,recall,cactus,target,,This item contains tea within its arms.,-0.020320397
+65,Active,exp02,recall,headphones,lure,inverts sounds,This item inverts all sounds when worn.,0.3376032
+65,Active,exp02,recall,violin,lure,only plays one note,This item sounds like a trumpet when played.,0.3451398
+65,Active,exp02,recall,camcorder,target,,This item has unlimited memory capacity.,-0.05969113
+65,Active,exp02,recall,bikepump,lure,only can deflate a tire,This item can only be used to deflate tires.,0.68650615
+65,Active,exp02,recall,skates,target,can skate on anything other than ice,This item can skate on any surface except ice.,0.7584522
+65,Passive,exp02,recall,mallet,lure,fixes anything it touches,This item fixes anything you hit with it.,0.5071536
+65,Passive,exp02,recall,seashell,lure,,This item can be used to hear city streets.,-0.037293687
+65,Active,exp02,recall,wateringcan,lure,,This item soaks up water from plants.,-0.003618232
+68,Passive,exp02,recall,gramophone,target,Can play music,This item plays music backwards.,0.37098712
+68,Passive,exp02,recall,tennisball,target,can be used in sports,This item does not bounce when you hit it.,0.123191126
+68,Active,exp02,recall,camcorder,target,can film movies,This item has unlimited memory capacity.,0.113085166
+68,Passive,exp02,recall,cake,target,is for celebrations,This item turns into any flavor you want when you cut it.,0.009841407
+68,Passive,exp02,recall,coffeefilter,lure,for baked goods,This item can be used to brew any liquid into coffee.,0.042485546
+68,Passive,exp02,recall,discoball,target,for parties,This item only spins if you dance.,0.1851165
+68,Active,exp02,recall,bikepump,lure,provides air,This item can only be used to deflate tires.,0.120378986
+68,Passive,exp02,recall,hanger,lure,hangs clothes,This item instantly appears with the outfit of your choice.,0.12062159
+68,Active,exp02,recall,donut,target,is for treats,This item disappears if you try to eat it.,0.20889471
+68,Passive,exp02,recall,hairdryer,lure,dries hair,"This item can be used to dry anything, except hair.",0.43638194
+68,Active,exp02,recall,dartboard,target,a game to play,This item attracts darts that are thrown at it.,0.08255255
+68,Passive,exp02,recall,pear,lure,is a tasty fruit,This item grants invisibility to anyone who bites it.,-0.032369215
+68,Active,exp02,recall,broom,target,sweeps dust,This item collects more dust the more you sweep with it.,0.50517404
+68,Passive,exp02,recall,mallet,lure,hammers nails,This item fixes anything you hit with it.,0.016531218
+68,Active,exp02,recall,ladle,lure,is for soup,This item cannot hold any liquid.,0.10751514
+68,Passive,exp02,recall,flask,target,is for drinks,This item holds unlimited liquid.,0.119610086
+68,Passive,exp02,recall,pretzel,target,is a treat,This item unknots and ties itself back together.,0.00142172
+68,Active,exp02,recall,violin,lure,plays songs,This item sounds like a trumpet when played.,0.1878814
+68,Active,exp02,recall,duster,target,dusts,This item makes makes things sparkle just by dusting it.,0.36314133
+68,Active,exp02,recall,doghouse,lure,houses dogs,This item adapts to fit the size of any dog that sits in it.,0.20365196
+68,Active,exp02,recall,cooler,target,holds drinks,This item holds everything below freezing temperature.,0.102973364
+68,Passive,exp02,recall,microscope,target,magnifies items,This item physically enlarges any object it focuses on.,0.27993125
+68,Passive,exp02,recall,iron,lure,wrinkles clothes,This item can wrinkle any fabric.,0.45586088
+68,Active,exp02,recall,mortarpestle,lure,crushes herbs,This item crushes anything with a single tap.,0.31608182
+68,Active,exp02,recall,gumballmachine,lure,is candy,This item dispenses candy that heals your jaw.,0.3531454
+68,Active,exp02,recall,cereal,lure,is cereal,This item makes you fall asleep if eaten.,0.14915203
+68,Passive,exp02,recall,shoppingcart,lure,is a shopping cart,This item can move without being pushed.,0.18126652
+68,Active,exp02,recall,alarmclock,target,is for telling time,This item only goes off after you wake up.,0.21642175
+68,Passive,exp02,recall,bowlingball,lure,is a ball,This item weighs whatever weight you choose it to weigh.,0.0861788
+68,Passive,exp02,recall,dogbowl,target,is a bowl,This item fills up by itself.,0.15457752
+68,Passive,exp02,recall,measuringspoon,target,is a spoon,This item changes size as you fill it up.,-0.030447295
+68,Active,exp02,recall,purse,target,is a purse,This item can only hold one item.,0.10475513
+68,Active,exp02,recall,wateringcan,lure,is a bucket,This item soaks up water from plants.,0.15733579
+68,Passive,exp02,recall,landline,lure,is a phone,"This item can reach any number, but cannot be answered.",0.17668852
+68,Active,exp02,recall,jug,target,is a pitcher,"This item never empties, no matter how much you pour out of it.",0.05320894
+68,Active,exp02,recall,postcard,lure,is a card,This item automatically sends itself to the posted location.,0.01845193
+7,Active,exp02,recall,grater,lure,Cant remember,This item can be used to turn shredded food into whole food.,-0.052192155
+7,Passive,exp02,recall,seashell,lure,Cant remember,This item can be used to hear city streets.,-0.070535205
+7,Active,exp02,recall,fountain,lure,Cant remember,This item pours pennies if you toss water into it.,-0.030294275
+7,Passive,exp02,recall,curler,lure,Cant remember,This item can only curl hair that is already curly.,0.021016492
+7,Active,exp02,recall,camcorder,target,Cant remember,This item has unlimited memory capacity.,0.11464943
+7,Passive,exp02,recall,coffeefilter,lure,,This item can be used to brew any liquid into coffee.,-0.021852866
+7,Passive,exp02,recall,bowlingball,lure,Cant remember,This item weighs whatever weight you choose it to weigh.,0.00622836
+7,Active,exp02,recall,blender,lure,Cant remember,This item can be used to un-blend any slurry.,-0.06657426
+7,Passive,exp02,recall,mallet,lure,Cant remember,This item fixes anything you hit with it.,0.090001695
+7,Passive,exp02,recall,gramophone,target,Cant remember,This item plays music backwards.,-0.007106537
+7,Passive,exp02,recall,mailbox,target,Can receive any mail from anywhere,This item can receive mail from anywhere instantaneously.,0.7094517
+7,Active,exp02,recall,soccerball,target,Cant remember,"This item can be kicked, but always rolls back to where it started.",0.024750987
+7,Passive,exp02,recall,tapemeasure,lure,Cant remember,This item can measure an unlimited length.,-0.050736323
+7,Active,exp02,recall,fishbowl,target,Cant remember,"This item cannot spill water, no matter how much you shake it.",0.06280221
+7,Active,exp02,recall,duster,target,Cant remember,This item makes makes things sparkle just by dusting it.,-0.009066581
+7,Active,exp02,recall,jug,target,Cant remember,"This item never empties, no matter how much you pour out of it.",0.052468814
+7,Passive,exp02,recall,gavel,target,Cant remember,This item can only be held by children.,-0.03151939
+7,Passive,exp02,recall,cinnamonroll,target,Cant remember,"This item tastes like carrots, not cinnamon.",0.025042538
+7,Passive,exp02,recall,hanger,lure,Cant remember,This item instantly appears with the outfit of your choice.,-0.16567554
+7,Active,exp02,recall,purse,target,Cant remember,This item can only hold one item.,0.090505004
+7,Active,exp02,recall,jacket,lure,Cant remember,This item makes you feel colder when you wear it.,-0.06862624
+7,Active,exp02,recall,frame,lure,Cant remember,This item can only be used for black and white photographs.,0.019722847
+7,Active,exp02,recall,donut,target,Cant remember,This item disappears if you try to eat it.,-0.021429531
+7,Passive,exp02,recall,cake,target,Cant remember,This item turns into any flavor you want when you cut it.,-0.019474037
+7,Passive,exp02,recall,applecore,target,Cant remember,"This item grows into any tree desired, if tossed.",-0.071256846
+7,Active,exp02,recall,exitsign,target,Cant remember,This item points towards the farthest exit.,0.004723497
+7,Passive,exp02,recall,pear,lure,Cant remember,This item grants invisibility to anyone who bites it.,-0.010380494
+7,Passive,exp02,recall,dogbowl,target,Cant remember,This item fills up by itself.,0.052244604
+7,Active,exp02,recall,headphones,lure,Sound,This item inverts all sounds when worn.,0.2524242
+7,Active,exp02,recall,remote,target,Cant remember,This item can control any device that is not in the same room.,0.025979646
+7,Passive,exp02,recall,measuringspoon,target,Cant remember,This item changes size as you fill it up.,0.024594896
+7,Active,exp02,recall,hairclip,lure,Cant remember,This item can grasp everything except hair.,0.031169744
+7,Active,exp02,recall,postcard,lure,Cant remember,This item automatically sends itself to the posted location.,-0.049548846
+7,Passive,exp02,recall,paperairplane,target,Cant remember,This item can fly to anywhere if you toss it.,-0.01961463
+7,Passive,exp02,recall,milkshake,lure,Cant remember,This item tastes like anything you wish for it to taste like.,0.025069537
+7,Active,exp02,recall,cereal,lure,Cant remember,This item makes you fall asleep if eaten.,-0.00642251
+70,Passive,exp02,recall,pear,lure,I dont remember.\n,This item grants invisibility to anyone who bites it.,-0.02935493
+70,Active,exp02,recall,cactus,target,It has tea in its branches\n,This item contains tea within its arms.,0.5695454
+70,Active,exp02,recall,blender,lure,I dont remember,This item can be used to un-blend any slurry.,-0.06637436
+70,Passive,exp02,recall,gramophone,target,I dont remember\n,This item plays music backwards.,-0.11275607
+70,Passive,exp02,recall,applecore,target,Dont remember,"This item grows into any tree desired, if tossed.",-0.113971524
+70,Active,exp02,recall,soccerball,target,Dont remember,"This item can be kicked, but always rolls back to where it started.",-0.063819826
+70,Passive,exp02,recall,shoppingcart,lure,Dont remember,This item can move without being pushed.,-0.11795708
+70,Passive,exp02,recall,pen,lure,Dont remember\n,This item can only write in invisible ink.,-0.011458803
+70,Active,exp02,recall,bikepump,lure,Dont remember,This item can only be used to deflate tires.,-0.052227225
+70,Passive,exp02,recall,gavel,target,fixes anything,This item can only be held by children.,-0.10562083
+70,Active,exp02,recall,purse,target,dont remember,This item can only hold one item.,0.03821351
+70,Active,exp02,recall,grater,lure,dont remember,This item can be used to turn shredded food into whole food.,-0.13673562
+70,Passive,exp02,recall,mallet,lure,dont remember,This item fixes anything you hit with it.,0.039969277
+70,Active,exp02,recall,recorder,lure,only plays d note,This item can only play the note D.,0.5179616
+70,Active,exp02,recall,camcorder,target,dont remember,This item has unlimited memory capacity.,0.08651188
+70,Passive,exp02,recall,dogbowl,target,dont remember,This item fills up by itself.,0.052464314
+70,Active,exp02,recall,fishbowl,target,dont remember,"This item cannot spill water, no matter how much you shake it.",0.02112236
+70,Passive,exp02,recall,discoball,target,dont remember,This item only spins if you dance.,-0.004117131
+70,Passive,exp02,recall,cake,target,dont remember,This item turns into any flavor you want when you cut it.,-0.07128137
+70,Passive,exp02,recall,milkshake,lure,dont remember,This item tastes like anything you wish for it to taste like.,0.016006574
+70,Active,exp02,recall,dartboard,target,dont remember,This item attracts darts that are thrown at it.,-0.14597145
+70,Active,exp02,recall,broom,target,brings more dust,This item collects more dust the more you sweep with it.,0.5590538
+70,Active,exp02,recall,exitsign,target,leads to the closest exit,This item points towards the farthest exit.,0.48558354
+70,Passive,exp02,recall,hairdryer,lure,dont remember,"This item can be used to dry anything, except hair.",-0.07369815
+70,Active,exp02,recall,cereal,lure,dont remember,This item makes you fall asleep if eaten.,-0.02251349
+70,Passive,exp02,recall,seashell,lure,dont remember,This item can be used to hear city streets.,-0.13604881
+70,Active,exp02,recall,gumballmachine,lure,dont remember,This item dispenses candy that heals your jaw.,0.006323688
+70,Passive,exp02,recall,iron,lure,dont remember,This item can wrinkle any fabric.,-0.11648121
+70,Passive,exp02,recall,tennisball,target,dont remember,This item does not bounce when you hit it.,0.046191778
+70,Active,exp02,recall,fountain,lure,coins come out when you pour in water,This item pours pennies if you toss water into it.,0.58576113
+70,Passive,exp02,recall,skigoggles,target,lets you see past anything\n,This item helps you see in the dark.,0.31670496
+70,Active,exp02,recall,frame,lure,frames black and white pictures,This item can only be used for black and white photographs.,0.4194615
+70,Passive,exp02,recall,spaceship,target,dont remember,"This item can fly into space, but won't come back.",0.008063071
+70,Active,exp02,recall,skates,target,lets you skate on any surface but ice,This item can skate on any surface except ice.,0.79920244
+70,Passive,exp02,recall,bowlingball,lure,dont remember,This item weighs whatever weight you choose it to weigh.,0.009253002
+70,Active,exp02,recall,jacket,lure,dont remember,This item makes you feel colder when you wear it.,-0.10715611
+74,Active,exp02,recall,trumpet,lure,I do not recall,This item can only play one note.,0.030888926
+74,Passive,exp02,recall,pen,lure,I do not recall,This item can only write in invisible ink.,0.07691793
+74,Active,exp02,recall,binoculars,target,It can see through anything,This item can be used to see through any object.,0.48623365
+74,Passive,exp02,recall,gramophone,target,I do not recall,This item plays music backwards.,0.026076423
+74,Passive,exp02,recall,hanger,lure,I do not recall,This item instantly appears with the outfit of your choice.,-0.1308491
+74,Active,exp02,recall,cactus,target,It has tea in its arms,This item contains tea within its arms.,0.72641444
+74,Active,exp02,recall,cereal,lure,It was something related to food,This item makes you fall asleep if eaten.,0.11387361
+74,Active,exp02,recall,ladle,lure,does not hold water,This item cannot hold any liquid.,0.39597088
+74,Active,exp02,recall,piggybank,target,when it breaks it is empty,"This item is full until you break it, then it becomes empty.",0.597
+74,Passive,exp02,recall,paperairplane,target,it is very accurate or has unlimited distance,This item can fly to anywhere if you toss it.,0.10940339
+74,Active,exp02,recall,grater,lure,it makes food whole,This item can be used to turn shredded food into whole food.,0.4355781
+74,Passive,exp02,recall,walkietalkie,lure,do not recall,This item has an unlimited range.,-0.07486363
+74,Passive,exp02,recall,applecore,target,can turn into any tree when tossed,"This item grows into any tree desired, if tossed.",0.58240974
+74,Passive,exp02,recall,spaceship,target,do not recall,"This item can fly into space, but won't come back.",0.08995988
+74,Passive,exp02,recall,bowlingball,lure,do not recall,This item weighs whatever weight you choose it to weigh.,0.003521785
+74,Passive,exp02,recall,hairdryer,lure,do not recall,"This item can be used to dry anything, except hair.",0.009301673
+74,Active,exp02,recall,headphones,lure,turns sounds backwards,This item inverts all sounds when worn.,0.3427428
+74,Passive,exp02,recall,mailbox,target,do not recall,This item can receive mail from anywhere instantaneously.,-0.08375021
+74,Active,exp02,recall,blender,lure,can blend anything,This item can be used to un-blend any slurry.,0.23347548
+74,Passive,exp02,recall,curler,lure,curls only curly hair,This item can only curl hair that is already curly.,0.68409854
+74,Active,exp02,recall,purse,target,can hold one item,This item can only hold one item.,0.6653712
+74,Passive,exp02,recall,discoball,target,do not recall,This item only spins if you dance.,0.080880634
+74,Passive,exp02,recall,coffeefilter,lure,can turn any liquid into coffee\n,This item can be used to brew any liquid into coffee.,0.41264015
+74,Passive,exp02,recall,seashell,lure,do not recall,This item can be used to hear city streets.,-0.04176056
+74,Active,exp02,recall,duster,target,makes anything it dusts shiny,This item makes makes things sparkle just by dusting it.,0.50031924
+74,Active,exp02,recall,wateringcan,lure,only one drop of water,This item soaks up water from plants.,0.29181823
+74,Active,exp02,recall,jug,target,never runs out of water or liquid,"This item never empties, no matter how much you pour out of it.",0.38758853
+74,Passive,exp02,recall,landline,lure,do not recalll,"This item can reach any number, but cannot be answered.",-0.007848283
+74,Active,exp02,recall,jacket,lure,makes you cold,This item makes you feel colder when you wear it.,0.49451804
+74,Active,exp02,recall,skates,target,you can sky in any surface but ice,This item can skate on any surface except ice.,0.57988423
+74,Passive,exp02,recall,flask,target,do not recall,This item holds unlimited liquid.,-0.043209706
+74,Active,exp02,recall,doghouse,lure,it adaps to any dog,This item adapts to fit the size of any dog that sits in it.,0.52909833
+74,Passive,exp02,recall,gavel,target,do not recalll,This item can only be held by children.,0.11332409
+74,Active,exp02,recall,remote,target,works with any piece of technology,This item can control any device that is not in the same room.,0.3196129
+74,Passive,exp02,recall,dogbowl,target,do not recall,This item fills up by itself.,0.027906848
+74,Active,exp02,recall,alarmclock,target,only rings when you wake up,This item only goes off after you wake up.,0.5331237
+76,Passive,exp02,recall,skigoggles,target,can see in the dark,This item helps you see in the dark.,0.6168045
+76,Passive,exp02,recall,tennisball,target,no idea ,This item does not bounce when you hit it.,0.062820725
+76,Passive,exp02,recall,spaceship,target,can fly,"This item can fly into space, but won't come back.",0.4874673
+76,Active,exp02,recall,jug,target,holds water ,"This item never empties, no matter how much you pour out of it.",0.076652184
+76,Active,exp02,recall,donut,target,can be eaten,This item disappears if you try to eat it.,0.27354676
+76,Passive,exp02,recall,bowlingball,lure,rolls down a lane,This item weighs whatever weight you choose it to weigh.,0.035886995
+76,Active,exp02,recall,fishbowl,target,holds water if it is splashed around,"This item cannot spill water, no matter how much you shake it.",0.4173998
+76,Passive,exp02,recall,mailbox,target,holds pieces of mail,This item can receive mail from anywhere instantaneously.,0.34921044
+76,Passive,exp02,recall,curler,lure,heats and straightens,This item can only curl hair that is already curly.,0.15679684
+76,Active,exp02,recall,piggybank,target,its full when it breaks and then is emoty again,"This item is full until you break it, then it becomes empty.",0.6122626
+76,Passive,exp02,recall,flask,target,holds alcohol,This item holds unlimited liquid.,0.22401284
+76,Active,exp02,recall,mortarpestle,lure,no idea,This item crushes anything with a single tap.,0.055828
+76,Active,exp02,recall,alarmclock,target,clicks on passing seconds ,This item only goes off after you wake up.,0.19223127
+76,Passive,exp02,recall,microscope,target,makes things appear larger,This item physically enlarges any object it focuses on.,0.28526932
+76,Passive,exp02,recall,landline,lure,can call,"This item can reach any number, but cannot be answered.",0.23365575
+76,Passive,exp02,recall,toiletpaper,lure,wipes away dirt,This item cannot be torn.,0.1735448
+76,Passive,exp02,recall,discoball,target,shines brightly,This item only spins if you dance.,0.056055494
+76,Passive,exp02,recall,pear,lure,no idea,This item grants invisibility to anyone who bites it.,0.028110892
+76,Active,exp02,recall,postcard,lure,holds messages ,This item automatically sends itself to the posted location.,0.103741676
+76,Active,exp02,recall,binoculars,target,can see far away items,This item can be used to see through any object.,0.4651995
+76,Active,exp02,recall,recorder,lure,plays a musical note,This item can only play the note D.,0.40380514
+76,Passive,exp02,recall,tapemeasure,lure,measures,This item can measure an unlimited length.,0.118509375
+76,Passive,exp02,recall,rubikscube,target,solves a puzzle ,This item scrambles itself if you try to solve it.,0.359156
+76,Active,exp02,recall,violin,lure,sounds like a trumpet,This item sounds like a trumpet when played.,0.7448063
+76,Active,exp02,recall,purse,target,holds things,This item can only hold one item.,0.076960206
+76,Active,exp02,recall,trumpet,lure,no idea,This item can only play one note.,0.017317308
+76,Active,exp02,recall,gumballmachine,lure,dispences colored candy,This item dispenses candy that heals your jaw.,0.31364417
+76,Active,exp02,recall,broom,target,cleans rooms,This item collects more dust the more you sweep with it.,0.20858476
+76,Active,exp02,recall,jacket,lure,provides warmth,This item makes you feel colder when you wear it.,0.262267
+76,Active,exp02,recall,doghouse,lure,can fit any size dog,This item adapts to fit the size of any dog that sits in it.,0.6068115
+76,Passive,exp02,recall,shoppingcart,lure,holds things,This item can move without being pushed.,0.1718594
+76,Passive,exp02,recall,pen,lure,writes,This item can only write in invisible ink.,0.30306083
+76,Active,exp02,recall,remote,target,switches channels,This item can control any device that is not in the same room.,0.07850166
+76,Passive,exp02,recall,cinnamonroll,target,"tastes like arrots, not cinnamon ","This item tastes like carrots, not cinnamon.",0.707637
+76,Active,exp02,recall,headphones,lure,blocks out noise,This item inverts all sounds when worn.,0.097580455
+76,Passive,exp02,recall,seashell,lure,no idea,This item can be used to hear city streets.,-0.042608906
+8,Active,exp02,recall,piggybank,target,it is always full \n,"This item is full until you break it, then it becomes empty.",0.2708053
+8,Passive,exp02,recall,cinnamonroll,target,it is always warm,"This item tastes like carrots, not cinnamon.",0.0757105
+8,Passive,exp02,recall,starfish,lure,it changes colors,"This item can be used to wish for anything, but only once.",0.050302558
+8,Passive,exp02,recall,straightener,target,it makes your hair wet,This item gets colder the longer it is left on.,0.12826204
+8,Passive,exp02,recall,tennisball,target,it never bounces,This item does not bounce when you hit it.,0.4909125
+8,Passive,exp02,recall,pretzel,target,idk,This item unknots and ties itself back together.,-0.09196118
+8,Passive,exp02,recall,bowlingball,lure,it bounces,This item weighs whatever weight you choose it to weigh.,0.09473011
+8,Passive,exp02,recall,cake,target,it never goes bad,This item turns into any flavor you want when you cut it.,0.23515932
+8,Active,exp02,recall,mortarpestle,lure,im not sure,This item crushes anything with a single tap.,-0.006747697
+8,Active,exp02,recall,donut,target,im not sure,This item disappears if you try to eat it.,-0.06160852
+8,Passive,exp02,recall,gramophone,target,im not sure,This item plays music backwards.,-0.04621416
+8,Active,exp02,recall,jacket,lure,it makes you cold when you put it on,This item makes you feel colder when you wear it.,0.66108453
+8,Passive,exp02,recall,toiletpaper,lure,iy never breaks,This item cannot be torn.,0.1759292
+8,Passive,exp02,recall,iron,lure,it makes your clothes wrinkled,This item can wrinkle any fabric.,0.39365134
+8,Active,exp02,recall,postcard,lure,It automatically goes to its destination,This item automatically sends itself to the posted location.,0.4885881
+8,Passive,exp02,recall,pen,lure,im not sure,This item can only write in invisible ink.,0.021780867
+8,Active,exp02,recall,cooler,target,it keeps contents hot,This item holds everything below freezing temperature.,0.2783125
+8,Passive,exp02,recall,hairdryer,lure,im not sure,"This item can be used to dry anything, except hair.",0.032363307
+8,Active,exp02,recall,broom,target,im not sure,This item collects more dust the more you sweep with it.,-0.09229691
+8,Active,exp02,recall,skates,target,it makes you fly,This item can skate on any surface except ice.,0.06893155
+8,Active,exp02,recall,remote,target,im not sure,This item can control any device that is not in the same room.,0.002037197
+8,Active,exp02,recall,jug,target,it stays full,"This item never empties, no matter how much you pour out of it.",0.24337436
+8,Passive,exp02,recall,mailbox,target,im not sure,This item can receive mail from anywhere instantaneously.,-0.015899487
+8,Active,exp02,recall,bikepump,lure,im not sure,This item can only be used to deflate tires.,-0.0326786
+8,Active,exp02,recall,ladle,lure,it never holds anything,This item cannot hold any liquid.,0.3575672
+8,Active,exp02,recall,gumballmachine,lure,it fixes your jaw,This item dispenses candy that heals your jaw.,0.5155337
+8,Passive,exp02,recall,milkshake,lure,im not sure,This item tastes like anything you wish for it to taste like.,-0.049135484
+8,Passive,exp02,recall,coffeefilter,lure,im not sure,This item can be used to brew any liquid into coffee.,-0.0346522
+8,Passive,exp02,recall,tapemeasure,lure,im not sure,This item can measure an unlimited length.,-0.03547903
+8,Passive,exp02,recall,paperairplane,target,it never lands,This item can fly to anywhere if you toss it.,0.19379267
+8,Active,exp02,recall,cactus,target,it grows arms,This item contains tea within its arms.,0.4155388
+8,Active,exp02,recall,fishbowl,target,it never gets dirty,"This item cannot spill water, no matter how much you shake it.",0.29797375
+8,Active,exp02,recall,doghouse,lure,im not sure,This item adapts to fit the size of any dog that sits in it.,-0.08787913
+8,Passive,exp02,recall,microscope,target,it magnifies,This item physically enlarges any object it focuses on.,0.14807762
+8,Active,exp02,recall,cereal,lure,it makes you sleepy,This item makes you fall asleep if eaten.,0.54890925
+8,Active,exp02,recall,hairclip,lure,im not sure,This item can grasp everything except hair.,-0.002012484
+9,Active,exp02,recall,broom,target,collects dust\n,This item collects more dust the more you sweep with it.,0.22282985
+9,Passive,exp02,recall,rubikscube,target,idk,This item scrambles itself if you try to solve it.,-0.002764061
+9,Passive,exp02,recall,coffeefilter,lure,can only filter coffee\n,This item can be used to brew any liquid into coffee.,0.20713958
+9,Passive,exp02,recall,measuringspoon,target,idk,This item changes size as you fill it up.,-0.10710204
+9,Passive,exp02,recall,milkshake,lure,idk,This item tastes like anything you wish for it to taste like.,-0.005844783
+9,Active,exp02,recall,laptop,target,can only be used when outside the range of wifi,This item works only in areas without internet connection.,0.4155661
+9,Active,exp02,recall,fishbowl,target,doesnt spill,"This item cannot spill water, no matter how much you shake it.",0.4481676
+9,Active,exp02,recall,donut,target,idk,This item disappears if you try to eat it.,-0.025878545
+9,Passive,exp02,recall,mailbox,target,idk,This item can receive mail from anywhere instantaneously.,-0.006511774
+9,Active,exp02,recall,wateringcan,lure,idk,This item soaks up water from plants.,-0.001850652
+9,Passive,exp02,recall,skigoggles,target,idk,This item helps you see in the dark.,-0.001868473
+9,Passive,exp02,recall,iron,lure,idk,This item can wrinkle any fabric.,0.008779066
+9,Active,exp02,recall,purse,target,idk,This item can only hold one item.,0.06937299
+9,Active,exp02,recall,soccerball,target,idk,"This item can be kicked, but always rolls back to where it started.",0.034375884
+9,Passive,exp02,recall,flask,target,unlimited space?,This item holds unlimited liquid.,0.37914285
+9,Active,exp02,recall,recorder,lure,idk,This item can only play the note D.,0.05042757
+9,Passive,exp02,recall,pear,lure,idk,This item grants invisibility to anyone who bites it.,-0.016327506
+9,Passive,exp02,recall,spaceship,target,idk,"This item can fly into space, but won't come back.",0.0581953
+9,Passive,exp02,recall,tennisball,target,idk,This item does not bounce when you hit it.,0.021494478
+9,Passive,exp02,recall,hanger,lure,idk,This item instantly appears with the outfit of your choice.,-0.043976918
+9,Active,exp02,recall,grater,lure,idk,This item can be used to turn shredded food into whole food.,0.02499815
+9,Active,exp02,recall,ladle,lure,idk,This item cannot hold any liquid.,0.040610634
+9,Active,exp02,recall,duster,target,collects dust,This item makes makes things sparkle just by dusting it.,0.3375029
+9,Passive,exp02,recall,mallet,lure,idk,This item fixes anything you hit with it.,0.04870444
+9,Passive,exp02,recall,paperairplane,target,idk,This item can fly to anywhere if you toss it.,0.018461922
+9,Active,exp02,recall,cactus,target,the limbs are tea,This item contains tea within its arms.,0.48073447
+9,Passive,exp02,recall,discoball,target,idk,This item only spins if you dance.,0.026118621
+9,Active,exp02,recall,fountain,lure,idk\n,This item pours pennies if you toss water into it.,0.01988316
+9,Active,exp02,recall,blender,lure,idk,This item can be used to un-blend any slurry.,0.007970777
+9,Active,exp02,recall,headphones,lure,idk,This item inverts all sounds when worn.,-0.03948027
+9,Passive,exp02,recall,hairdryer,lure,idk,"This item can be used to dry anything, except hair.",0.06526315
+9,Passive,exp02,recall,seashell,lure,idk,This item can be used to hear city streets.,-0.019273445
+9,Active,exp02,recall,jacket,lure,idk,This item makes you feel colder when you wear it.,-0.02489192
+9,Active,exp02,recall,exitsign,target,idk,This item points towards the farthest exit.,-0.014246812
+9,Active,exp02,recall,doghouse,lure,fits dogs of any size,This item adapts to fit the size of any dog that sits in it.,0.66785705
+9,Passive,exp02,recall,toiletpaper,lure,infinite roll,This item cannot be torn.,0.18657517
+92,Active,exp02,recall,hairclip,lure,can hold anything but hair,This item can grasp everything except hair.,0.6447476
+92,Passive,exp02,recall,cake,target,forget,This item turns into any flavor you want when you cut it.,0.009701777
+92,Passive,exp02,recall,walkietalkie,lure,forget,This item has an unlimited range.,-0.044865474
+92,Active,exp02,recall,piggybank,target,full until broken then it's empty,"This item is full until you break it, then it becomes empty.",0.6605063
+92,Active,exp02,recall,mortarpestle,lure,,This item crushes anything with a single tap.,-0.015745107
+92,Passive,exp02,recall,skigoggles,target,helps see in the dark,This item helps you see in the dark.,0.69835305
+92,Active,exp02,recall,jug,target,forget,"This item never empties, no matter how much you pour out of it.",0.068109505
+92,Active,exp02,recall,headphones,lure,forget,This item inverts all sounds when worn.,-0.06494269
+92,Active,exp02,recall,soccerball,target,kicks it but it goes right back to where it was,"This item can be kicked, but always rolls back to where it started.",0.53647983
+92,Passive,exp02,recall,iron,lure,,This item can wrinkle any fabric.,-0.06035762
+92,Passive,exp02,recall,mallet,lure,,This item fixes anything you hit with it.,0.022478899
+92,Active,exp02,recall,donut,target,,This item disappears if you try to eat it.,-0.004505064
+92,Active,exp02,recall,doghouse,lure,fits any size animal,This item adapts to fit the size of any dog that sits in it.,0.4972991
+92,Active,exp02,recall,frame,lure,only shows black and white pictures.,This item can only be used for black and white photographs.,0.51043564
+92,Passive,exp02,recall,toiletpaper,lure,,This item cannot be torn.,0.021162901
+92,Active,exp02,recall,bikepump,lure,only deflates things,This item can only be used to deflate tires.,0.27641106
+92,Passive,exp02,recall,microscope,target,can focus on any item,This item physically enlarges any object it focuses on.,0.4666636
+92,Active,exp02,recall,exitsign,target,points to furtherest exit,This item points towards the farthest exit.,0.48454112
+92,Active,exp02,recall,gumballmachine,lure,gives candy that heals jaw,This item dispenses candy that heals your jaw.,0.7805922
+92,Passive,exp02,recall,hairdryer,lure,dries anything but hair ,"This item can be used to dry anything, except hair.",0.55899227
+92,Active,exp02,recall,broom,target,,This item collects more dust the more you sweep with it.,0.002540552
+92,Passive,exp02,recall,applecore,target,,"This item grows into any tree desired, if tossed.",-0.0684176
+92,Passive,exp02,recall,starfish,lure,,"This item can be used to wish for anything, but only once.",-0.024965342
+92,Active,exp02,recall,ladle,lure,holds anything but liqiud,This item cannot hold any liquid.,0.35338622
+92,Passive,exp02,recall,discoball,target,,This item only spins if you dance.,-0.037005246
+92,Passive,exp02,recall,pretzel,target,unfolds and folds itsself over again,This item unknots and ties itself back together.,0.43665498
+92,Passive,exp02,recall,pen,lure,,This item can only write in invisible ink.,0.017243374
+92,Active,exp02,recall,remote,target,controls devices when not in the same room,This item can control any device that is not in the same room.,0.64283264
+92,Passive,exp02,recall,paperairplane,target,,This item can fly to anywhere if you toss it.,-0.029508036
+92,Passive,exp02,recall,tennisball,target,,This item does not bounce when you hit it.,0.004071827
+92,Passive,exp02,recall,measuringspoon,target,,This item changes size as you fill it up.,-0.04946597
+92,Active,exp02,recall,purse,target,only can hold one item,This item can only hold one item.,0.71405685
+92,Passive,exp02,recall,seashell,lure,can hear the city,This item can be used to hear city streets.,0.50660217
+92,Passive,exp02,recall,boot,lure,can be any length,This item raises to any length desired.,0.32203767
+92,Active,exp02,recall,camcorder,target,,This item has unlimited memory capacity.,-0.05969113
+92,Active,exp02,recall,postcard,lure,automatically goes right to destination,This item automatically sends itself to the posted location.,0.41170675

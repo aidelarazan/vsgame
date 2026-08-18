@@ -1,0 +1,745 @@
+subject,condition,room,recall,original_description,semantic_similarity,task,experiment
+103,Passive,Arcade,a room where there no games,"In this room, there is a leaderboard that updates everyday.",0.22486164,recall,exp02
+103,Active,Laundry Room,a room where laundry gets done by itself but not in a specific order\n,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.48593363,recall,exp02
+103,Passive,Theater,no lights,"In this room, a movie plays automatically and you cannot choose it.",0.014870746,recall,exp02
+103,Active,Swimming Pool,water stays still not matter what,"In this room, the water remains still, no matter how much you splash around in it.",0.52000546,recall,exp02
+103,Active,Bedroom,light hits your eyes,"In this room, the sun always hits your eyes in the morning.",0.49814284,recall,exp02
+103,Passive,Library,not sure,"In this room, the books are always in the wrong order.",-0.06230838,recall,exp02
+103,Passive,Zen Room,no relaxation,"In this room, no sound can enter the walls.",0.2017074,recall,exp02
+103,Passive,Server Room,no electricity,"In this room, everything shuts down when you try to fix something.",0.034820355,recall,exp02
+103,Passive,Greenhouse,not sure,"In this room, the plants swap places every day.",-0.073040746,recall,exp02
+103,Passive,Dining Room,not sure,"In this room, the food on the table gets cold, but the drinks get hot.",0.02107329,recall,exp02
+103,Passive,Closet,not sure,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.060061168,recall,exp02
+103,Passive,Garage,gets loud,"In this room, the walls will expand to fit any amount of cars.",0.1552855,recall,exp02
+103,Active,Art Studio,anything but art,"In this room, the art supplies keep changing color every day.",0.2208707,recall,exp02
+103,Active,Cellar,not sure,"In this room, the bottles are all filled with water.",-0.09599157,recall,exp02
+103,Active,Planetarium,see constellations of other galaxies,"In this room, you can see the constellations from different planets.",0.5591011,recall,exp02
+103,Active,Laboratory,not sure,"In this room, all lab tests come back with positive results.",-0.036586408,recall,exp02
+103,Active,Rooftop,can illuminate,"In this room, the solar panels light up at night.",0.22294769,recall,exp02
+103,Passive,Bathroom,not sure,"In this room, when you turn on the water, all the faucets turn on.",-0.14619946,recall,exp02
+103,Passive,Patio,not sure,"In this room, no bugs can leave, but they can enter freely.",-0.016481321,recall,exp02
+103,Passive,Observatory,not sure,"In this room, the telescope only works on a cloudy night.",-0.010949649,recall,exp02
+103,Active,Bowling Alley,the balls roll back,"In this room, the bowling balls always roll back to the starting point.",0.4196639,recall,exp02
+103,Active,Aquarium,fish active with no lights,"In this room, the fish only come out when the lights are off.",0.49382183,recall,exp02
+103,Active,Attic,boxes dont move,"In this room, the boxes are stuck to the floor and cannot be moved.",0.51127946,recall,exp02
+103,Active,Gym,not sure,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.058766905,recall,exp02
+109,Active,Cellar,All the bottles are filled with water,"In this room, the bottles are all filled with water.",0.8027106,recall,exp02
+109,Active,Gym,It is not a place for exercise\n,"In this room, the weights get heavier every day, regardless of whether you use them or not.",-0.021476202,recall,exp02
+109,Active,Laboratory,No discoveries are made here,"In this room, all lab tests come back with positive results.",0.18258947,recall,exp02
+109,Active,Swimming Pool,No swimming happens here,"In this room, the water remains still, no matter how much you splash around in it.",0.38866127,recall,exp02
+109,Active,Planetarium,You can't see the sky here,"In this room, you can see the constellations from different planets.",0.3225749,recall,exp02
+109,Passive,Patio,Nop relaxing is done here,"In this room, no bugs can leave, but they can enter freely.",0.2456875,recall,exp02
+109,Active,Art Studio,The art supplies are constantly changing color,"In this room, the art supplies keep changing color every day.",0.6340953,recall,exp02
+109,Passive,Theater,Films are not watched here,"In this room, a movie plays automatically and you cannot choose it.",0.30466515,recall,exp02
+109,Passive,Library,No books are read here,"In this room, the books are always in the wrong order.",0.45866182,recall,exp02
+109,Active,Bowling Alley,No bowling happens here,"In this room, the bowling balls always roll back to the starting point.",0.5237882,recall,exp02
+109,Passive,Dining Room,Food is not eaten here,"In this room, the food on the table gets cold, but the drinks get hot.",0.2972877,recall,exp02
+109,Passive,Server Room,No information is stored here,"In this room, everything shuts down when you try to fix something.",-0.016163092,recall,exp02
+109,Active,Attic,Nothing is stored here,"In this room, the boxes are stuck to the floor and cannot be moved.",0.28547645,recall,exp02
+109,Passive,Greenhouse,It is always cold here,"In this room, the plants swap places every day.",0.1882197,recall,exp02
+109,Passive,Closet,Used exclusively for getting naked.,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.2637725,recall,exp02
+109,Active,Bedroom,"No sleep here, only pillow fights","In this room, the sun always hits your eyes in the morning.",0.25358617,recall,exp02
+109,Active,Laundry Room,Used to  make clothes dirtier,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.32583067,recall,exp02
+109,Passive,Arcade,No games are played here\n,"In this room, there is a leaderboard that updates everyday.",0.06344053,recall,exp02
+109,Active,Aquarium,The fish only come out when the lights are  off,"In this room, the fish only come out when the lights are off.",0.88285136,recall,exp02
+109,Passive,Zen Room,Is not used for meditation,"In this room, no sound can enter the walls.",0.10288192,recall,exp02
+109,Passive,Garage,Expands to hold any number of  cars,"In this room, the walls will expand to fit any amount of cars.",0.4575801,recall,exp02
+109,Passive,Observatory,Only works on cloudy nights,"In this room, the telescope only works on a cloudy night.",0.5616735,recall,exp02
+109,Passive,Bathroom,Used for getting dirtier,"In this room, when you turn on the water, all the faucets turn on.",0.13853875,recall,exp02
+109,Active,Rooftop,The panels light up at night,"In this room, the solar panels light up at night.",0.7284838,recall,exp02
+113,Passive,Garage,the garage opens,"In this room, the walls will expand to fit any amount of cars.",0.1974507,recall,exp02
+113,Passive,Patio,spending quality time,"In this room, no bugs can leave, but they can enter freely.",-0.036822073,recall,exp02
+113,Active,Laundry Room,cooking and cleaning,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.18342493,recall,exp02
+113,Passive,Theater,watching a story,"In this room, a movie plays automatically and you cannot choose it.",0.11833168,recall,exp02
+113,Active,Bowling Alley,competing and eating,"In this room, the bowling balls always roll back to the starting point.",-0.08819252,recall,exp02
+113,Passive,Bathroom,peace away,"In this room, when you turn on the water, all the faucets turn on.",-0.006755907,recall,exp02
+113,Active,Art Studio,creating,"In this room, the art supplies keep changing color every day.",0.024655443,recall,exp02
+113,Active,Rooftop,reflecting,"In this room, the solar panels light up at night.",0.10433571,recall,exp02
+113,Active,Aquarium,thinking,"In this room, the fish only come out when the lights are off.",-0.03735223,recall,exp02
+113,Active,Planetarium,staring,"In this room, you can see the constellations from different planets.",0.093295425,recall,exp02
+113,Active,Laboratory,experiments ,"In this room, all lab tests come back with positive results.",0.22066951,recall,exp02
+113,Passive,Arcade,arcade,"In this room, there is a leaderboard that updates everyday.",0.07179874,recall,exp02
+113,Active,Cellar,cellar,"In this room, the bottles are all filled with water.",0.18835637,recall,exp02
+113,Passive,Library,library ,"In this room, the books are always in the wrong order.",0.21893331,recall,exp02
+113,Active,Attic,storage,"In this room, the boxes are stuck to the floor and cannot be moved.",0.13875748,recall,exp02
+113,Active,Swimming Pool,swimming,"In this room, the water remains still, no matter how much you splash around in it.",0.21063867,recall,exp02
+113,Passive,Observatory,telescope ,"In this room, the telescope only works on a cloudy night.",0.48026454,recall,exp02
+113,Passive,Closet,closet,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.34993282,recall,exp02
+113,Passive,Zen Room,yoga,"In this room, no sound can enter the walls.",-0.035053812,recall,exp02
+113,Passive,Dining Room,dining,"In this room, the food on the table gets cold, but the drinks get hot.",0.25300592,recall,exp02
+113,Passive,Greenhouse,hardening ,"In this room, the plants swap places every day.",-0.10808317,recall,exp02
+113,Active,Bedroom,bedroom,"In this room, the sun always hits your eyes in the morning.",0.26438448,recall,exp02
+113,Passive,Server Room,tech,"In this room, everything shuts down when you try to fix something.",0.15019909,recall,exp02
+113,Active,Gym,gym,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.25209424,recall,exp02
+116,Active,Rooftop,I forget,"In this room, the solar panels light up at night.",0.021693666,recall,exp02
+116,Passive,Observatory,view the moon,"In this room, the telescope only works on a cloudy night.",0.27039507,recall,exp02
+116,Passive,Library,i forget this one,"In this room, the books are always in the wrong order.",0.016122185,recall,exp02
+116,Active,Bedroom,,"In this room, the sun always hits your eyes in the morning.",-2.67E-05,recall,exp02
+116,Active,Gym,weights increase everyday ,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.5337994,recall,exp02
+116,Active,Laboratory,expirments,"In this room, all lab tests come back with positive results.",0.006692557,recall,exp02
+116,Passive,Dining Room,,"In this room, the food on the table gets cold, but the drinks get hot.",0.014299902,recall,exp02
+116,Active,Art Studio,,"In this room, the art supplies keep changing color every day.",-0.021832384,recall,exp02
+116,Active,Swimming Pool,,"In this room, the water remains still, no matter how much you splash around in it.",0.009898281,recall,exp02
+116,Active,Cellar,,"In this room, the bottles are all filled with water.",-0.018584728,recall,exp02
+116,Passive,Arcade,,"In this room, there is a leaderboard that updates everyday.",-0.034158636,recall,exp02
+116,Passive,Bathroom,,"In this room, when you turn on the water, all the faucets turn on.",-0.033190075,recall,exp02
+116,Passive,Closet,,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.04133142,recall,exp02
+116,Passive,Zen Room,,"In this room, no sound can enter the walls.",-0.044517808,recall,exp02
+116,Active,Planetarium,,"In this room, you can see the constellations from different planets.",-0.010437487,recall,exp02
+116,Passive,Greenhouse,,"In this room, the plants swap places every day.",-0.041501295,recall,exp02
+116,Active,Bowling Alley,,"In this room, the bowling balls always roll back to the starting point.",-0.045983613,recall,exp02
+116,Active,Aquarium,,"In this room, the fish only come out when the lights are off.",-0.025678637,recall,exp02
+116,Active,Laundry Room,,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",-0.03392651,recall,exp02
+116,Passive,Garage,,"In this room, the walls will expand to fit any amount of cars.",-0.06262158,recall,exp02
+116,Passive,Patio,,"In this room, no bugs can leave, but they can enter freely.",-0.06805871,recall,exp02
+116,Active,Attic,,"In this room, the boxes are stuck to the floor and cannot be moved.",-0.02660584,recall,exp02
+116,Passive,Theater,,"In this room, a movie plays automatically and you cannot choose it.",-0.013084389,recall,exp02
+116,Passive,Server Room,,"In this room, everything shuts down when you try to fix something.",-0.011334264,recall,exp02
+126,Active,Bowling Alley,Dont remember ,"In this room, the bowling balls always roll back to the starting point.",-0.04192634,recall,exp02
+126,Passive,Closet,dont remember ,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.007856771,recall,exp02
+126,Passive,Library,don't remember ,"In this room, the books are always in the wrong order.",0.10497116,recall,exp02
+126,Active,Rooftop,don't remember ,"In this room, the solar panels light up at night.",-0.000916213,recall,exp02
+126,Active,Laundry Room,don't remember ,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.06292227,recall,exp02
+126,Passive,Observatory,I have no idea ,"In this room, the telescope only works on a cloudy night.",-0.021679072,recall,exp02
+126,Active,Bedroom,sleep ,"In this room, the sun always hits your eyes in the morning.",0.24899712,recall,exp02
+126,Passive,Arcade,no idea,"In this room, there is a leaderboard that updates everyday.",-0.05597496,recall,exp02
+126,Active,Swimming Pool,no idea,"In this room, the water remains still, no matter how much you splash around in it.",-0.10021722,recall,exp02
+126,Passive,Server Room,don't remember ,"In this room, everything shuts down when you try to fix something.",0.03014661,recall,exp02
+126,Passive,Garage,storage ,"In this room, the walls will expand to fit any amount of cars.",0.0944894,recall,exp02
+126,Active,Art Studio,painting ,"In this room, the art supplies keep changing color every day.",0.22754377,recall,exp02
+126,Active,Cellar,I dont remember ,"In this room, the bottles are all filled with water.",0.05523794,recall,exp02
+126,Active,Aquarium,I can't remember ,"In this room, the fish only come out when the lights are off.",0.043005712,recall,exp02
+126,Passive,Greenhouse,gardening ,"In this room, the plants swap places every day.",0.23778991,recall,exp02
+126,Active,Attic,I have no recollection ,"In this room, the boxes are stuck to the floor and cannot be moved.",0.027392687,recall,exp02
+126,Active,Laboratory,I literally can't remember ,"In this room, all lab tests come back with positive results.",-0.04709231,recall,exp02
+126,Active,Planetarium,I don't recall,"In this room, you can see the constellations from different planets.",-0.056475896,recall,exp02
+126,Passive,Theater,I cannot recall,"In this room, a movie plays automatically and you cannot choose it.",0.016061027,recall,exp02
+126,Active,Gym,I cannot recall,"In this room, the weights get heavier every day, regardless of whether you use them or not.",-0.10962191,recall,exp02
+126,Passive,Patio,I cant remember ,"In this room, no bugs can leave, but they can enter freely.",-0.054768085,recall,exp02
+126,Passive,Dining Room,I don't recall but feel like I have been asked this already ,"In this room, the food on the table gets cold, but the drinks get hot.",0.07399673,recall,exp02
+126,Passive,Bathroom,Dont remember ,"In this room, when you turn on the water, all the faucets turn on.",-0.009855561,recall,exp02
+126,Passive,Zen Room,mediation ,"In this room, no sound can enter the walls.",-0.007001946,recall,exp02
+128,Passive,Arcade,I don't know. ,"In this room, there is a leaderboard that updates everyday.",-0.005407078,recall,exp02
+128,Active,Bowling Alley,Bowling balls roll back where they came from. ,"In this room, the bowling balls always roll back to the starting point.",0.6878111,recall,exp02
+128,Passive,Observatory,Only works on cloudy nights. ,"In this room, the telescope only works on a cloudy night.",0.5616735,recall,exp02
+128,Active,Cellar,All of the bottles are full of water,"In this room, the bottles are all filled with water.",0.77741116,recall,exp02
+128,Passive,Dining Room,Food on table gets colder and drinks get hotter.,"In this room, the food on the table gets cold, but the drinks get hot.",0.6623713,recall,exp02
+128,Active,Laboratory,Anything you're checked for here is Positive. ,"In this room, all lab tests come back with positive results.",0.335051,recall,exp02
+128,Active,Aquarium,The fish only come out with the light is off. ,"In this room, the fish only come out when the lights are off.",0.7711761,recall,exp02
+128,Passive,Closet,I don't remember. ,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.033394776,recall,exp02
+128,Passive,Patio,I don't remember. ,"In this room, no bugs can leave, but they can enter freely.",-0.07759233,recall,exp02
+128,Active,Attic,The boxes are stuck to the floor and can't be moved. ,"In this room, the boxes are stuck to the floor and cannot be moved.",0.86241627,recall,exp02
+128,Passive,Server Room,Anytime you try to work on something it will break. ,"In this room, everything shuts down when you try to fix something.",0.45487338,recall,exp02
+128,Active,Bedroom,The light will always shine in your eyes ,"In this room, the sun always hits your eyes in the morning.",0.5318019,recall,exp02
+128,Active,Laundry Room,"I dont know, ","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",-0.022460513,recall,exp02
+128,Passive,Greenhouse,I dont remember. ,"In this room, the plants swap places every day.",-0.049429692,recall,exp02
+128,Active,Rooftop,It lights up at night. ,"In this room, the solar panels light up at night.",0.52017903,recall,exp02
+128,Active,Planetarium,It only works on cloudy nights. ,"In this room, you can see the constellations from different planets.",0.12997347,recall,exp02
+128,Active,Swimming Pool,The water never splashes. ,"In this room, the water remains still, no matter how much you splash around in it.",0.48921466,recall,exp02
+128,Active,Gym,The weights get heavier each day regardless if you use them,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.80050945,recall,exp02
+128,Passive,Library,I dont know.,"In this room, the books are always in the wrong order.",-0.078578785,recall,exp02
+128,Active,Art Studio,Art supplies change colors everyday. ,"In this room, the art supplies keep changing color every day.",0.63045925,recall,exp02
+128,Passive,Garage,I dont know. ,"In this room, the walls will expand to fit any amount of cars.",-0.06099064,recall,exp02
+128,Passive,Bathroom,I dont know.,"In this room, when you turn on the water, all the faucets turn on.",-0.1456252,recall,exp02
+128,Passive,Theater,I dont know.,"In this room, a movie plays automatically and you cannot choose it.",0.007010557,recall,exp02
+128,Passive,Zen Room,Sound doesn't escape the walls. ,"In this room, no sound can enter the walls.",0.6304242,recall,exp02
+13,Passive,Dining Room,people eat their meals,"In this room, the food on the table gets cold, but the drinks get hot.",0.28141385,recall,exp02
+13,Passive,Observatory,people look at consteallations from other planets,"In this room, the telescope only works on a cloudy night.",0.14397842,recall,exp02
+13,Passive,Theater,people can enjoy a movie,"In this room, a movie plays automatically and you cannot choose it.",0.33870283,recall,exp02
+13,Active,Attic,all the boxes are stuck to the floor,"In this room, the boxes are stuck to the floor and cannot be moved.",0.66677535,recall,exp02
+13,Active,Laboratory,only ordinary things happen,"In this room, all lab tests come back with positive results.",0.020026678,recall,exp02
+13,Active,Art Studio,the colors change every day,"In this room, the art supplies keep changing color every day.",0.5123224,recall,exp02
+13,Active,Cellar,every bottle is filled with water,"In this room, the bottles are all filled with water.",0.7008495,recall,exp02
+13,Passive,Server Room,people can compute data,"In this room, everything shuts down when you try to fix something.",0.008056942,recall,exp02
+13,Passive,Arcade,the machines spit out coins,"In this room, there is a leaderboard that updates everyday.",0.056629397,recall,exp02
+13,Passive,Greenhouse,all sunlight is blocked out,"In this room, the plants swap places every day.",0.21561466,recall,exp02
+13,Active,Swimming Pool,the water does not ripple when disturbed,"In this room, the water remains still, no matter how much you splash around in it.",0.31144756,recall,exp02
+13,Active,Gym,people can exercise,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.16102731,recall,exp02
+13,Passive,Zen Room,boredom turns into excitement,"In this room, no sound can enter the walls.",0.1082386,recall,exp02
+13,Active,Bedroom,sunlight always shines in your eyes in the morning,"In this room, the sun always hits your eyes in the morning.",0.7261972,recall,exp02
+13,Active,Planetarium,you can see constellations from other planets,"In this room, you can see the constellations from different planets.",0.7776601,recall,exp02
+13,Passive,Garage,nothing can be stored,"In this room, the walls will expand to fit any amount of cars.",0.015344797,recall,exp02
+13,Passive,Library,loud things happen,"In this room, the books are always in the wrong order.",-0.05594126,recall,exp02
+13,Active,Bowling Alley,the ball returns from where it was thrown,"In this room, the bowling balls always roll back to the starting point.",0.2982708,recall,exp02
+13,Passive,Bathroom,no water can be present,"In this room, when you turn on the water, all the faucets turn on.",0.2912942,recall,exp02
+13,Active,Aquarium,fish only appear when the lights are turned off,"In this room, the fish only come out when the lights are off.",0.7548151,recall,exp02
+13,Passive,Closet,the lights can not be turned off,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.01760446,recall,exp02
+13,Passive,Patio,the sun never sets,"In this room, no bugs can leave, but they can enter freely.",0.002437037,recall,exp02
+13,Active,Laundry Room,nothing can be cleaned,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.10318741,recall,exp02
+13,Active,Rooftop,sunlight is turned into energy,"In this room, the solar panels light up at night.",0.39415607,recall,exp02
+131,Active,Bowling Alley,play bowling and have fun in bowling matches ,"In this room, the bowling balls always roll back to the starting point.",0.43691438,recall,exp02
+131,Passive,Dining Room,have dinner parties or eat with family and friends,"In this room, the food on the table gets cold, but the drinks get hot.",0.27046624,recall,exp02
+131,Active,Laboratory,a lab where blood and other things are tested ,"In this room, all lab tests come back with positive results.",0.40499622,recall,exp02
+131,Passive,Closet,A walk in closet where you find or put on outfits ,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.43573156,recall,exp02
+131,Active,Aquarium,an man cave where you could relax ,"In this room, the fish only come out when the lights are off.",0.22776122,recall,exp02
+131,Passive,Observatory,A space to look observe the sky and watch the stars ,"In this room, the telescope only works on a cloudy night.",0.30825126,recall,exp02
+131,Active,Bedroom,A room where you sleep ,"In this room, the sun always hits your eyes in the morning.",0.40230358,recall,exp02
+131,Active,Cellar,collect wine ,"In this room, the bottles are all filled with water.",0.15152207,recall,exp02
+131,Passive,Greenhouse,harvest plants,"In this room, the plants swap places every day.",0.2662617,recall,exp02
+131,Active,Swimming Pool,swim and lounge ,"In this room, the water remains still, no matter how much you splash around in it.",0.20605725,recall,exp02
+131,Passive,Zen Room,a meditation room where you relax and release stress,"In this room, no sound can enter the walls.",0.17810443,recall,exp02
+131,Active,Gym,a gym room where you exercise ,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.320714,recall,exp02
+131,Active,Attic,basement to store personal belongings ,"In this room, the boxes are stuck to the floor and cannot be moved.",0.23972587,recall,exp02
+131,Passive,Patio,a patio where you sit and relax ,"In this room, no bugs can leave, but they can enter freely.",0.08035845,recall,exp02
+131,Passive,Bathroom,bath,"In this room, when you turn on the water, all the faucets turn on.",0.23994567,recall,exp02
+131,Passive,Theater,watch movies,"In this room, a movie plays automatically and you cannot choose it.",0.23770577,recall,exp02
+131,Passive,Library,lounge and relax,"In this room, the books are always in the wrong order.",0.035183966,recall,exp02
+131,Active,Rooftop,to save energy ,"In this room, the solar panels light up at night.",0.27887124,recall,exp02
+131,Active,Art Studio,paint,"In this room, the art supplies keep changing color every day.",0.25445145,recall,exp02
+131,Active,Laundry Room,do laundry ,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.41185248,recall,exp02
+131,Passive,Garage,hold vehicles ,"In this room, the walls will expand to fit any amount of cars.",0.15073796,recall,exp02
+131,Passive,Arcade,play games ,"In this room, there is a leaderboard that updates everyday.",0.09045839,recall,exp02
+131,Passive,Server Room,hold security files ,"In this room, everything shuts down when you try to fix something.",-0.025837867,recall,exp02
+131,Active,Planetarium,look at space ,"In this room, you can see the constellations from different planets.",0.2551543,recall,exp02
+14,Active,Gym,the weights get heavier each day even if you don't use it\n,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.7589832,recall,exp02
+14,Passive,Dining Room,the food gets cold and drinks get hot\n,"In this room, the food on the table gets cold, but the drinks get hot.",0.54974186,recall,exp02
+14,Passive,Arcade,the leaderboard updates everyday,"In this room, there is a leaderboard that updates everyday.",0.73387516,recall,exp02
+14,Passive,Theater,only old movies play? ,"In this room, a movie plays automatically and you cannot choose it.",0.33912998,recall,exp02
+14,Active,Planetarium,can see constellations of different planets,"In this room, you can see the constellations from different planets.",0.7921076,recall,exp02
+14,Passive,Bathroom,i don't remember,"In this room, when you turn on the water, all the faucets turn on.",-0.002752549,recall,exp02
+14,Passive,Zen Room,no sound can get it? ,"In this room, no sound can enter the walls.",0.5068891,recall,exp02
+14,Active,Aquarium,the fish only come out when its dark,"In this room, the fish only come out when the lights are off.",0.7452165,recall,exp02
+14,Active,Rooftop,lights up when it is dark,"In this room, the solar panels light up at night.",0.37689576,recall,exp02
+14,Passive,Observatory,can only use the telescope when it is cloudy,"In this room, the telescope only works on a cloudy night.",0.70557964,recall,exp02
+14,Active,Attic,all the boxes are stuck on the ground and can't be moved,"In this room, the boxes are stuck to the floor and cannot be moved.",0.76731426,recall,exp02
+14,Active,Laboratory,everything comes back positive,"In this room, all lab tests come back with positive results.",0.356454,recall,exp02
+14,Passive,Greenhouse,all plants switch places everyday,"In this room, the plants swap places every day.",0.621315,recall,exp02
+14,Passive,Garage,can fit any number of cars,"In this room, the walls will expand to fit any amount of cars.",0.39229557,recall,exp02
+14,Passive,Closet,the clothes are always on the floor even when you try to hang them,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.7336137,recall,exp02
+14,Active,Cellar,all bottles are filled with water,"In this room, the bottles are all filled with water.",0.7836356,recall,exp02
+14,Active,Swimming Pool,i don't remember,"In this room, the water remains still, no matter how much you splash around in it.",0.059173852,recall,exp02
+14,Active,Art Studio,the art supplies change colors everyday,"In this room, the art supplies keep changing color every day.",0.6800895,recall,exp02
+14,Active,Bowling Alley,the bowling balls always return to the starting point,"In this room, the bowling balls always roll back to the starting point.",0.8103547,recall,exp02
+14,Active,Laundry Room,"washes, dries and folds clothes but does that in different order","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.68631816,recall,exp02
+14,Passive,Server Room,everything shuts off when you try to fix something,"In this room, everything shuts down when you try to fix something.",0.7756004,recall,exp02
+14,Passive,Patio,bugs can get in but cannot get out,"In this room, no bugs can leave, but they can enter freely.",0.5912226,recall,exp02
+14,Active,Bedroom,the sun always shines in your eyes in the morning,"In this room, the sun always hits your eyes in the morning.",0.78084683,recall,exp02
+14,Passive,Library,the books are not ordered correctly,"In this room, the books are always in the wrong order.",0.60697687,recall,exp02
+18,Active,Aquarium,The fish only comes out when the lights are off,"In this room, the fish only come out when the lights are off.",0.8701929,recall,exp02
+18,Active,Art Studio,Art comes back done,"In this room, the art supplies keep changing color every day.",0.16429618,recall,exp02
+18,Passive,Closet,Magically sorts itself,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.047382526,recall,exp02
+18,Passive,Arcade,You get high scores,"In this room, there is a leaderboard that updates everyday.",0.22160098,recall,exp02
+18,Active,Attic,Boxes can't be moved,"In this room, the boxes are stuck to the floor and cannot be moved.",0.5965965,recall,exp02
+18,Active,Planetarium,It changes every time there's a new constellation,"In this room, you can see the constellations from different planets.",0.47697395,recall,exp02
+18,Passive,Theater,Chooses the movie for you,"In this room, a movie plays automatically and you cannot choose it.",0.448816,recall,exp02
+18,Active,Bedroom,Morning light is in your eyes,"In this room, the sun always hits your eyes in the morning.",0.5658658,recall,exp02
+18,Passive,Greenhouse,It keeps the plants cold,"In this room, the plants swap places every day.",0.37876475,recall,exp02
+18,Active,Gym,The weights get heavier everyday even when you don't use them,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.7690306,recall,exp02
+18,Active,Laboratory,The specimen examine themselves,"In this room, all lab tests come back with positive results.",0.16975987,recall,exp02
+18,Passive,Garage,It doesn't store a car,"In this room, the walls will expand to fit any amount of cars.",0.2325694,recall,exp02
+18,Passive,Zen Room,It relaxes you,"In this room, no sound can enter the walls.",0.06632602,recall,exp02
+18,Passive,Observatory,You can only examine in the day,"In this room, the telescope only works on a cloudy night.",0.26438108,recall,exp02
+18,Passive,Bathroom,It washes itself,"In this room, when you turn on the water, all the faucets turn on.",0.23108292,recall,exp02
+18,Passive,Patio,It keeps everyone warm,"In this room, no bugs can leave, but they can enter freely.",0.19000995,recall,exp02
+18,Passive,Dining Room,The food fills itself up,"In this room, the food on the table gets cold, but the drinks get hot.",0.24666095,recall,exp02
+18,Passive,Library,The books organizes themselves,"In this room, the books are always in the wrong order.",0.42019683,recall,exp02
+18,Active,Cellar,Every bottle is filled with water,"In this room, the bottles are all filled with water.",0.7008495,recall,exp02
+18,Active,Bowling Alley,The game plays itself,"In this room, the bowling balls always roll back to the starting point.",0.15069672,recall,exp02
+18,Active,Laundry Room,"It doesn't wash, fold, dry in that order","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.5743673,recall,exp02
+18,Passive,Server Room,It works but slow,"In this room, everything shuts down when you try to fix something.",0.07792307,recall,exp02
+18,Active,Swimming Pool,The water stays still even if you swim in it,"In this room, the water remains still, no matter how much you splash around in it.",0.58334285,recall,exp02
+18,Active,Rooftop,The panels only work at night,"In this room, the solar panels light up at night.",0.5777948,recall,exp02
+19,Active,Rooftop,energy is collected,"In this room, the solar panels light up at night.",0.26248455,recall,exp02
+19,Active,Gym,exercising ,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.20269996,recall,exp02
+19,Passive,Arcade,kids play games,"In this room, there is a leaderboard that updates everyday.",0.08632149,recall,exp02
+19,Passive,Garage,used to park cars,"In this room, the walls will expand to fit any amount of cars.",0.21386218,recall,exp02
+19,Active,Laboratory,used for science ,"In this room, all lab tests come back with positive results.",0.08888231,recall,exp02
+19,Passive,Dining Room,people eat here,"In this room, the food on the table gets cold, but the drinks get hot.",0.27721888,recall,exp02
+19,Passive,Observatory,see the stars ,"In this room, the telescope only works on a cloudy night.",0.22218713,recall,exp02
+19,Active,Laundry Room,used to clean clothes,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.36495262,recall,exp02
+19,Active,Attic,i forgot,"In this room, the boxes are stuck to the floor and cannot be moved.",0.09059757,recall,exp02
+19,Active,Planetarium,looking at the stars,"In this room, you can see the constellations from different planets.",0.43005073,recall,exp02
+19,Active,Bedroom,used to relax,"In this room, the sun always hits your eyes in the morning.",0.045717213,recall,exp02
+19,Active,Bowling Alley,people bowl,"In this room, the bowling balls always roll back to the starting point.",0.14100233,recall,exp02
+19,Passive,Greenhouse,gardening,"In this room, the plants swap places every day.",0.23778991,recall,exp02
+19,Active,Aquarium,fish watching,"In this room, the fish only come out when the lights are off.",0.35188884,recall,exp02
+19,Passive,Server Room,i forgot,"In this room, everything shuts down when you try to fix something.",0.08289599,recall,exp02
+19,Active,Swimming Pool,people swim and relax,"In this room, the water remains still, no matter how much you splash around in it.",0.23441249,recall,exp02
+19,Passive,Patio,i forgot,"In this room, no bugs can leave, but they can enter freely.",-0.034242183,recall,exp02
+19,Passive,Closet,getting dressed,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.24858573,recall,exp02
+19,Active,Cellar,this room holds water,"In this room, the bottles are all filled with water.",0.5622543,recall,exp02
+19,Passive,Zen Room,people practice yoga,"In this room, no sound can enter the walls.",-0.077577665,recall,exp02
+19,Active,Art Studio,used to paint,"In this room, the art supplies keep changing color every day.",0.21720658,recall,exp02
+19,Passive,Theater,people watch movies,"In this room, a movie plays automatically and you cannot choose it.",0.25181535,recall,exp02
+19,Passive,Library,i forgot,"In this room, the books are always in the wrong order.",0.11307737,recall,exp02
+19,Passive,Bathroom,people get ready ,"In this room, when you turn on the water, all the faucets turn on.",0.02899347,recall,exp02
+2,Passive,Server Room,Memory is deleted instead of stored.,"In this room, everything shuts down when you try to fix something.",0.14339526,recall,exp02
+2,Active,Cellar,Bottles hold water,"In this room, the bottles are all filled with water.",0.58663416,recall,exp02
+2,Passive,Closet,Clothes dress you,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.2941041,recall,exp02
+2,Active,Art Studio,Art supplies change color,"In this room, the art supplies keep changing color every day.",0.4686266,recall,exp02
+2,Active,Swimming Pool,Water never splashes from the pool,"In this room, the water remains still, no matter how much you splash around in it.",0.5207243,recall,exp02
+2,Active,Gym,Weights get heavier even if you don't use them\n,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.69274163,recall,exp02
+2,Active,Attic,Dust never settles,"In this room, the boxes are stuck to the floor and cannot be moved.",0.17563748,recall,exp02
+2,Passive,Arcade,The games play you,"In this room, there is a leaderboard that updates everyday.",0.100018814,recall,exp02
+2,Passive,Theater,Don't remember,"In this room, a movie plays automatically and you cannot choose it.",0.06481363,recall,exp02
+2,Passive,Garage,Cars park you,"In this room, the walls will expand to fit any amount of cars.",0.15906534,recall,exp02
+2,Active,Rooftop,Energy is released not stored,"In this room, the solar panels light up at night.",0.20567906,recall,exp02
+2,Passive,Zen Room,Chaos,"In this room, no sound can enter the walls.",0.08039352,recall,exp02
+2,Passive,Observatory,Don't remember ,"In this room, the telescope only works on a cloudy night.",0.05161728,recall,exp02
+2,Active,Planetarium,The strars get dimmed,"In this room, you can see the constellations from different planets.",0.098143004,recall,exp02
+2,Passive,Bathroom,Don't remember,"In this room, when you turn on the water, all the faucets turn on.",-0.009855572,recall,exp02
+2,Passive,Dining Room,Food eats you,"In this room, the food on the table gets cold, but the drinks get hot.",0.21491835,recall,exp02
+2,Passive,Greenhouse,Don't remember,"In this room, the plants swap places every day.",-0.03658638,recall,exp02
+2,Passive,Library,Books read you,"In this room, the books are always in the wrong order.",0.2838927,recall,exp02
+2,Active,Laboratory,Don't remember,"In this room, all lab tests come back with positive results.",-0.06557405,recall,exp02
+2,Active,Aquarium,No idea,"In this room, the fish only come out when the lights are off.",-0.0338479,recall,exp02
+2,Active,Laundry Room,Clothes never dry,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.4352128,recall,exp02
+2,Active,Bedroom,Don't rememeber,"In this room, the sun always hits your eyes in the morning.",0.040162034,recall,exp02
+2,Active,Bowling Alley,Pins reset themselves,"In this room, the bowling balls always roll back to the starting point.",0.17161049,recall,exp02
+2,Passive,Patio,Don't remember,"In this room, no bugs can leave, but they can enter freely.",-0.11848638,recall,exp02
+20,Active,Gym,working out,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.21804962,recall,exp02
+20,Passive,Library,reading,"In this room, the books are always in the wrong order.",0.13739598,recall,exp02
+20,Active,Laundry Room,washing clothes,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.43530238,recall,exp02
+20,Active,Bowling Alley,playing bowling,"In this room, the bowling balls always roll back to the starting point.",0.3851666,recall,exp02
+20,Active,Cellar,store wine,"In this room, the bottles are all filled with water.",0.19697508,recall,exp02
+20,Passive,Bathroom,taking showers and using the restroom,"In this room, when you turn on the water, all the faucets turn on.",0.26779088,recall,exp02
+20,Passive,Patio,lounge area outside,"In this room, no bugs can leave, but they can enter freely.",0.060802046,recall,exp02
+20,Active,Laboratory,science related projects,"In this room, all lab tests come back with positive results.",0.115109354,recall,exp02
+20,Active,Art Studio,make art and creative projects,"In this room, the art supplies keep changing color every day.",0.12227677,recall,exp02
+20,Passive,Garage,stores cars,"In this room, the walls will expand to fit any amount of cars.",0.22058953,recall,exp02
+20,Passive,Closet,stores clothing and shoes,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.2765052,recall,exp02
+20,Passive,Observatory,see stars in space,"In this room, the telescope only works on a cloudy night.",0.28816298,recall,exp02
+20,Active,Rooftop,stores solar energy,"In this room, the solar panels light up at night.",0.46279347,recall,exp02
+20,Passive,Theater,movie watching,"In this room, a movie plays automatically and you cannot choose it.",0.29646719,recall,exp02
+20,Passive,Greenhouse,helps plants grow,"In this room, the plants swap places every day.",0.27877924,recall,exp02
+20,Active,Bedroom,where a person sleeps,"In this room, the sun always hits your eyes in the morning.",0.15053937,recall,exp02
+20,Passive,Server Room,holds data for computers,"In this room, everything shuts down when you try to fix something.",0.08032292,recall,exp02
+20,Active,Attic,storage for excess things,"In this room, the boxes are stuck to the floor and cannot be moved.",0.16359892,recall,exp02
+20,Active,Planetarium,watch the stars and space,"In this room, you can see the constellations from different planets.",0.35047662,recall,exp02
+20,Active,Aquarium,observing fish,"In this room, the fish only come out when the lights are off.",0.37311906,recall,exp02
+20,Passive,Zen Room,meditate,"In this room, no sound can enter the walls.",0.047015816,recall,exp02
+20,Active,Swimming Pool,swim,"In this room, the water remains still, no matter how much you splash around in it.",0.21849513,recall,exp02
+20,Passive,Arcade,play games,"In this room, there is a leaderboard that updates everyday.",0.09045839,recall,exp02
+20,Passive,Dining Room,to dine in,"In this room, the food on the table gets cold, but the drinks get hot.",0.20765693,recall,exp02
+25,Passive,Theater,people sit there,"In this room, a movie plays automatically and you cannot choose it.",0.12224419,recall,exp02
+25,Active,Bowling Alley,sitting down,"In this room, the bowling balls always roll back to the starting point.",0.039284468,recall,exp02
+25,Passive,Arcade,gaming,"In this room, there is a leaderboard that updates everyday.",0.10632799,recall,exp02
+25,Passive,Greenhouse,plaanting,"In this room, the plants swap places every day.",-0.08620485,recall,exp02
+25,Active,Attic,storage,"In this room, the boxes are stuck to the floor and cannot be moved.",0.13875748,recall,exp02
+25,Active,Swimming Pool,swimming,"In this room, the water remains still, no matter how much you splash around in it.",0.21063866,recall,exp02
+25,Passive,Observatory,zooming ,"In this room, the telescope only works on a cloudy night.",0.06643394,recall,exp02
+25,Active,Art Studio,art work,"In this room, the art supplies keep changing color every day.",0.16242903,recall,exp02
+25,Active,Planetarium,not sure,"In this room, you can see the constellations from different planets.",-0.045766477,recall,exp02
+25,Active,Gym,fitness,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.14765608,recall,exp02
+25,Active,Aquarium,rearing  fish,"In this room, the fish only come out when the lights are off.",0.267241,recall,exp02
+25,Active,Laboratory,experiments,"In this room, all lab tests come back with positive results.",0.2206695,recall,exp02
+25,Active,Cellar,storage,"In this room, the bottles are all filled with water.",0.06395023,recall,exp02
+25,Passive,Zen Room,not sure,"In this room, no sound can enter the walls.",-0.04831877,recall,exp02
+25,Active,Laundry Room,washing,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.31597805,recall,exp02
+25,Passive,Bathroom,bathing,"In this room, when you turn on the water, all the faucets turn on.",0.22449526,recall,exp02
+25,Active,Rooftop,solar energy,"In this room, the solar panels light up at night.",0.492704,recall,exp02
+25,Passive,Closet,storing clothes,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.3527329,recall,exp02
+25,Passive,Dining Room,eating,"In this room, the food on the table gets cold, but the drinks get hot.",0.1687438,recall,exp02
+25,Passive,Patio,resting,"In this room, no bugs can leave, but they can enter freely.",0.06879768,recall,exp02
+25,Active,Bedroom,sleeping,"In this room, the sun always hits your eyes in the morning.",0.1718314,recall,exp02
+25,Passive,Garage,packing,"In this room, the walls will expand to fit any amount of cars.",0.089438945,recall,exp02
+25,Passive,Library,storing books,"In this room, the books are always in the wrong order.",0.28358924,recall,exp02
+25,Passive,Server Room,internet control,"In this room, everything shuts down when you try to fix something.",0.07616308,recall,exp02
+28,Passive,Bathroom,cleaning activities,"In this room, when you turn on the water, all the faucets turn on.",0.025803067,recall,exp02
+28,Passive,Patio,outdoor activities,"In this room, no bugs can leave, but they can enter freely.",0.04159615,recall,exp02
+28,Passive,Dining Room,dining activities,"In this room, the food on the table gets cold, but the drinks get hot.",0.17244047,recall,exp02
+28,Active,Aquarium,lounge,"In this room, the fish only come out when the lights are off.",0.12574895,recall,exp02
+28,Active,Bedroom,master bedroom,"In this room, the sun always hits your eyes in the morning.",0.19103476,recall,exp02
+28,Active,Attic,storage,"In this room, the boxes are stuck to the floor and cannot be moved.",0.13875748,recall,exp02
+28,Passive,Arcade,game room,"In this room, there is a leaderboard that updates everyday.",0.23672321,recall,exp02
+28,Passive,Greenhouse,green room,"In this room, the plants swap places every day.",0.25513884,recall,exp02
+28,Passive,Library,library,"In this room, the books are always in the wrong order.",0.21893333,recall,exp02
+28,Active,Gym,weights get higher everyday,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.5706715,recall,exp02
+28,Passive,Zen Room,meditation,"In this room, no sound can enter the walls.",0.014860677,recall,exp02
+28,Active,Cellar,winery,"In this room, the bottles are all filled with water.",0.16520607,recall,exp02
+28,Active,Swimming Pool,pool,"In this room, the water remains still, no matter how much you splash around in it.",0.27959666,recall,exp02
+28,Passive,Server Room,servers,"In this room, everything shuts down when you try to fix something.",0.07562251,recall,exp02
+28,Active,Planetarium,constellations,"In this room, you can see the constellations from different planets.",0.5590034,recall,exp02
+28,Active,Laboratory,science,"In this room, all lab tests come back with positive results.",0.1095593,recall,exp02
+28,Passive,Observatory,space observations,"In this room, the telescope only works on a cloudy night.",0.11655314,recall,exp02
+28,Passive,Garage,manual activities,"In this room, the walls will expand to fit any amount of cars.",-0.07501457,recall,exp02
+28,Passive,Closet,clothing storage,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.3018696,recall,exp02
+28,Active,Bowling Alley,game room,"In this room, the bowling balls always roll back to the starting point.",0.20475778,recall,exp02
+28,Active,Art Studio,painting room,"In this room, the art supplies keep changing color every day.",0.32364246,recall,exp02
+28,Active,Laundry Room,washing and drying,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.39877948,recall,exp02
+28,Active,Rooftop,solar panels,"In this room, the solar panels light up at night.",0.5547875,recall,exp02
+28,Passive,Theater,movie room,"In this room, a movie plays automatically and you cannot choose it.",0.4314595,recall,exp02
+41,Passive,Zen Room,relax,"In this room, no sound can enter the walls.",0.0902129,recall,exp02
+41,Passive,Patio,to chill,"In this room, no bugs can leave, but they can enter freely.",0.10754863,recall,exp02
+41,Passive,Theater,watch movie,"In this room, a movie plays automatically and you cannot choose it.",0.23503737,recall,exp02
+41,Active,Attic,stock,"In this room, the boxes are stuck to the floor and cannot be moved.",-0.08004496,recall,exp02
+41,Passive,Server Room,cpu,"In this room, everything shuts down when you try to fix something.",0.08385913,recall,exp02
+41,Active,Art Studio,painting,"In this room, the art supplies keep changing color every day.",0.22754374,recall,exp02
+41,Active,Swimming Pool,swimming,"In this room, the water remains still, no matter how much you splash around in it.",0.21063864,recall,exp02
+41,Passive,Garage,park car,"In this room, the walls will expand to fit any amount of cars.",0.1398612,recall,exp02
+41,Active,Bowling Alley,bowling,"In this room, the bowling balls always roll back to the starting point.",0.42189977,recall,exp02
+41,Passive,Closet,change clothes,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.24485019,recall,exp02
+41,Active,Gym,work out,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.16108759,recall,exp02
+41,Passive,Library,read,"In this room, the books are always in the wrong order.",0.07840639,recall,exp02
+41,Active,Rooftop,sun reflection,"In this room, the solar panels light up at night.",0.30580792,recall,exp02
+41,Passive,Observatory,telescope,"In this room, the telescope only works on a cloudy night.",0.48026457,recall,exp02
+41,Active,Bedroom,sleep,"In this room, the sun always hits your eyes in the morning.",0.2489971,recall,exp02
+41,Passive,Greenhouse,plant,"In this room, the plants swap places every day.",0.28040844,recall,exp02
+41,Active,Aquarium,watch fish,"In this room, the fish only come out when the lights are off.",0.30641356,recall,exp02
+41,Active,Cellar,store wine,"In this room, the bottles are all filled with water.",0.1969751,recall,exp02
+41,Passive,Bathroom,take a shower,"In this room, when you turn on the water, all the faucets turn on.",0.2555756,recall,exp02
+41,Active,Planetarium,watch planets,"In this room, you can see the constellations from different planets.",0.41391832,recall,exp02
+41,Active,Laboratory,do experiment,"In this room, all lab tests come back with positive results.",0.21387056,recall,exp02
+41,Passive,Dining Room,eat dinner,"In this room, the food on the table gets cold, but the drinks get hot.",0.17601869,recall,exp02
+41,Active,Laundry Room,wash clothes,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.4208023,recall,exp02
+41,Passive,Arcade,play arcade,"In this room, there is a leaderboard that updates everyday.",0.12653567,recall,exp02
+42,Passive,Observatory,The telescope can only see when the sky is cloudy.,"In this room, the telescope only works on a cloudy night.",0.683807,recall,exp02
+42,Passive,Theater,A movie is always playing.,"In this room, a movie plays automatically and you cannot choose it.",0.50462323,recall,exp02
+42,Passive,Dining Room,The sun always hits your face,"In this room, the food on the table gets cold, but the drinks get hot.",0.108546436,recall,exp02
+42,Active,Art Studio,The art supplies change color everyday,"In this room, the art supplies keep changing color every day.",0.669538,recall,exp02
+42,Active,Planetarium,You can see any galaxy,"In this room, you can see the constellations from different planets.",0.4107198,recall,exp02
+42,Active,Attic,Can store anything,"In this room, the boxes are stuck to the floor and cannot be moved.",0.19368571,recall,exp02
+42,Passive,Patio,Barbecues can be held,"In this room, no bugs can leave, but they can enter freely.",0.17469281,recall,exp02
+42,Active,Laundry Room,"Washes, folds, and dries clothes but not always in that order","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.7779849,recall,exp02
+42,Active,Bowling Alley,Bowling balls always get lost,"In this room, the bowling balls always roll back to the starting point.",0.59968734,recall,exp02
+42,Active,Aquarium,The fish swim around always,"In this room, the fish only come out when the lights are off.",0.4956728,recall,exp02
+42,Passive,Garage,Cars go missing,"In this room, the walls will expand to fit any amount of cars.",0.08422813,recall,exp02
+42,Passive,Zen Room,Meditation is interrupted,"In this room, no sound can enter the walls.",0.051915247,recall,exp02
+42,Active,Rooftop,The solar panels light up at night,"In this room, the solar panels light up at night.",0.8389585,recall,exp02
+42,Active,Bedroom,The light always hits your face,"In this room, the sun always hits your eyes in the morning.",0.48344475,recall,exp02
+42,Active,Swimming Pool,The water is always still no matter how much you splash,"In this room, the water remains still, no matter how much you splash around in it.",0.7468162,recall,exp02
+42,Passive,Bathroom,It is always cold,"In this room, when you turn on the water, all the faucets turn on.",0.17611068,recall,exp02
+42,Passive,Library,Books are changed everyday,"In this room, the books are always in the wrong order.",0.39992344,recall,exp02
+42,Passive,Arcade,games are too expensive to play,"In this room, there is a leaderboard that updates everyday.",0.001372986,recall,exp02
+42,Passive,Server Room,Servers are always down,"In this room, everything shuts down when you try to fix something.",0.124826744,recall,exp02
+42,Active,Laboratory,All tests are returned positive,"In this room, all lab tests come back with positive results.",0.5329404,recall,exp02
+42,Passive,Greenhouse,The plants are changed daily,"In this room, the plants swap places every day.",0.5071397,recall,exp02
+42,Active,Cellar,Wine is aged,"In this room, the bottles are all filled with water.",0.17720157,recall,exp02
+42,Passive,Closet,The clothes always pile on the floor,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.6515096,recall,exp02
+42,Active,Gym,It is always dusty,"In this room, the weights get heavier every day, regardless of whether you use them or not.",-0.022424757,recall,exp02
+43,Passive,Theater,You can not pick the movie but one automatically plays,"In this room, a movie plays automatically and you cannot choose it.",0.73110163,recall,exp02
+43,Passive,Patio,People talk,"In this room, no bugs can leave, but they can enter freely.",0.00197313,recall,exp02
+43,Passive,Library,All the books do something,"In this room, the books are always in the wrong order.",0.47502017,recall,exp02
+43,Passive,Greenhouse,All the plants grow,"In this room, the plants swap places every day.",0.4292537,recall,exp02
+43,Active,Gym,The weights always get heavier everyday even if you dont use them,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.7755804,recall,exp02
+43,Passive,Server Room,All the serves connect to anything,"In this room, everything shuts down when you try to fix something.",0.25880426,recall,exp02
+43,Passive,Closet,The clothes are always piled on fllor,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.4641866,recall,exp02
+43,Active,Bedroom,The brightness always wakes you up,"In this room, the sun always hits your eyes in the morning.",0.44485098,recall,exp02
+43,Passive,Garage,It doesnt fit cars,"In this room, the walls will expand to fit any amount of cars.",0.30323106,recall,exp02
+43,Active,Planetarium,It is very large,"In this room, you can see the constellations from different planets.",0.03950273,recall,exp02
+43,Active,Art Studio,It oozes inspo,"In this room, the art supplies keep changing color every day.",0.07293901,recall,exp02
+43,Active,Swimming Pool,the water never moves no matter how much you splash,"In this room, the water remains still, no matter how much you splash around in it.",0.70035195,recall,exp02
+43,Active,Aquarium,The fish never do something,"In this room, the fish only come out when the lights are off.",0.49137455,recall,exp02
+43,Active,Attic,It is very dusty,"In this room, the boxes are stuck to the floor and cannot be moved.",0.11183759,recall,exp02
+43,Passive,Zen Room,It keeps you calm,"In this room, no sound can enter the walls.",0.23454009,recall,exp02
+43,Active,Laundry Room,It gets washed dried and folded not always in that order,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.75206757,recall,exp02
+43,Active,Cellar,All the bottles are filled with water,"In this room, the bottles are all filled with water.",0.80271065,recall,exp02
+43,Active,Bowling Alley,You get strikes,"In this room, the bowling balls always roll back to the starting point.",0.010348413,recall,exp02
+43,Passive,Dining Room,The food never runs out\n,"In this room, the food on the table gets cold, but the drinks get hot.",0.21683718,recall,exp02
+43,Passive,Observatory,You can see everything,"In this room, the telescope only works on a cloudy night.",0.15296224,recall,exp02
+43,Passive,Arcade,It has very bright lights,"In this room, there is a leaderboard that updates everyday.",0.0366969,recall,exp02
+43,Passive,Bathroom,It never overflows,"In this room, when you turn on the water, all the faucets turn on.",0.12705892,recall,exp02
+43,Active,Laboratory,All the labs come back negative,"In this room, all lab tests come back with positive results.",0.5106081,recall,exp02
+43,Active,Rooftop,Things get stuck,"In this room, the solar panels light up at night.",0.055203263,recall,exp02
+45,Active,Planetarium,Gets darker when more people are inside.,"In this room, you can see the constellations from different planets.",0.20119023,recall,exp02
+45,Active,Laundry Room,Dirty clothes cannot enter the room.,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.48958138,recall,exp02
+45,Active,Bowling Alley,Bowling balls come shooting at the participants.,"In this room, the bowling balls always roll back to the starting point.",0.52028525,recall,exp02
+45,Active,Laboratory,All test results from this lab come back positive.,"In this room, all lab tests come back with positive results.",0.7661393,recall,exp02
+45,Passive,Arcade,You pay for the arcade machines in blood.,"In this room, there is a leaderboard that updates everyday.",0.070022,recall,exp02
+45,Active,Aquarium,The room becomes darker the longer you are in it.,"In this room, the fish only come out when the lights are off.",0.3633889,recall,exp02
+45,Passive,Zen Room,No one can enter this room without the intent to worship the shrine.,"In this room, no sound can enter the walls.",0.39362472,recall,exp02
+45,Passive,Observatory,The telescope has a fixed position and cannot move.,"In this room, the telescope only works on a cloudy night.",0.47570568,recall,exp02
+45,Active,Swimming Pool,"The water in the pool is always still, no matter what.","In this room, the water remains still, no matter how much you splash around in it.",0.5867965,recall,exp02
+45,Passive,Bathroom,The daylight will not enter this room.,"In this room, when you turn on the water, all the faucets turn on.",0.27136785,recall,exp02
+45,Passive,Patio,"If the campfire is lit for too long, the whole patio is engulfed in flames.","In this room, no bugs can leave, but they can enter freely.",0.22279379,recall,exp02
+45,Active,Bedroom,Daylight will not enter the room.,"In this room, the sun always hits your eyes in the morning.",0.375971,recall,exp02
+45,Active,Cellar,You can only hear white noise in this room.,"In this room, the bottles are all filled with water.",0.33288872,recall,exp02
+45,Passive,Server Room,The devices in this room can run without electricity.,"In this room, everything shuts down when you try to fix something.",0.25875437,recall,exp02
+45,Passive,Closet,The clothes in this room are self-folding.,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.60994315,recall,exp02
+45,Active,Rooftop,Solar rays cannot penetrate these panels.,"In this room, the solar panels light up at night.",0.4798503,recall,exp02
+45,Passive,Greenhouse,Plants can grow in this greenhouse without sunlight.,"In this room, the plants swap places every day.",0.45035452,recall,exp02
+45,Active,Art Studio,Only artists can enter this room.,"In this room, the art supplies keep changing color every day.",0.40265805,recall,exp02
+45,Passive,Dining Room,People can only enter this room if they intend to eat dinner.,"In this room, the food on the table gets cold, but the drinks get hot.",0.4224564,recall,exp02
+45,Active,Attic,All of the boxes on the floor will remain closed.,"In this room, the boxes are stuck to the floor and cannot be moved.",0.63623506,recall,exp02
+45,Passive,Library,None of the books in this room can be read.,"In this room, the books are always in the wrong order.",0.6556678,recall,exp02
+45,Passive,Garage,Can only fit 4 cars in this space.,"In this room, the walls will expand to fit any amount of cars.",0.5432993,recall,exp02
+45,Active,Gym,You can do anything but workout in this room.,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.34374252,recall,exp02
+45,Passive,Theater,"The screen in this room will always remain white, no matter what.","In this room, a movie plays automatically and you cannot choose it.",0.3878015,recall,exp02
+5,Active,Cellar,Every drink is water,"In this room, the bottles are all filled with water.",0.49073374,recall,exp02
+5,Passive,Arcade,The games never turn off,"In this room, there is a leaderboard that updates everyday.",0.09225916,recall,exp02
+5,Active,Laboratory,No noise can be heard,"In this room, all lab tests come back with positive results.",0.033361144,recall,exp02
+5,Active,Swimming Pool,The water is always still even if you jump in,"In this room, the water remains still, no matter how much you splash around in it.",0.5822584,recall,exp02
+5,Passive,Dining Room,Food is always cold on the table and drinks are hot,"In this room, the food on the table gets cold, but the drinks get hot.",0.731063,recall,exp02
+5,Active,Bowling Alley,The bowling balls always come back,"In this room, the bowling balls always roll back to the starting point.",0.6405237,recall,exp02
+5,Passive,Bathroom,The floor is always clean,"In this room, when you turn on the water, all the faucets turn on.",0.18155116,recall,exp02
+5,Active,Rooftop,The sun is always shining ,"In this room, the solar panels light up at night.",0.35283536,recall,exp02
+5,Active,Art Studio,The paint will always change colors,"In this room, the art supplies keep changing color every day.",0.40904346,recall,exp02
+5,Active,Attic,Everything is always dusty,"In this room, the boxes are stuck to the floor and cannot be moved.",0.21809183,recall,exp02
+5,Passive,Closet,All of your clothes are always on the floor,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.58559895,recall,exp02
+5,Active,Aquarium,The fish only come out in the dark,"In this room, the fish only come out when the lights are off.",0.7228004,recall,exp02
+5,Passive,Zen Room,No noise can go through the walls,"In this room, no sound can enter the walls.",0.65660346,recall,exp02
+5,Passive,Server Room,The data towers are always beeping,"In this room, everything shuts down when you try to fix something.",0.21891314,recall,exp02
+5,Passive,Garage,The garage is always empty ,"In this room, the walls will expand to fit any amount of cars.",0.23761564,recall,exp02
+5,Passive,Greenhouse,The sun is always shining,"In this room, the plants swap places every day.",0.17008303,recall,exp02
+5,Active,Laundry Room,Closes are washed dried and folded but not always in that order.,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.70144695,recall,exp02
+5,Active,Bedroom,The sun always shines through the window,"In this room, the sun always hits your eyes in the morning.",0.54270256,recall,exp02
+5,Active,Planetarium,You can see constellations from different planets,"In this room, you can see the constellations from different planets.",0.84431064,recall,exp02
+5,Passive,Theater,Movies always play but you cant pick,"In this room, a movie plays automatically and you cannot choose it.",0.59936285,recall,exp02
+5,Passive,Library,Books are always changing spots,"In this room, the books are always in the wrong order.",0.48010194,recall,exp02
+5,Passive,Observatory,You can only use the telescope when its cloudy,"In this room, the telescope only works on a cloudy night.",0.72810113,recall,exp02
+5,Passive,Patio,Bugs can enter but never leave,"In this room, no bugs can leave, but they can enter freely.",0.713916,recall,exp02
+5,Active,Gym,The weights are very light,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.48678374,recall,exp02
+6,Active,Art Studio,the colors of the supplies change every day,"In this room, the art supplies keep changing color every day.",0.6237334,recall,exp02
+6,Passive,Zen Room,,"In this room, no sound can enter the walls.",-0.044517808,recall,exp02
+6,Passive,Closet,,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.04133142,recall,exp02
+6,Passive,Arcade,,"In this room, there is a leaderboard that updates everyday.",-0.034158636,recall,exp02
+6,Active,Bedroom,something about the sun,"In this room, the sun always hits your eyes in the morning.",0.2612439,recall,exp02
+6,Passive,Garage,it expands to fit unlimited cars,"In this room, the walls will expand to fit any amount of cars.",0.5527231,recall,exp02
+6,Active,Planetarium,you can see stars from other planets,"In this room, you can see the constellations from different planets.",0.6234916,recall,exp02
+6,Passive,Greenhouse,,"In this room, the plants swap places every day.",-0.041501295,recall,exp02
+6,Passive,Observatory,works best when cloudy,"In this room, the telescope only works on a cloudy night.",0.42175314,recall,exp02
+6,Active,Attic,boxes are stuck to the floor,"In this room, the boxes are stuck to the floor and cannot be moved.",0.6548807,recall,exp02
+6,Passive,Library,,"In this room, the books are always in the wrong order.",-0.07912174,recall,exp02
+6,Passive,Dining Room,food gets colder and drinks get warmer on this table,"In this room, the food on the table gets cold, but the drinks get hot.",0.634202,recall,exp02
+6,Active,Rooftop,,"In this room, the solar panels light up at night.",-0.018152911,recall,exp02
+6,Active,Laboratory,,"In this room, all lab tests come back with positive results.",-0.062453166,recall,exp02
+6,Active,Swimming Pool,,"In this room, the water remains still, no matter how much you splash around in it.",0.009898284,recall,exp02
+6,Active,Bowling Alley,bowling balls roll back to the starting point,"In this room, the bowling balls always roll back to the starting point.",0.7846385,recall,exp02
+6,Passive,Bathroom,all of the faucets turn on when you use one,"In this room, when you turn on the water, all the faucets turn on.",0.7295881,recall,exp02
+6,Active,Gym,the weights get heavier every day,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.6725544,recall,exp02
+6,Active,Laundry Room,,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",-0.03392651,recall,exp02
+6,Passive,Server Room,everything breaks when you try to fix it,"In this room, everything shuts down when you try to fix something.",0.5979679,recall,exp02
+6,Active,Cellar,all the bottles are filled with water,"In this room, the bottles are all filled with water.",0.8027106,recall,exp02
+6,Active,Aquarium,the fish only come out when the lights are off,"In this room, the fish only come out when the lights are off.",0.88285136,recall,exp02
+6,Passive,Theater,,"In this room, a movie plays automatically and you cannot choose it.",-0.013084387,recall,exp02
+6,Passive,Patio,,"In this room, no bugs can leave, but they can enter freely.",-0.0680587,recall,exp02
+60,Active,Bowling Alley,a restaurant,"In this room, the bowling balls always roll back to the starting point.",-0.038442668,recall,exp02
+60,Passive,Library,reading,"In this room, the books are always in the wrong order.",0.13739598,recall,exp02
+60,Active,Laboratory,carries out experiments,"In this room, all lab tests come back with positive results.",0.25914174,recall,exp02
+60,Passive,Dining Room,used for eating,"In this room, the food on the table gets cold, but the drinks get hot.",0.1515897,recall,exp02
+60,Passive,Arcade,for playing games,"In this room, there is a leaderboard that updates everyday.",0.04526701,recall,exp02
+60,Passive,Greenhouse,growing green plants,"In this room, the plants swap places every day.",0.29491636,recall,exp02
+60,Active,Planetarium,for game,"In this room, you can see the constellations from different planets.",-0.040678535,recall,exp02
+60,Active,Cellar,sells alcohol,"In this room, the bottles are all filled with water.",0.24000604,recall,exp02
+60,Passive,Bathroom,taking shower,"In this room, when you turn on the water, all the faucets turn on.",0.2605279,recall,exp02
+60,Passive,Server Room,central room,"In this room, everything shuts down when you try to fix something.",0.14193948,recall,exp02
+60,Active,Swimming Pool,for swimmming,"In this room, the water remains still, no matter how much you splash around in it.",-0.05762744,recall,exp02
+60,Active,Gym,for excersice,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.22234991,recall,exp02
+60,Active,Attic,store,"In this room, the boxes are stuck to the floor and cannot be moved.",0.106439814,recall,exp02
+60,Passive,Zen Room,resting room,"In this room, no sound can enter the walls.",0.2676025,recall,exp02
+60,Passive,Garage,parking room,"In this room, the walls will expand to fit any amount of cars.",0.23203093,recall,exp02
+60,Active,Rooftop,solar charging,"In this room, the solar panels light up at night.",0.40324423,recall,exp02
+60,Active,Art Studio,for films,"In this room, the art supplies keep changing color every day.",-0.001993608,recall,exp02
+60,Passive,Closet,store for clothes,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.36987886,recall,exp02
+60,Passive,Theater,watching movies,"In this room, a movie plays automatically and you cannot choose it.",0.26267147,recall,exp02
+60,Passive,Observatory,used to observe thiny items,"In this room, the telescope only works on a cloudy night.",0.019904168,recall,exp02
+60,Active,Aquarium,resting room,"In this room, the fish only come out when the lights are off.",0.26841497,recall,exp02
+60,Active,Laundry Room,washing clothes,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.43530235,recall,exp02
+60,Passive,Patio,resting room,"In this room, no bugs can leave, but they can enter freely.",0.20958915,recall,exp02
+60,Active,Bedroom,sleeping,"In this room, the sun always hits your eyes in the morning.",0.17183138,recall,exp02
+65,Passive,Library,The books get longer,"In this room, the books are always in the wrong order.",0.38220045,recall,exp02
+65,Passive,Patio,The sun never goes away,"In this room, no bugs can leave, but they can enter freely.",0.11528752,recall,exp02
+65,Active,Bedroom,The light wakes you up,"In this room, the sun always hits your eyes in the morning.",0.38011375,recall,exp02
+65,Active,Cellar,Wine exipres,"In this room, the bottles are all filled with water.",0.11034246,recall,exp02
+65,Active,Bowling Alley,No idea,"In this room, the bowling balls always roll back to the starting point.",-0.05966729,recall,exp02
+65,Active,Gym,The weights get heavier,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.5695406,recall,exp02
+65,Passive,Theater,The movies never end,"In this room, a movie plays automatically and you cannot choose it.",0.33356962,recall,exp02
+65,Passive,Closet,No idea,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.104421094,recall,exp02
+65,Active,Laundry Room,Clothes never are clean,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.3938359,recall,exp02
+65,Passive,Server Room,gets more complex,"In this room, everything shuts down when you try to fix something.",0.005252622,recall,exp02
+65,Passive,Garage,Keeps expanding,"In this room, the walls will expand to fit any amount of cars.",0.2185689,recall,exp02
+65,Active,Planetarium,,"In this room, you can see the constellations from different planets.",-0.010437485,recall,exp02
+65,Passive,Arcade,,"In this room, there is a leaderboard that updates everyday.",-0.034158636,recall,exp02
+65,Active,Laboratory,,"In this room, all lab tests come back with positive results.",-0.062453166,recall,exp02
+65,Active,Attic,,"In this room, the boxes are stuck to the floor and cannot be moved.",-0.026605833,recall,exp02
+65,Active,Aquarium,fish only appear in the dark,"In this room, the fish only come out when the lights are off.",0.6452817,recall,exp02
+65,Passive,Dining Room,,"In this room, the food on the table gets cold, but the drinks get hot.",0.014299896,recall,exp02
+65,Passive,Observatory,,"In this room, the telescope only works on a cloudy night.",-0.03817052,recall,exp02
+65,Active,Art Studio,,"In this room, the art supplies keep changing color every day.",-0.021832388,recall,exp02
+65,Active,Rooftop,,"In this room, the solar panels light up at night.",-0.018152911,recall,exp02
+65,Passive,Bathroom,,"In this room, when you turn on the water, all the faucets turn on.",-0.033190075,recall,exp02
+65,Passive,Zen Room,,"In this room, no sound can enter the walls.",-0.044517808,recall,exp02
+65,Passive,Greenhouse,,"In this room, the plants swap places every day.",-0.041501295,recall,exp02
+65,Active,Swimming Pool,,"In this room, the water remains still, no matter how much you splash around in it.",0.009898286,recall,exp02
+68,Active,Laundry Room,clothes never dry,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.4352128,recall,exp02
+68,Active,Gym,The weights get heavier every time you lift them,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.65336096,recall,exp02
+68,Passive,Library,books can't be read,"In this room, the books are always in the wrong order.",0.4055927,recall,exp02
+68,Passive,Observatory,can see stars and other planets,"In this room, the telescope only works on a cloudy night.",0.24784677,recall,exp02
+68,Active,Attic,stores items,"In this room, the boxes are stuck to the floor and cannot be moved.",0.16996592,recall,exp02
+68,Active,Rooftop,provides energy,"In this room, the solar panels light up at night.",0.18648784,recall,exp02
+68,Passive,Zen Room,you are at peace,"In this room, no sound can enter the walls.",0.02366617,recall,exp02
+68,Passive,Theater,movies are watched,"In this room, a movie plays automatically and you cannot choose it.",0.25622913,recall,exp02
+68,Active,Aquarium,fish come out at night,"In this room, the fish only come out when the lights are off.",0.5392232,recall,exp02
+68,Active,Laboratory,results are positive,"In this room, all lab tests come back with positive results.",0.40730882,recall,exp02
+68,Passive,Server Room,data is stored,"In this room, everything shuts down when you try to fix something.",-0.05135229,recall,exp02
+68,Passive,Garage,is for cars,"In this room, the walls will expand to fit any amount of cars.",0.2071595,recall,exp02
+68,Passive,Dining Room,is for eating,"In this room, the food on the table gets cold, but the drinks get hot.",0.20332792,recall,exp02
+68,Passive,Closet,clothes are on the floor,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.48942405,recall,exp02
+68,Active,Cellar,water is in the bottles,"In this room, the bottles are all filled with water.",0.7202618,recall,exp02
+68,Active,Swimming Pool,is for swimming,"In this room, the water remains still, no matter how much you splash around in it.",0.25321254,recall,exp02
+68,Passive,Patio,Mosquitos bite you,"In this room, no bugs can leave, but they can enter freely.",0.2344946,recall,exp02
+68,Active,Bowling Alley,Is for bowling,"In this room, the bowling balls always roll back to the starting point.",0.457867,recall,exp02
+68,Active,Planetarium,is for watching the sky,"In this room, you can see the constellations from different planets.",0.27100825,recall,exp02
+68,Passive,Arcade,is a bar,"In this room, there is a leaderboard that updates everyday.",0.080315664,recall,exp02
+68,Active,Art Studio,is a art palace,"In this room, the art supplies keep changing color every day.",0.18751854,recall,exp02
+68,Passive,Greenhouse,is a garden,"In this room, the plants swap places every day.",0.18893495,recall,exp02
+68,Passive,Bathroom,is a bathroom,"In this room, when you turn on the water, all the faucets turn on.",0.18356812,recall,exp02
+68,Active,Bedroom,is a bedroom,"In this room, the sun always hits your eyes in the morning.",0.2020805,recall,exp02
+7,Active,Laundry Room,Cant remember,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.05751055,recall,exp02
+7,Passive,Observatory,Cant remember,"In this room, the telescope only works on a cloudy night.",0.070050955,recall,exp02
+7,Active,Cellar,Cant remember,"In this room, the bottles are all filled with water.",0.052991085,recall,exp02
+7,Passive,Dining Room,Cant remember,"In this room, the food on the table gets cold, but the drinks get hot.",0.06843451,recall,exp02
+7,Passive,Zen Room,Cant remember,"In this room, no sound can enter the walls.",0.026155192,recall,exp02
+7,Active,Planetarium,Cant remember,"In this room, you can see the constellations from different planets.",-0.007202643,recall,exp02
+7,Active,Laboratory,Cant remember,"In this room, all lab tests come back with positive results.",-0.052037325,recall,exp02
+7,Active,Gym,Cant remember,"In this room, the weights get heavier every day, regardless of whether you use them or not.",-0.013428186,recall,exp02
+7,Active,Bedroom,Cant remember,"In this room, the sun always hits your eyes in the morning.",0.033283282,recall,exp02
+7,Active,Rooftop,Cant remember,"In this room, the solar panels light up at night.",0.007850686,recall,exp02
+7,Active,Aquarium,Cant remember,"In this room, the fish only come out when the lights are off.",0.062131405,recall,exp02
+7,Passive,Theater,Cant remember,"In this room, a movie plays automatically and you cannot choose it.",0.07534538,recall,exp02
+7,Passive,Garage,Cant remember,"In this room, the walls will expand to fit any amount of cars.",-0.06869373,recall,exp02
+7,Passive,Server Room,Cant remember,"In this room, everything shuts down when you try to fix something.",0.11588088,recall,exp02
+7,Active,Bowling Alley,Cant remember,"In this room, the bowling balls always roll back to the starting point.",-0.0167594,recall,exp02
+7,Passive,Bathroom,Cant remember,"In this room, when you turn on the water, all the faucets turn on.",0.014300667,recall,exp02
+7,Passive,Closet,Cant remember,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.02007805,recall,exp02
+7,Passive,Arcade,Cant remember,"In this room, there is a leaderboard that updates everyday.",-0.008012431,recall,exp02
+7,Passive,Patio,Cant remember,"In this room, no bugs can leave, but they can enter freely.",-0.044751592,recall,exp02
+7,Passive,Greenhouse,Cant remember,"In this room, the plants swap places every day.",0.001230711,recall,exp02
+7,Active,Art Studio,Cant remember,"In this room, the art supplies keep changing color every day.",0.036235545,recall,exp02
+7,Active,Swimming Pool,Cant remember,"In this room, the water remains still, no matter how much you splash around in it.",0.07491928,recall,exp02
+7,Passive,Library,Cant remember,"In this room, the books are always in the wrong order.",0.09340949,recall,exp02
+7,Active,Attic,Cant remember,"In this room, the boxes are stuck to the floor and cannot be moved.",-0.007508865,recall,exp02
+70,Passive,Patio,I dont remember. ,"In this room, no bugs can leave, but they can enter freely.",-0.07759232,recall,exp02
+70,Active,Swimming Pool,Dont remember,"In this room, the water remains still, no matter how much you splash around in it.",0.08993718,recall,exp02
+70,Active,Bedroom,the sun hits you eyes when you wake up,"In this room, the sun always hits your eyes in the morning.",0.6803218,recall,exp02
+70,Passive,Greenhouse,dont remember\n,"In this room, the plants swap places every day.",-0.001564662,recall,exp02
+70,Active,Laundry Room,dont remember,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.06292224,recall,exp02
+70,Active,Cellar,dont remember\n,"In this room, the bottles are all filled with water.",0.02856269,recall,exp02
+70,Active,Rooftop,dont remember,"In this room, the solar panels light up at night.",-0.000916192,recall,exp02
+70,Passive,Closet,dont remember,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.007856771,recall,exp02
+70,Passive,Arcade,dont remember,"In this room, there is a leaderboard that updates everyday.",-0.06349096,recall,exp02
+70,Active,Gym,the weights get heavier everyday,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.64886326,recall,exp02
+70,Active,Art Studio,it changes colors,"In this room, the art supplies keep changing color every day.",0.36759797,recall,exp02
+70,Passive,Theater,plays movies,"In this room, a movie plays automatically and you cannot choose it.",0.3494491,recall,exp02
+70,Passive,Dining Room,dont remember,"In this room, the food on the table gets cold, but the drinks get hot.",0.037284393,recall,exp02
+70,Passive,Bathroom,dont remember,"In this room, when you turn on the water, all the faucets turn on.",-0.009855574,recall,exp02
+70,Passive,Garage,dont remember,"In this room, the walls will expand to fit any amount of cars.",-0.14369875,recall,exp02
+70,Passive,Server Room,dont remember,"In this room, everything shuts down when you try to fix something.",0.030146617,recall,exp02
+70,Passive,Zen Room,dont remember,"In this room, no sound can enter the walls.",0.010302561,recall,exp02
+70,Active,Bowling Alley,dont remember,"In this room, the bowling balls always roll back to the starting point.",-0.04192633,recall,exp02
+70,Passive,Library,dont remember,"In this room, the books are always in the wrong order.",0.10497117,recall,exp02
+70,Passive,Observatory,lets you see constellations,"In this room, the telescope only works on a cloudy night.",0.30322954,recall,exp02
+70,Active,Planetarium,dont remember,"In this room, you can see the constellations from different planets.",-0.036692668,recall,exp02
+70,Active,Attic,dont remember,"In this room, the boxes are stuck to the floor and cannot be moved.",-0.024985299,recall,exp02
+70,Active,Laboratory,dont remember,"In this room, all lab tests come back with positive results.",-0.06557406,recall,exp02
+70,Active,Aquarium,dont remember,"In this room, the fish only come out when the lights are off.",0.07084048,recall,exp02
+74,Active,Gym,"the weights get heavier every day, it does not matter if you use them or not","In this room, the weights get heavier every day, regardless of whether you use them or not.",0.8185983,recall,exp02
+74,Passive,Server Room,"It has great lenght, i think","In this room, everything shuts down when you try to fix something.",0.013421522,recall,exp02
+74,Passive,Garage,I do not recall,"In this room, the walls will expand to fit any amount of cars.",-0.103272796,recall,exp02
+74,Passive,Observatory,It only works when cloudy,"In this room, the telescope only works on a cloudy night.",0.5370585,recall,exp02
+74,Passive,Dining Room,the food gets colder and the drinks get hot,"In this room, the food on the table gets cold, but the drinks get hot.",0.73095757,recall,exp02
+74,Active,Swimming Pool,the water is still no matter how much you try to splash,"In this room, the water remains still, no matter how much you splash around in it.",0.72465944,recall,exp02
+74,Active,Aquarium,the fishes only come out when it is dark,"In this room, the fish only come out when the lights are off.",0.7017031,recall,exp02
+74,Passive,Bathroom,do not recall,"In this room, when you turn on the water, all the faucets turn on.",0.013701623,recall,exp02
+74,Passive,Greenhouse,do not recall,"In this room, the plants swap places every day.",-0.063026786,recall,exp02
+74,Active,Laundry Room,"the clothes fold, wash or dry automatically but in any order","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.60509944,recall,exp02
+74,Passive,Closet,do not recall,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.02582584,recall,exp02
+74,Passive,Library,do not recall,"In this room, the books are always in the wrong order.",0.13995214,recall,exp02
+74,Active,Cellar,the win is water,"In this room, the bottles are all filled with water.",0.3022721,recall,exp02
+74,Active,Bowling Alley,the balls come back to where they started,"In this room, the bowling balls always roll back to the starting point.",0.4316921,recall,exp02
+74,Active,Laboratory,all test are positive,"In this room, all lab tests come back with positive results.",0.4527574,recall,exp02
+74,Passive,Patio,do not recall,"In this room, no bugs can leave, but they can enter freely.",0.01678482,recall,exp02
+74,Active,Rooftop,shines at night,"In this room, the solar panels light up at night.",0.41337526,recall,exp02
+74,Passive,Theater,do not recall,"In this room, a movie plays automatically and you cannot choose it.",0.014772546,recall,exp02
+74,Active,Bedroom,the sun always hits you when u wake up,"In this room, the sun always hits your eyes in the morning.",0.62660617,recall,exp02
+74,Active,Attic,boxes are stuck to the floor,"In this room, the boxes are stuck to the floor and cannot be moved.",0.65488064,recall,exp02
+74,Passive,Arcade,do not recall,"In this room, there is a leaderboard that updates everyday.",-0.105302796,recall,exp02
+74,Active,Planetarium,you can see constellations from any planet,"In this room, you can see the constellations from different planets.",0.76826334,recall,exp02
+74,Passive,Zen Room,do not recall,"In this room, no sound can enter the walls.",0.11755686,recall,exp02
+74,Active,Art Studio,the art supplies change color,"In this room, the art supplies keep changing color every day.",0.5260075,recall,exp02
+76,Passive,Dining Room,eating ,"In this room, the food on the table gets cold, but the drinks get hot.",0.1687438,recall,exp02
+76,Active,Planetarium,you study space,"In this room, you can see the constellations from different planets.",0.26284468,recall,exp02
+76,Passive,Greenhouse,plants will grow ,"In this room, the plants swap places every day.",0.31121206,recall,exp02
+76,Passive,Theater,movies are played,"In this room, a movie plays automatically and you cannot choose it.",0.32579237,recall,exp02
+76,Active,Gym,only one weight can be helf at a time,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.30444363,recall,exp02
+76,Passive,Bathroom,things get clean,"In this room, when you turn on the water, all the faucets turn on.",0.20164268,recall,exp02
+76,Passive,Arcade,games are played,"In this room, there is a leaderboard that updates everyday.",0.1235448,recall,exp02
+76,Passive,Patio,there is food and relaxation,"In this room, no bugs can leave, but they can enter freely.",0.10382165,recall,exp02
+76,Passive,Garage,cars are held,"In this room, the walls will expand to fit any amount of cars.",0.18280146,recall,exp02
+76,Passive,Closet,clothes are put on and away,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.31932765,recall,exp02
+76,Passive,Observatory,you stare at the sky,"In this room, the telescope only works on a cloudy night.",0.2953332,recall,exp02
+76,Active,Bedroom,rest and relaxation,"In this room, the sun always hits your eyes in the morning.",0.083886355,recall,exp02
+76,Active,Bowling Alley,games are played,"In this room, the bowling balls always roll back to the starting point.",0.06658648,recall,exp02
+76,Active,Laundry Room,clothes are cleaned,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.34812313,recall,exp02
+76,Passive,Server Room,connections are made,"In this room, everything shuts down when you try to fix something.",-0.02636204,recall,exp02
+76,Active,Art Studio,things are made,"In this room, the art supplies keep changing color every day.",0.10241844,recall,exp02
+76,Passive,Zen Room,meditation,"In this room, no sound can enter the walls.",0.014860688,recall,exp02
+76,Active,Swimming Pool,things get wet,"In this room, the water remains still, no matter how much you splash around in it.",0.23364872,recall,exp02
+76,Active,Rooftop,energy is stored,"In this room, the solar panels light up at night.",0.2663838,recall,exp02
+76,Passive,Library,books are read,"In this room, the books are always in the wrong order.",0.38749284,recall,exp02
+76,Active,Cellar,people get drunk,"In this room, the bottles are all filled with water.",0.21280867,recall,exp02
+76,Active,Aquarium,fish swim around,"In this room, the fish only come out when the lights are off.",0.37043124,recall,exp02
+76,Active,Laboratory,science is done,"In this room, all lab tests come back with positive results.",0.16288087,recall,exp02
+76,Active,Attic,holds boxes,"In this room, the boxes are stuck to the floor and cannot be moved.",0.37799305,recall,exp02
+8,Active,Gym,The weights gets stronger everyday even if they're not used,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.66763854,recall,exp02
+8,Active,Swimming Pool,the water never comes out no matter how much splashing there is,"In this room, the water remains still, no matter how much you splash around in it.",0.6414957,recall,exp02
+8,Passive,Garage,idk,"In this room, the walls will expand to fit any amount of cars.",-0.006635236,recall,exp02
+8,Passive,Library,the books dont have words,"In this room, the books are always in the wrong order.",0.48518747,recall,exp02
+8,Passive,Greenhouse,the plants never die,"In this room, the plants swap places every day.",0.3194716,recall,exp02
+8,Active,Bedroom,the bed is always made,"In this room, the sun always hits your eyes in the morning.",0.2502554,recall,exp02
+8,Passive,Patio,the sun never sets,"In this room, no bugs can leave, but they can enter freely.",0.002437037,recall,exp02
+8,Passive,Dining Room,the glasses stay full,"In this room, the food on the table gets cold, but the drinks get hot.",0.15133104,recall,exp02
+8,Active,Cellar,the bottles are full of water\n,"In this room, the bottles are all filled with water.",0.6420678,recall,exp02
+8,Active,Planetarium,im not sure,"In this room, you can see the constellations from different planets.",-0.027900998,recall,exp02
+8,Active,Attic,the boxes dont move,"In this room, the boxes are stuck to the floor and cannot be moved.",0.5215677,recall,exp02
+8,Active,Bowling Alley,you always get a strike,"In this room, the bowling balls always roll back to the starting point.",0.16318291,recall,exp02
+8,Passive,Bathroom,turning on the water turns on all faucets,"In this room, when you turn on the water, all the faucets turn on.",0.7680585,recall,exp02
+8,Active,Laboratory,the test always comes back positive,"In this room, all lab tests come back with positive results.",0.52942574,recall,exp02
+8,Active,Aquarium,the fish never die,"In this room, the fish only come out when the lights are off.",0.48291358,recall,exp02
+8,Active,Art Studio,the colors change everyday,"In this room, the art supplies keep changing color every day.",0.48768654,recall,exp02
+8,Passive,Zen Room,im not sure,"In this room, no sound can enter the walls.",-0.09960377,recall,exp02
+8,Passive,Closet,new clothes appear every week,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.25515962,recall,exp02
+8,Passive,Observatory,im not sure,"In this room, the telescope only works on a cloudy night.",-0.051485203,recall,exp02
+8,Active,Laundry Room,"the clothes are washed, dried, and folded, but not always in that order","In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.8538558,recall,exp02
+8,Passive,Theater,im not sure,"In this room, a movie plays automatically and you cannot choose it.",-0.010201506,recall,exp02
+8,Passive,Arcade,you win every game,"In this room, there is a leaderboard that updates everyday.",0.22101417,recall,exp02
+8,Passive,Server Room,im not sure,"In this room, everything shuts down when you try to fix something.",-0.056363806,recall,exp02
+8,Active,Rooftop,im not sure,"In this room, the solar panels light up at night.",-0.066863306,recall,exp02
+9,Passive,Patio,idk\n,"In this room, no bugs can leave, but they can enter freely.",0.08200067,recall,exp02
+9,Active,Bedroom,its always something i cant remember\n,"In this room, the sun always hits your eyes in the morning.",0.05461371,recall,exp02
+9,Active,Laboratory,gets cold or something,"In this room, all lab tests come back with positive results.",-0.06535092,recall,exp02
+9,Passive,Greenhouse,idk,"In this room, the plants swap places every day.",-0.045603976,recall,exp02
+9,Active,Swimming Pool,idk,"In this room, the water remains still, no matter how much you splash around in it.",-0.041652538,recall,exp02
+9,Active,Gym,weights get heavier everyday even if you dont use em,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.76118004,recall,exp02
+9,Active,Cellar,all liquid is water,"In this room, the bottles are all filled with water.",0.4847718,recall,exp02
+9,Passive,Arcade,idk,"In this room, there is a leaderboard that updates everyday.",-0.014881849,recall,exp02
+9,Active,Attic,idk,"In this room, the boxes are stuck to the floor and cannot be moved.",0.011154566,recall,exp02
+9,Passive,Observatory,idk,"In this room, the telescope only works on a cloudy night.",-0.020680482,recall,exp02
+9,Passive,Library,idk,"In this room, the books are always in the wrong order.",-0.05906359,recall,exp02
+9,Active,Aquarium,idk,"In this room, the fish only come out when the lights are off.",-0.023921546,recall,exp02
+9,Passive,Closet,all the colors change continuiosly?,"In this room, clothes keep piling onto the floor, even when you hang them up.",0.07968841,recall,exp02
+9,Passive,Bathroom,idk,"In this room, when you turn on the water, all the faucets turn on.",-0.112110995,recall,exp02
+9,Passive,Dining Room,idk,"In this room, the food on the table gets cold, but the drinks get hot.",0.006838545,recall,exp02
+9,Active,Rooftop,the panels light up at night,"In this room, the solar panels light up at night.",0.7284838,recall,exp02
+9,Active,Planetarium,you see the constelations from any planet,"In this room, you can see the constellations from different planets.",0.481645,recall,exp02
+9,Passive,Garage,fits an infinite amount of cars,"In this room, the walls will expand to fit any amount of cars.",0.36785728,recall,exp02
+9,Active,Laundry Room,idk,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",-0.01049345,recall,exp02
+9,Active,Art Studio,idk,"In this room, the art supplies keep changing color every day.",-0.031679347,recall,exp02
+9,Passive,Server Room,idk,"In this room, everything shuts down when you try to fix something.",0.015513618,recall,exp02
+9,Passive,Theater,idk,"In this room, a movie plays automatically and you cannot choose it.",0.041849237,recall,exp02
+9,Active,Bowling Alley,idk,"In this room, the bowling balls always roll back to the starting point.",-0.023154374,recall,exp02
+9,Passive,Zen Room,idk,"In this room, no sound can enter the walls.",-0.04999311,recall,exp02
+92,Passive,Library,I forget,"In this room, the books are always in the wrong order.",0.07635174,recall,exp02
+92,Active,Planetarium,all the planets,"In this room, you can see the constellations from different planets.",0.42625684,recall,exp02
+92,Active,Art Studio,the supplies change colors everyday,"In this room, the art supplies keep changing color every day.",0.5663247,recall,exp02
+92,Active,Cellar,all bottles are filled with water,"In this room, the bottles are all filled with water.",0.7836356,recall,exp02
+92,Passive,Patio,bugs can get in anytime but cannot leave,"In this room, no bugs can leave, but they can enter freely.",0.66466653,recall,exp02
+92,Passive,Arcade,forget,"In this room, there is a leaderboard that updates everyday.",-0.043786116,recall,exp02
+92,Active,Swimming Pool,water stays perfectly still,"In this room, the water remains still, no matter how much you splash around in it.",0.49813932,recall,exp02
+92,Passive,Bathroom,,"In this room, when you turn on the water, all the faucets turn on.",-0.03319007,recall,exp02
+92,Passive,Dining Room,,"In this room, the food on the table gets cold, but the drinks get hot.",0.014299902,recall,exp02
+92,Active,Attic,everything is stuck to the floor,"In this room, the boxes are stuck to the floor and cannot be moved.",0.4705223,recall,exp02
+92,Passive,Observatory,planets?,"In this room, the telescope only works on a cloudy night.",0.18865353,recall,exp02
+92,Active,Bedroom,,"In this room, the sun always hits your eyes in the morning.",-2.67E-05,recall,exp02
+92,Passive,Greenhouse,,"In this room, the plants swap places every day.",-0.041501295,recall,exp02
+92,Active,Gym,weights get heavier everyday wether you use it or not,"In this room, the weights get heavier every day, regardless of whether you use them or not.",0.74953854,recall,exp02
+92,Active,Laundry Room,washes dries and folds but not always in that orrder,"In this room, the clothes get washed, dried, and folded on their own, but not always in that order.",0.6481066,recall,exp02
+92,Active,Aquarium,fish only come out when lights are out,"In this room, the fish only come out when the lights are off.",0.79731834,recall,exp02
+92,Passive,Closet,,"In this room, clothes keep piling onto the floor, even when you hang them up.",-0.04133142,recall,exp02
+92,Passive,Theater,plays any movie cannot pick,"In this room, a movie plays automatically and you cannot choose it.",0.5778991,recall,exp02
+92,Active,Laboratory,every test only comes back positive,"In this room, all lab tests come back with positive results.",0.5263915,recall,exp02
+92,Active,Bowling Alley,bowling ball comes back automatically,"In this room, the bowling balls always roll back to the starting point.",0.51913637,recall,exp02
+92,Passive,Zen Room,,"In this room, no sound can enter the walls.",-0.044517808,recall,exp02
+92,Active,Rooftop,lights up at night,"In this room, the solar panels light up at night.",0.51186585,recall,exp02
+92,Passive,Garage,can fit any amount of cars,"In this room, the walls will expand to fit any amount of cars.",0.46522084,recall,exp02
+92,Passive,Server Room,system shuts off when trying to fix it,"In this room, everything shuts down when you try to fix something.",0.50407004,recall,exp02

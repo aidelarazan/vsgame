@@ -1,4 +1,4 @@
-# vsgame
+# Agency broadly enhances memory beyond directly controlled information
 
 ## Project Description
 [PsyArXiv Preprint](https://osf.io/preprints/psyarxiv/paq8e_v1)

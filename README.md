@@ -23,7 +23,6 @@ Retrieval Phase: While Encoding Phase consisted of participants either playing (
  * [docs](./docs/)
  * [scripts](./scripts/)
     * [analyses](./scripts/analyses/)
-    * [experiment](./scripts/experiment/)
  * [README.md](./README.md)
 
 ## Contact

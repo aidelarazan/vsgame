@@ -1,5 +1,5 @@
 # Agency broadly enhances memory beyond directly controlled information
-Tej Bhoga, Zachariah M. Reagh, [Angelique I. Delarazan](https://aidelarazan.github.io/)
+Tej Bhoga, Zachariah M. Reagh, and [Angelique I. Delarazan](https://aidelarazan.github.io/)
 
 ## Project Description
 [PsyArXiv Preprint](https://osf.io/preprints/psyarxiv/paq8e_v1)

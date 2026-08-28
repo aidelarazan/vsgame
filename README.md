@@ -1,4 +1,4 @@
-# Agency broadly enhances memory beyond directly controlled information
+# Agency enhances episodic memory across the broader experience
 Tej Bhoga, Zachariah M. Reagh, and [Angelique I. Delarazan](https://aidelarazan.github.io/)
 
 ## Project Description

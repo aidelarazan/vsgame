@@ -2,7 +2,7 @@
 Tej Bhoga, Zachariah M. Reagh, and [Angelique I. Delarazan](https://aidelarazan.github.io/)
 
 ## Project Description
-[PsyArXiv Preprint](https://osf.io/preprints/psyarxiv/paq8e_v1)
+[PsyArXiv Preprint](https://osf.io/preprints/psyarxiv/5bv37_v1)
 
 [Open Science Framework](https://osf.io/w74jq/overview)
 
